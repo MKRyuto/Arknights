@@ -2,13 +2,8 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 const { exec } = require('child_process');
-const axios = require('axios');
 
-const githubUsername = 'mkryuto';
-const githubRepoName = 'raito';
 const branchName = 'main';
-const githubToken = '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';
-
 
 exports.generate = async (req, res) => {
      // Get Data from https://arknights-poll.net
@@ -162,22 +157,6 @@ exports.generate = async (req, res) => {
                     return;
                 } 
                 console.log(`Changes pushed: ${stdout}`);
-                // Update the repository's 'head' reference using the GitHub API
-                const apiUrl = `https://api.github.com/repos/${githubUsername}/${githubRepoName}/git/refs/heads/${branchName}`;
-                axios.patch(apiUrl, {
-                    sha: stdout.substring(stdout.indexOf('[') + 1, stdout.indexOf(']')),
-                    force: true
-                }, {
-                    headers: {
-                        Authorization: `Bearer ${githubToken}`
-                    }
-                })
-                .then(response => {
-                console.log('Changes pushed to GitHub!');
-                })
-                .catch(error => {
-                console.error(`Error updating repository head: ${error.message}`);
-                });
             });
         });
     });
