@@ -133,34 +133,42 @@ exports.generate = async (req, res) => {
          console.log('Data written to file');
      });
     
-    // Add
-    exec('git add .', (error, stdout, stderr) => {
+    // Step 1: Pull any changes from the remote repository
+    exec(`git pull origin ${branchName}`, (error, stdout, stderr) => {
         if (error) {
-          console.error(`Error adding changes: ${error.message}`);
-          return;
+            console.error(`Error pulling changes: ${error.message}`);
+            return;
         }
-        console.log(`Changes added: ${stdout}`);
+        console.log(`Changes pulled: ${stdout}`);
 
-        // Commit
-        const commitMessage = 'New Update!';
-        exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
+        // Step 2: Add changes
+        exec('git add .', (error, stdout, stderr) => {
             if (error) {
-                console.error(`Error committing changes: ${error.message}`);
+                console.error(`Error adding changes: ${error.message}`);
                 return;
             }
-            console.log(`Changes committed: ${stdout}`);
-            
-            // Step 3: Push changes to the remote repository on GitHub
-            exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
+            console.log(`Changes added: ${stdout}`);
+
+            // Step 3: Commit changes
+            const commitMessage = 'New update!';
+            exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
                 if (error) {
-                    console.error(`Error pushing changes: ${error.message}`);
+                    console.error(`Error committing changes: ${error.message}`);
                     return;
-                } 
-                console.log(`Changes pushed: ${stdout}`);
+                }
+                console.log(`Changes committed: ${stdout}`);
+
+                // Step 4: Push changes to the remote repository on GitHub
+                exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
+                    if (error) {
+                        console.error(`Error pushing changes: ${error.message}`);
+                        return;
+                    } 
+                    console.log(`Changes pushed: ${stdout}`);
+                });
             });
         });
     });
 
-    
-     res.status(200).json({ success: true, message: 'SUCCESS'});
+    res.status(200).json({ success: true, message: 'SUCCESS'});
 };
