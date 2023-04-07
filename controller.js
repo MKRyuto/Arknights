@@ -147,7 +147,7 @@ exports.generate = async (req, res) => {
         console.log(`Changes added: ${stdout}`);
 
         // Commit
-        const commitMessage = 'New Update';
+        const commitMessage = 'New Update!';
         exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
             if (error) {
                 console.error(`Error committing changes: ${error.message}`);
@@ -160,7 +160,7 @@ exports.generate = async (req, res) => {
                 if (error) {
                     console.error(`Error pushing changes: ${error.message}`);
                     return;
-                }
+                } 
                 console.log(`Changes pushed: ${stdout}`);
                 // Update the repository's 'head' reference using the GitHub API
                 const apiUrl = `https://api.github.com/repos/${githubUsername}/${githubRepoName}/git/refs/heads/${branchName}`;
