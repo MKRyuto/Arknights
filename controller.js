@@ -1,6 +1,14 @@
 const fs = require('fs');
 const https = require('https');
 const path = require('path');
+const { exec } = require('child_process');
+const axios = require('axios');
+
+const githubUsername = 'mkryuto';
+const githubRepoName = 'raito';
+const branchName = 'main';
+const githubToken = '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';
+
 
 exports.generate = async (req, res) => {
      // Get Data from https://arknights-poll.net
@@ -129,6 +137,49 @@ exports.generate = async (req, res) => {
          if (err) throw err;
          console.log('Data written to file');
      });
+    
+    // Add
+    exec('git add .', (error, stdout, stderr) => {
+        if (error) {
+          console.error(`Error adding changes: ${error.message}`);
+          return;
+        }
+        console.log(`Changes added: ${stdout}`);
+        // Step 2: Commit changes to the local repository
+        const commitMessage = 'Commit message goes here';
+        exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
+          if (error) {
+            console.error(`Error committing changes: ${error.message}`);
+            return;
+          }
+          console.log(`Changes committed: ${stdout}`);
+          // Step 3: Push changes to the remote repository on GitHub
+          exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
+            if (error) {
+              console.error(`Error pushing changes: ${error.message}`);
+              return;
+            }
+            console.log(`Changes pushed: ${stdout}`);
+            // Update the repository's 'head' reference using the GitHub API
+            const apiUrl = `https://api.github.com/repos/${githubUsername}/${githubRepoName}/git/refs/heads/${branchName}`;
+            axios.patch(apiUrl, {
+              sha: stdout.substring(stdout.indexOf('[') + 1, stdout.indexOf(']')),
+              force: true
+            }, {
+              headers: {
+                Authorization: `Bearer ${githubToken}`
+              }
+            })
+            .then(response => {
+              console.log('Changes pushed to GitHub!');
+            })
+            .catch(error => {
+              console.error(`Error updating repository head: ${error.message}`);
+            });
+          });
+        });
+      });
+
     
      res.status(200).json({ success: true, message: 'SUCCESS'});
 };
