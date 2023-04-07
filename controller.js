@@ -164,7 +164,6 @@ exports.generate = async (req, res) => {
                 console.log(`Changes pushed: ${stdout}`);
                 // Update the repository's 'head' reference using the GitHub API
                 const apiUrl = `https://api.github.com/repos/${githubUsername}/${githubRepoName}/git/refs/heads/${branchName}`;
-                console.log(apiUrl);
                 axios.patch(apiUrl, {
                     sha: stdout.substring(stdout.indexOf('[') + 1, stdout.indexOf(']')),
                     force: true
