@@ -1,7 +1,7 @@
 
 hidden = [".config", "package-lock.json"]
 run = "npm run start"
-entrypoint = "index.js"
+entrypoint = "server.js"
 
 [[hints]]
 regex = "Error \\[ERR_REQUIRE_ESM\\]"
