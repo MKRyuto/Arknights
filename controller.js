@@ -27,7 +27,7 @@ exports.generate = async (req, res) => {
         }
         console.log(`Changes committed: ${stdout}`);
         exec(
-          `git push https://${process.env.token}@github.com/MKRyuto/raito.git`,
+          `git push https://${process.env.token}@github.com/MKRyuto/raito.git ${branchName}`,
           (error, stdout, stderr) => {
             if (error) {
               console.error(`Error pushing changes: ${error.message}`);

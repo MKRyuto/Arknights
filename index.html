@@ -1,148 +1,303 @@
-	<!DOCTYPE html> 
-	<html lang="zxx" class="no-js">
-	<head>
-		<!-- Mobile Specific Meta -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- Author Meta -->
-		<meta name="author" content="MKRyuto">
-		<!-- Meta Description -->
-		<meta name="description" content="Arknights">
-		<!-- Meta Keyword -->
-		<meta name="keywords" content="Arknights">
-		<!-- meta character set -->
-		<meta charset="UTF-8">
-		<!-- Favicon -->
-		<link rel="apple-touch-icon" sizes="180x180" href="public/favicon/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="public/favicon/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="public/favicon/favicon-16x16.png">
-		<link rel="manifest" href="public/favicon/site.webmanifest">
-		<!-- Site Title -->
-		<title>Raito Gamer</title>
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+  <head>
+    <!-- Mobile Specific Meta -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Author Meta -->
+    <meta name="author" content="MKRyuto" />
+    <!-- Meta Description -->
+    <meta name="description" content="Arknights" />
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="Arknights" />
+    <!-- meta character set -->
+    <meta charset="UTF-8" />
+    <!-- Favicon -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="public/favicon/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="public/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="public/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="public/favicon/site.webmanifest" />
+    <!-- Site Title -->
+    <title>Raito Gamer</title>
 
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700"
+      rel="stylesheet"
+    />
+    <!--
 			CSS
 			============================================= -->
-			<link rel="stylesheet" href="public/css/linearicons.css">
-			<link rel="stylesheet" href="public/css/font-awesome.min.css">
-			<link rel="stylesheet" href="public/css/bootstrap.css">
-			<link rel="stylesheet" href="public/css/magnific-popup.css">
-			<link rel="stylesheet" href="public/css/animate.min.css">
-			<link rel="stylesheet" href="public/css/owl.carousel.css">
-			<link rel="stylesheet" href="public/css/main.css">
-			<style>
-				body{
-					overflow: hidden;
-				}
-			</style>
-		</head>
-		<body>
-			<!-- start banner Area -->
-			<section class="banner-area" id="home">
-				<header class="default-header">
-					<nav class="navbar navbar-expand-lg  navbar-light">
-						<div class="container">
-							  <a class="navbar-brand" href="index.html">
-							  	<img src="public/img/logo.png" alt="" height="50">
-							  </a>
-							  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-							    <span class="text-white lnr lnr-menu"></span>
-							  </button>
+    <link rel="stylesheet" href="public/css/linearicons.css" />
+    <link rel="stylesheet" href="public/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="public/css/bootstrap.css" />
+    <link rel="stylesheet" href="public/css/magnific-popup.css" />
+    <link rel="stylesheet" href="public/css/animate.min.css" />
+    <link rel="stylesheet" href="public/css/owl.carousel.css" />
+    <link rel="stylesheet" href="public/css/main.css" />
+    <style>
+      body {
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- start banner Area -->
+    <section class="banner-area" id="home">
+      <header class="default-header">
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <div class="container">
+            <a class="navbar-brand" href="index.html">
+              <img src="public/img/logo.png" alt="" height="50" />
+            </a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="text-white lnr lnr-menu"></span>
+            </button>
 
-							  <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
-							    <ul class="navbar-nav">
-									<li><a href="./index.html">Home</a></li>
-                					<li><a href="pages/survey.html">Survey Results</a></li>
-							    </ul>
-							  </div>						
-						</div>
-					</nav>
-				</header>			
-			</section>
-			<!-- End Header Area -->
+            <div
+              class="collapse navbar-collapse justify-content-end align-items-center"
+              id="navbarSupportedContent"
+            >
+              <ul class="navbar-nav">
+                <li><a href="./index.html">Home</a></li>
+                <li class="dropdown">
+                  <a
+                    class="dropdown-toggle"
+                    href="#"
+                    id="navbardrop"
+                    data-toggle="dropdown"
+                  >
+                    Polling
+                  </a>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="pages/survey.html"
+                      >Survey Results</a
+                    >
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
+    </section>
+    <!-- End Header Area -->
 
-			<section class="default-banner active-blog-slider">
-				<div class="item-slider relative" style="background: url(public/img/background_1.jpg);background-size: cover;">
-					<div class="overlay" style="background: rgba(0,0,0,.7)"></div>
-						<div class="container">
-					  		<div class="row fullscreen justify-content-center align-items-center">
-								<div class="col-md-10 col-12">
-								  	<div class="banner-content text-center">
-										<h4 class="text-white mb-20 text-uppercase">Defend the world, unleash your power - in Arknights.</h4>
-										<h1 class="text-uppercase text-white">Tactical RPG Tower Defense</h1>
-										<p class="text-white">A mobile game that combines strategic deployment of unique Operators with tower defense gameplay to defend against waves of enemies.</p>
-										<div class="d-flex justify-content-center">
-											<a href="https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights">
-												<img src="public/img/google_play.png" alt="Get it on Google Play" style="max-width: 160px; height: 60px; margin-right: 50px; border: 1px solid #fff; border-radius: 5px;">
-								 			</a>
-								  			<a href="https://itunes.apple.com/us/app/arknights/id1464872022">
-												<img src="public/img/app_store.png" alt="Download on the App Store" style="max-width: 160px; height: 60px; border: 1px solid #fff; border-radius: 5px;">
-								  			</a>
-										</div>
-						  			</div>
-								</div>
-					  		</div>
-						</div>
-					</div>
-				</div>
-				<div class="item-slider relative" style="background: url(public/img/background_2.jpg);background-size: cover;">
-					<div class="overlay" style="background: rgba(0,0,0,.7)"></div>
-						<div class="container">
-					  		<div class="row fullscreen justify-content-center align-items-center">
-								<div class="col-md-10 col-12">
-								  	<div class="banner-content text-center">
-										<h4 class="text-white mb-20 text-uppercase">Defend the world, unleash your power - in Arknights.</h4>
-										<h1 class="text-uppercase text-white">Meet the Operators of Arknights.</h1>
-										<p class="text-white">Build your team with a diverse cast of Operators, each with their own abilities and backstories, to take on the toughest challenges.</p>
-										<div class="d-flex justify-content-center">
-											<a href="https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights">
-												<img src="public/img/google_play.png" alt="Get it on Google Play" style="max-width: 160px; height: 60px; margin-right: 50px; border: 1px solid #fff; border-radius: 5px;">
-								 			</a>
-								  			<a href="https://itunes.apple.com/us/app/arknights/id1464872022">
-												<img src="public/img/app_store.png" alt="Download on the App Store" style="max-width: 160px; height: 60px; border: 1px solid #fff; border-radius: 5px;">
-								  			</a>
-										</div>
-						  			</div>
-								</div>
-					  		</div>
-						</div>
-					</div>
-				</div>
-				<div class="item-slider relative" style="background: url(public/img/background_3.jpeg);background-size: cover;">
-					<div class="overlay" style="background: rgba(0,0,0,.7)"></div>
-						<div class="container">
-					  		<div class="row fullscreen justify-content-center align-items-center">
-								<div class="col-md-10 col-12">
-								  	<div class="banner-content text-center">
-										<h4 class="text-white mb-20 text-uppercase">Defend the world, unleash your power - in Arknights.</h4>
-										<h1 class="text-uppercase text-white">The Epic Story of Arknights</h1>
-										<p class="text-white">Uncover the secrets behind Oripathy and the factions vying for control in a dystopian future in this engaging tactical RPG mobile game.</p>
-										<div class="d-flex justify-content-center">
-											<a href="https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights">
-												<img src="public/img/google_play.png" alt="Get it on Google Play" style="max-width: 160px; height: 60px; margin-right: 50px; border: 1px solid #fff; border-radius: 5px;">
-								 			</a>
-								  			<a href="https://itunes.apple.com/us/app/arknights/id1464872022">
-												<img src="public/img/app_store.png" alt="Download on the App Store" style="max-width: 160px; height: 60px; border: 1px solid #fff; border-radius: 5px;">
-								  			</a>
-										</div>
-						  			</div>
-								</div>
-					  		</div>
-						</div>
-					</div>
-				</div>
-			</section>
+    <section class="default-banner active-blog-slider">
+      <div
+        class="item-slider relative"
+        style="
+          background: url(public/img/background_1.jpg);
+          background-size: cover;
+        "
+      >
+        <div class="overlay" style="background: rgba(0, 0, 0, 0.7)"></div>
+        <div class="container">
+          <div class="row fullscreen justify-content-center align-items-center">
+            <div class="col-md-10 col-12">
+              <div class="banner-content text-center">
+                <h4 class="text-white mb-20 text-uppercase">
+                  Defend the world, unleash your power - in Arknights.
+                </h4>
+                <h1 class="text-uppercase text-white">
+                  Tactical RPG Tower Defense
+                </h1>
+                <p class="text-white">
+                  A mobile game that combines strategic deployment of unique
+                  Operators with tower defense gameplay to defend against waves
+                  of enemies.
+                </p>
+                <div class="d-flex justify-content-center">
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights"
+                  >
+                    <img
+                      src="public/img/google_play.png"
+                      alt="Get it on Google Play"
+                      style="
+                        max-width: 160px;
+                        height: 60px;
+                        margin-right: 50px;
+                        border: 1px solid #fff;
+                        border-radius: 5px;
+                      "
+                    />
+                  </a>
+                  <a
+                    href="https://itunes.apple.com/us/app/arknights/id1464872022"
+                  >
+                    <img
+                      src="public/img/app_store.png"
+                      alt="Download on the App Store"
+                      style="
+                        max-width: 160px;
+                        height: 60px;
+                        border: 1px solid #fff;
+                        border-radius: 5px;
+                      "
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-			<script src="public/js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="public/js/popper.min.js"></script>
-			<script src="public/js/vendor/bootstrap.min.js"></script>
-			<script src="public/js/jquery.ajaxchimp.min.js"></script>
-			<script src="public/js/jquery.magnific-popup.min.js"></script>	
-			<script src="public/js/owl.carousel.min.js"></script>			
-			<script src="public/js/jquery.sticky.js"></script>
-			<script src="public/js/slick.js"></script>
-			<script src="public/js/jquery.counterup.min.js"></script>
-			<script src="public/js/waypoints.min.js"></script>		
-			<script src="public/js/main.js"></script>	
-		</body>
-	</html>
+      <div
+        class="item-slider relative"
+        style="
+          background: url(public/img/background_2.jpg);
+          background-size: cover;
+        "
+      >
+        <div class="overlay" style="background: rgba(0, 0, 0, 0.7)"></div>
+        <div class="container">
+          <div class="row fullscreen justify-content-center align-items-center">
+            <div class="col-md-10 col-12">
+              <div class="banner-content text-center">
+                <h4 class="text-white mb-20 text-uppercase">
+                  Defend the world, unleash your power - in Arknights.
+                </h4>
+                <h1 class="text-uppercase text-white">
+                  Meet the Operators of Arknights.
+                </h1>
+                <p class="text-white">
+                  Build your team with a diverse cast of Operators, each with
+                  their own abilities and backstories, to take on the toughest
+                  challenges.
+                </p>
+                <div class="d-flex justify-content-center">
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights"
+                  >
+                    <img
+                      src="public/img/google_play.png"
+                      alt="Get it on Google Play"
+                      style="
+                        max-width: 160px;
+                        height: 60px;
+                        margin-right: 50px;
+                        border: 1px solid #fff;
+                        border-radius: 5px;
+                      "
+                    />
+                  </a>
+                  <a
+                    href="https://itunes.apple.com/us/app/arknights/id1464872022"
+                  >
+                    <img
+                      src="public/img/app_store.png"
+                      alt="Download on the App Store"
+                      style="
+                        max-width: 160px;
+                        height: 60px;
+                        border: 1px solid #fff;
+                        border-radius: 5px;
+                      "
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div
+        class="item-slider relative"
+        style="
+          background: url(public/img/background_3.jpeg);
+          background-size: cover;
+        "
+      >
+        <div class="overlay" style="background: rgba(0, 0, 0, 0.7)"></div>
+        <div class="container">
+          <div class="row fullscreen justify-content-center align-items-center">
+            <div class="col-md-10 col-12">
+              <div class="banner-content text-center">
+                <h4 class="text-white mb-20 text-uppercase">
+                  Defend the world, unleash your power - in Arknights.
+                </h4>
+                <h1 class="text-uppercase text-white">
+                  The Epic Story of Arknights
+                </h1>
+                <p class="text-white">
+                  Uncover the secrets behind Oripathy and the factions vying for
+                  control in a dystopian future in this engaging tactical RPG
+                  mobile game.
+                </p>
+                <div class="d-flex justify-content-center">
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights"
+                  >
+                    <img
+                      src="public/img/google_play.png"
+                      alt="Get it on Google Play"
+                      style="
+                        max-width: 160px;
+                        height: 60px;
+                        margin-right: 50px;
+                        border: 1px solid #fff;
+                        border-radius: 5px;
+                      "
+                    />
+                  </a>
+                  <a
+                    href="https://itunes.apple.com/us/app/arknights/id1464872022"
+                  >
+                    <img
+                      src="public/img/app_store.png"
+                      alt="Download on the App Store"
+                      style="
+                        max-width: 160px;
+                        height: 60px;
+                        border: 1px solid #fff;
+                        border-radius: 5px;
+                      "
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="public/js/vendor/jquery-2.2.4.min.js"></script>
+    <script src="public/js/popper.min.js"></script>
+    <script src="public/js/vendor/bootstrap.min.js"></script>
+    <script src="public/js/jquery.ajaxchimp.min.js"></script>
+    <script src="public/js/jquery.magnific-popup.min.js"></script>
+    <script src="public/js/owl.carousel.min.js"></script>
+    <script src="public/js/jquery.sticky.js"></script>
+    <script src="public/js/slick.js"></script>
+    <script src="public/js/jquery.counterup.min.js"></script>
+    <script src="public/js/waypoints.min.js"></script>
+    <script src="public/js/main.js"></script>
+  </body>
+</html>

@@ -93,6 +93,17 @@
         border-left: 2px solid #ffc107;
         border-right: 2px solid #ffc107;
       }
+
+      .border-profession {
+        border: 3px solid black;
+        border-radius: 10px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+      }
+
+      .border-profession:hover,
+      .border-profession.active {
+        background-color: rgb(231, 210, 23);
+      }
     </style>
   </head>
   <body>
@@ -123,7 +134,21 @@
             >
               <ul class="navbar-nav">
                 <li><a href="../index.html">Home</a></li>
-                <li><a href="./survey.html">Survey Results</a></li>
+                <li class="dropdown">
+                  <a
+                    class="dropdown-toggle"
+                    href="#"
+                    id="navbardrop"
+                    data-toggle="dropdown"
+                  >
+                    Polling
+                  </a>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="./survey.html"
+                      >Survey Results</a
+                    >
+                  </div>
+                </li>
               </ul>
             </div>
           </div>
@@ -149,7 +174,8 @@
                 <h1 class="text-uppercase text-white">Survey Result</h1>
                 <p class="text-white">
                   The survey results contain information about Updated
-                  Operators, Skill Mastery, and Level Modules.
+                  Operators, Skill Mastery, and Level Modules. Data from
+                  "arknights-poll.net"
                 </p>
               </div>
             </div>
@@ -159,9 +185,155 @@
     </section>
     <!-- End Sample Area -->
 
-    <!-- Start Align Area -->
+    <div class="container mt-5" style="max-width: 80%">
+      <div class="row justify-content-around">
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#PIONEER">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_vanguard_large.png"
+              alt="PIONEER"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#WARRIOR">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_guard_large.png"
+              alt="WARRIOR"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#TANK">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_defender_large.png"
+              alt="TANK"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#SNIPER">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_sniper_large.png"
+              alt="SNIPER"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#CASTER">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_caster_large.png"
+              alt="CASTER"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#MEDIC">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_medic_large.png"
+              alt="MEDIC"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#SUPPORT">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_supporter_large.png"
+              alt="SUPPORT"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center m-2 border-profession profession"
+        >
+          <a href="#SPECIAL">
+            <img
+              class="h-100"
+              style="
+                max-width: 50px;
+                filter: invert(1);
+                -webkit-filter: invert(1);
+                object-fit: cover;
+              "
+              src="../public/img/icon_profession_specialist_large.png"
+              alt="SPECIAL"
+            />
+          </a>
+        </div>
+        <div
+          class="col-4 col-md-1 text-center d-flex align-items-center justify-content-center m-2 border-profession profession"
+        >
+          <a href="#ALL">
+            <h1 class="m-auto">ALL</h1>
+          </a>
+        </div>
+      </div>
+    </div>
+
     <div id="char-info" class="whole-wrap"></div>
-    <!-- End Align Area -->
 
     <!-- start footer Area -->
     <footer class="footer-area section-gap">
@@ -171,8 +343,8 @@
             <div class="single-footer-widget">
               <h6>About Us</h6>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore dolore magna aliqua.
+                Exploring the world of gaming and technology, one post at a time
+                - welcome to Raito, where MKRyuto shares it all!.
               </p>
 
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -181,66 +353,25 @@
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                All rights reserved | This template is made with
-                <i class="fa fa-heart-o" aria-hidden="true"></i> by
-                <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                All rights reserved
               </p>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </div>
           </div>
           <div class="col-lg-5 col-md-6 col-sm-6">
-            <div class="single-footer-widget">
-              <h6>Newsletter</h6>
-              <p>Stay update with our latest</p>
-              <div class="" id="mc_embed_signup">
-                <form
-                  target="_blank"
-                  novalidate="true"
-                  action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-                  method="get"
-                  class="form-inline"
-                >
-                  <div class="d-flex flex-row">
-                    <input
-                      class="form-control"
-                      name="EMAIL"
-                      placeholder="Enter Email"
-                      onfocus="this.placeholder = ''"
-                      onblur="this.placeholder = 'Enter Email '"
-                      required=""
-                      type="email"
-                    />
-
-                    <button class="click-btn btn btn-default">
-                      <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-                    </button>
-                    <div style="position: absolute; left: -5000px">
-                      <input
-                        name="b_36c4fd991d266f23781ded980_aefe40901a"
-                        tabindex="-1"
-                        value=""
-                        type="text"
-                      />
-                    </div>
-
-                    <!-- <div class="col-lg-4 col-md-4">
-                                            <button class="bb-btn btn"><span class="lnr lnr-arrow-right"></span></button>
-                                        </div>  -->
-                  </div>
-                  <div class="info"></div>
-                </form>
-              </div>
-            </div>
+            <!--  -->
           </div>
           <div class="col-lg-2 col-md-6 col-sm-6 social-widget">
             <div class="single-footer-widget">
               <h6>Follow Us</h6>
               <p>Let us be social</p>
               <div class="footer-social d-flex align-items-center">
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-dribbble"></i></a>
-                <a href="#"><i class="fa fa-behance"></i></a>
+                <a href="https://www.facebook.com/raito.gamer"
+                  ><i class="fa fa-facebook"></i
+                ></a>
+                <a href="https://twitter.com/MkRyuto"
+                  ><i class="fa fa-twitter"></i
+                ></a>
               </div>
             </div>
           </div>
@@ -258,173 +389,6 @@
     <script src="../public/js/parallax.min.js"></script>
     <script src="../public/js/jquery.magnific-popup.min.js"></script>
     <script src="../public/js/page.js"></script>
-
-    <script>
-      $(document).ready(function () {
-        $.getJSON("../public/json/getDataB6.json", function (data) {
-          $.each(data, function (index, item) {
-            var element = `
-                <div class="container">
-                    <div class="section-top-border">
-                    <div class="container mt-5 mb-5">
-                        <div class="row no-gutters">
-                        <div class="col-md-3 col-lg-3 image-card">
-                          <div style="background: rgba(0, 0, 0, 0.8)">
-                            <img
-                            src="../public/arknights/${item.image}"
-                            style="width: 100%; height: 100%; object-fit:cover;"
-                            />
-                        </div>
-                        </div>
-                        <div class="col-md-9 col-lg-9">
-                            <div class="d-flex flex-column">
-                                <div class="text-center p-3 bg-warning">
-                                    <h3 class="display-5 text-white">${item.cn_name} (${item.en_name})</h3>
-                                </div>
-                                <div class="text-center pt-4 bg-black text-white">
-                                    <h6>Total Sample : ${item.number_sample}</h6>
-                                </div>
-                                <div class="d-flex flex-row">
-                                    <div class="p-3 pt-3 bg-light text-center skill-block">
-                                        <h4>${item.holding_rate} %</h4>
-                                        <h6 style="color:#ffc107 ;!important">Ownership</h6>
-                                    </div>
-                                    <div class="p-3 bg-warning text-center skill-block">
-                                        <h4>${item.non_elite} %</h4>
-                                        <h6>Non Elite</h6>
-                                    </div>
-                                    <div class="p-3 bg-light text-center skill-block">
-                                        <h4>${item.elite_one} %</h4>
-                                        <h6 style="color:#ffc107 ;!important">Elite 1</h6>
-                                    </div>
-                                    <div class="p-3 bg-warning text-center skill-block">
-                                        <h4>${item.elite_two} %</h4>
-                                        <h6>Elite 2</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="border-bottom-card">
-                        <div class="progress-table-wrap">
-                        <div class="progress-table">
-                            <div class="table-head">
-                                <div class="image-table-char">Image</div>
-                                <div class="cn-name-table-char">CN Name</div>
-                                <div class="en-name-table-char">EN Name</div>
-                                <div class="percentage">Percentages</div>
-                            </div>
-                            `;
-            $.each(item.skills, function (index, skill) {
-              element =
-                element +
-                `  
-                            <div class="table-row">
-                                <div class="image-table-char">
-                                  <div class="d-flex flex-column align-items-center">
-                                    <img class="mx-auto" src="../public/arknights/${skill.image}" alt="skill_${skill.type}" height="50px">
-                                    <span class="mt-1">Skill ${skill.type}</span>
-                                  </div>
-                                </div>
-                                <div class="cn-name-table-char">${skill.cn_name}</div>
-                                <div class="en-name-table-char">${skill.en_name}</div>
-                                <div class="percentage">
-                                  <div class="d-flex flex-column align-items-center w-100">
-                                      <div class="progress w-100">
-                                          <div class="progress-bar color-1" style="opacity:0.1;width:${skill.unspecialized}%"></div>
-                                          <div class="progress-bar color-1" style="opacity:0.4;width:${skill.specialization_one}%"></div>
-                                          <div class="progress-bar color-1" style="opacity:0.7;width:${skill.specialization_two}%"></div>
-                                          <div class="progress-bar color-1" style="opacity:1;width:${skill.specialization_three}%"></div>
-                                      </div>
-                                        <div class="text-center d-flex align-items-center w-100" style="font-size:0.7em;overflow:auto">
-                                        <div class="mx-1" style="min-width:fit-content;width:${skill.unspecialized}%">
-                                          Unspecialized
-                                          <br>
-                                          ${skill.unspecialized}%
-                                        </div>
-                                        <div class="mx-1" style="min-width:fit-content;width:${skill.specialization_one}%">
-                                          Mastery 1
-                                          <br>
-                                          ${skill.specialization_one}%
-                                        </div>
-                                        <div class="mx-1" style="min-width:fit-content;width:${skill.specialization_two}%">
-                                          Mastery 2
-                                          <br>
-                                          ${skill.specialization_three}%
-                                        </div><div class="mx-1" style="min-width:fit-content;width:${skill.specialization_three}%">
-                                          Mastery 3
-                                          <br>
-                                          ${skill.specialization_three}%
-                                        </div>
-                                      </div>
-                                  </div>
-                                </div>
-                            </div>
-                            `;
-            });
-
-            $.each(item.modules, function (index, module) {
-              element =
-                element +
-                `  
-                            <div class="table-row">
-                                <div class="image-table-char">
-                                  <div class="d-flex flex-column align-items-center">
-                                    <img class="mx-auto" src="../public/arknights/${module.image}" alt="module_${module.type}" height="50px">
-                                    <span class="mt-1">Module ${module.type}</span>
-                                  </div>
-                                </div>
-                                <div class="cn-name-table-char">${module.cn_name}</div>
-                                <div class="en-name-table-char">${module.en_name}</div>
-                                <div class="percentage">
-                                  <div class="d-flex flex-column align-items-center w-100">
-                                      <div class="progress w-100">
-                                          <div class="progress-bar color-3" style="opacity:0.1;width:${module.unlocked}%"></div>
-                                          <div class="progress-bar color-3" style="opacity:0.4;width:${module.level_one}%"></div>
-                                          <div class="progress-bar color-3" style="opacity:0.7;width:${module.level_two}%"></div>
-                                          <div class="progress-bar color-3" style="opacity:1;width:${module.level_three}%"></div>
-                                      </div>
-                                        <div class="text-center d-flex align-items-center w-100" style="font-size:0.7em;overflow:auto">
-                                        <div class="mx-1" style="min-width:fit-content;width:${module.unlocked}%">
-                                          Unlocked
-                                          <br>
-                                          ${module.unlocked}%
-                                        </div>
-                                        <div class="mx-1" style="min-width:fit-content;width:${module.level_one}%">
-                                          Level 1
-                                          <br>
-                                          ${module.level_one}%
-                                        </div>
-                                        <div class="mx-1" style="min-width:fit-content;width:${module.level_two}%">
-                                          Level 2
-                                          <br>
-                                          ${module.level_two}%
-                                        </div><div class="mx-1" style="min-width:fit-content;width:${module.level_three}%">
-                                          Level 3
-                                          <br>
-                                          ${module.level_three}%
-                                        </div>
-                                      </div>
-                                  </div>
-                            </div>
-                            `;
-            });
-
-            element =
-              element +
-              `
-                        </div>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                `;
-
-            $("#char-info").append(element);
-          });
-        });
-      });
-    </script>
+    <script src="../public/js/survey.js"></script>
   </body>
 </html>

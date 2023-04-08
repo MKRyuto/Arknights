@@ -2019,9 +2019,9 @@ h6 {
 .counter-left h2,
 .footer-social a:hover i,
 .single-footer-widget .bb-btn {
-  background: -moz-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background: -webkit-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background: -ms-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
+  background: -moz-linear-gradient(0deg, #bebc15 0%, #d4e20c 100%);
+  background: -webkit-linear-gradient(0deg, #bebc15 0%, #d4e20c 100%);
+  background: -ms-linear-gradient(0deg, #bebc15 0%, #d4e20c 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
