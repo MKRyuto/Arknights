@@ -411,9 +411,9 @@
         "cn_name": "“同熔”",
         "en_name": "-",
         "image": "uniequip_002_ifrit.png",
-        "unlocked": "87.10",
-        "level_one": "10.36",
-        "level_two": "0.85",
+        "unlocked": "87.13",
+        "level_one": "10.34",
+        "level_two": "0.84",
         "level_three": "1.69"
       }
     ]
@@ -1606,8 +1606,8 @@
         "image": "skchr_mudrok_3.png",
         "unspecialized": "45.58",
         "specialization_one": "3.77",
-        "specialization_two": "2.22",
-        "specialization_three": "48.42"
+        "specialization_two": "2.17",
+        "specialization_three": "48.47"
       }
     ],
     "modules": []
@@ -2131,8 +2131,8 @@
         "cn_name": "仿生海龙改型",
         "en_name": "-",
         "image": "uniequip_002_weedy.png",
-        "unlocked": "88.19",
-        "level_one": "8.54",
+        "unlocked": "87.97",
+        "level_one": "8.77",
         "level_two": "0.50",
         "level_three": "2.76"
       }
@@ -3110,10 +3110,10 @@
         "cn_name": "生存的渴望",
         "en_name": "The Thirst to Survive",
         "image": "skchr_ghost2_2.png",
-        "unspecialized": "32.07",
+        "unspecialized": "32.01",
         "specialization_one": "3.28",
         "specialization_two": "3.79",
-        "specialization_three": "60.86"
+        "specialization_three": "60.92"
       },
       {
         "id": "char_1023_ghost2_skill_3",
@@ -3266,11 +3266,11 @@
     "cn_name": "麒麟X夜刀",
     "en_name": "-",
     "image": "char_1029_yato2.png",
-    "number_sample": 507,
-    "holding_rate": "90.93",
-    "non_elite": "3.04",
-    "elite_one": "5.86",
-    "elite_two": "91.11",
+    "number_sample": 508,
+    "holding_rate": "90.94",
+    "non_elite": "3.03",
+    "elite_one": "5.84",
+    "elite_two": "91.13",
     "skills": [
       {
         "id": "char_1029_yato2_skill_1",
@@ -3278,10 +3278,10 @@
         "cn_name": "鬼人化",
         "en_name": "-",
         "image": "skchr_yato2_1.png",
-        "unspecialized": "84.52",
+        "unspecialized": "84.56",
         "specialization_one": "1.19",
         "specialization_two": "1.43",
-        "specialization_three": "12.86"
+        "specialization_three": "12.83"
       },
       {
         "id": "char_1029_yato2_skill_2",
@@ -3289,10 +3289,10 @@
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
-        "unspecialized": "29.76",
-        "specialization_one": "1.90",
-        "specialization_two": "4.05",
-        "specialization_three": "64.29"
+        "unspecialized": "29.69",
+        "specialization_one": "2.14",
+        "specialization_two": "4.04",
+        "specialization_three": "64.13"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3300,10 +3300,10 @@
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.67",
+        "unspecialized": "36.58",
         "specialization_one": "2.38",
-        "specialization_two": "1.67",
-        "specialization_three": "59.29"
+        "specialization_two": "1.66",
+        "specialization_three": "59.38"
       }
     ],
     "modules": [
@@ -3313,10 +3313,10 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "34.52",
-        "level_one": "42.14",
-        "level_two": "9.05",
-        "level_three": "14.29"
+        "unlocked": "34.68",
+        "level_one": "42.04",
+        "level_two": "9.03",
+        "level_three": "14.25"
       }
     ]
   },
@@ -3878,8 +3878,8 @@
     "number_sample": 2498,
     "holding_rate": "45.44",
     "non_elite": "10.57",
-    "elite_one": "4.76",
-    "elite_two": "84.67",
+    "elite_one": "4.67",
+    "elite_two": "84.76",
     "skills": [
       {
         "id": "char_4048_doroth_skill_1",
@@ -3890,7 +3890,7 @@
         "unspecialized": "97.19",
         "specialization_one": "0.62",
         "specialization_two": "0.00",
-        "specialization_three": "2.19"
+        "specialization_three": "2.18"
       },
       {
         "id": "char_4048_doroth_skill_2",
@@ -3898,10 +3898,10 @@
         "cn_name": "流沙区域生成",
         "en_name": "Quicksand Generation",
         "image": "skchr_doroth_2.png",
-        "unspecialized": "67.22",
+        "unspecialized": "67.26",
         "specialization_one": "1.87",
         "specialization_two": "2.08",
-        "specialization_three": "28.82"
+        "specialization_three": "28.79"
       },
       {
         "id": "char_4048_doroth_skill_3",
@@ -3909,10 +3909,10 @@
         "cn_name": "高速共振排障",
         "en_name": "High-speed Resonating Troubleshooter",
         "image": "skchr_doroth_3.png",
-        "unspecialized": "45.58",
+        "unspecialized": "45.63",
         "specialization_one": "3.43",
         "specialization_two": "2.60",
-        "specialization_three": "48.39"
+        "specialization_three": "48.34"
       }
     ],
     "modules": []
