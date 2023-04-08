@@ -1153,10 +1153,10 @@
         "cn_name": "高效制冷模块",
         "en_name": "High-Efficiency Freezing Module",
         "image": "skchr_mgllan_1.png",
-        "unspecialized": "74.45",
+        "unspecialized": "74.38",
         "specialization_one": "3.68",
         "specialization_two": "1.06",
-        "specialization_three": "20.81"
+        "specialization_three": "20.88"
       },
       {
         "id": "char_248_mgllan_skill_2",
@@ -2178,10 +2178,10 @@
         "cn_name": "钢铁意志",
         "en_name": "Iron Will",
         "image": "skchr_zumama_3.png",
-        "unspecialized": "54.55",
+        "unspecialized": "54.48",
         "specialization_one": "3.48",
         "specialization_two": "2.29",
-        "specialization_three": "39.67"
+        "specialization_three": "39.75"
       }
     ],
     "modules": [
@@ -2298,10 +2298,10 @@
         "cn_name": "慑敌辉光",
         "en_name": "Deterring Radiance",
         "image": "skchr_blemsh_2.png",
-        "unspecialized": "61.46",
+        "unspecialized": "61.39",
         "specialization_one": "3.97",
         "specialization_two": "3.05",
-        "specialization_three": "31.52"
+        "specialization_three": "31.59"
       },
       {
         "id": "char_423_blemsh_skill_3",
@@ -2417,10 +2417,10 @@
         "cn_name": "领袖的尊严",
         "en_name": "-",
         "image": "skchr_vigil_3.png",
-        "unspecialized": "90.67",
+        "unspecialized": "90.57",
         "specialization_one": "0.49",
         "specialization_two": "0.79",
-        "specialization_three": "8.06"
+        "specialization_three": "8.15"
       }
     ],
     "modules": []
@@ -2717,9 +2717,9 @@
         "en_name": "Waterless Parting of the Great Ocean",
         "image": "skchr_glady_1.png",
         "unspecialized": "54.78",
-        "specialization_one": "8.63",
+        "specialization_one": "8.57",
         "specialization_two": "1.15",
-        "specialization_three": "35.44"
+        "specialization_three": "35.49"
       },
       {
         "id": "char_474_glady_skill_2",
@@ -3349,10 +3349,10 @@
         "cn_name": "“很热的刀”",
         "en_name": "'Really Hot Knives'",
         "image": "skchr_cerber_2.png",
-        "unspecialized": "29.00",
+        "unspecialized": "28.95",
         "specialization_one": "10.66",
         "specialization_two": "2.91",
-        "specialization_three": "57.44"
+        "specialization_three": "57.49"
       },
       {
         "id": "char_2013_cerber_skill_3",
@@ -3909,10 +3909,10 @@
         "cn_name": "高速共振排障",
         "en_name": "High-speed Resonating Troubleshooter",
         "image": "skchr_doroth_3.png",
-        "unspecialized": "45.63",
+        "unspecialized": "45.53",
         "specialization_one": "3.43",
         "specialization_two": "2.60",
-        "specialization_three": "48.34"
+        "specialization_three": "48.44"
       }
     ],
     "modules": []
@@ -4065,10 +4065,10 @@
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
-        "unspecialized": "49.93",
+        "unspecialized": "49.85",
         "specialization_one": "4.84",
         "specialization_two": "2.13",
-        "specialization_three": "43.11"
+        "specialization_three": "43.18"
       }
     ],
     "modules": []
@@ -4080,10 +4080,10 @@
     "en_name": "-",
     "image": "char_4072_ironmn.png",
     "number_sample": 2492,
-    "holding_rate": "37.88",
-    "non_elite": "16.42",
-    "elite_one": "9.53",
-    "elite_two": "74.05",
+    "holding_rate": "37.92",
+    "non_elite": "16.40",
+    "elite_one": "9.52",
+    "elite_two": "74.07",
     "skills": [
       {
         "id": "char_4072_ironmn_skill_1",
@@ -4091,10 +4091,10 @@
         "cn_name": "极致火力",
         "en_name": "-",
         "image": "skchr_ironmn_1.png",
-        "unspecialized": "78.25",
-        "specialization_one": "1.72",
+        "unspecialized": "78.29",
+        "specialization_one": "1.71",
         "specialization_two": "1.14",
-        "specialization_three": "18.88"
+        "specialization_three": "18.86"
       },
       {
         "id": "char_4072_ironmn_skill_2",
@@ -4102,10 +4102,10 @@
         "cn_name": "高效补给",
         "en_name": "-",
         "image": "skchr_ironmn_2.png",
-        "unspecialized": "80.69",
+        "unspecialized": "80.71",
         "specialization_one": "4.86",
         "specialization_two": "1.00",
-        "specialization_three": "13.45"
+        "specialization_three": "13.43"
       },
       {
         "id": "char_4072_ironmn_skill_3",
@@ -4113,10 +4113,10 @@
         "cn_name": "铁钳号·原型机",
         "en_name": "-",
         "image": "skchr_ironmn_3.png",
-        "unspecialized": "71.53",
-        "specialization_one": "4.01",
-        "specialization_two": "1.72",
-        "specialization_three": "22.75"
+        "unspecialized": "71.57",
+        "specialization_one": "4.00",
+        "specialization_two": "1.71",
+        "specialization_three": "22.71"
       }
     ],
     "modules": []
