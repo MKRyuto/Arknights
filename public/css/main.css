@@ -1123,7 +1123,7 @@ h6 {
 }
 
 .progress-table .cn-name-table-char {
-  width: 28.74%;
+  width: 18.74%;
 }
 
 .progress-table .en-name-table-char {
@@ -1131,12 +1131,8 @@ h6 {
 }
 
 .progress-table .percentage {
-  width: 30.36%;
+  width: 50.36%;
   padding-right: 50px;
-}
-
-.progress-table .value-table-char {
-  width: 10%;
 }
 
 .progress-table .table-head {

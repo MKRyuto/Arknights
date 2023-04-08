@@ -1,43 +1,8 @@
 const fs = require("fs");
 const https = require("https");
 const path = require("path");
-const { exec } = require("child_process");
 
-require("dotenv").config();
-const branchName = "main";
-
-exports.generate = async (req, res) => {
-  // Step 1: Pull any changes from the remote repository
-  exec(`git pull origin ${branchName}`, async (error, stdout, stderr) => {
-    if (error) {
-      console.error(`Error pulling changes: ${error.message}`);
-    }
-    console.log(`Changes pulled: ${stdout}`);
-    // Step 2: Add changes
-    exec("git add .", (error, stdout, stderr) => {
-      if (error) {
-        console.error(`Error adding changes: ${error.message}`);
-      }
-      console.log(`Changes added: ${stdout}`);
-      // Step 3: Commit changes
-      const commitMessage = "New update!";
-      exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
-        if (error) {
-          console.error(`Error committing changes: ${error.message}`);
-        }
-        console.log(`Changes committed: ${stdout}`);
-        exec(
-          `git push https://${process.env.token}@github.com/MKRyuto/raito.git`,
-          (error, stdout, stderr) => {
-            if (error) {
-              console.error(`Error pushing changes: ${error.message}`);
-            }
-            console.log(`Changes pushed: ${stdout}`);
-          }
-        );
-      });
-    });
-  });
+(async () => {
   // Get Data from https://arknights-poll.net
   console.log("Get Data arknights-poll.net ...");
   const requestOpB6Data = await fetch(
@@ -220,5 +185,4 @@ exports.generate = async (req, res) => {
       console.log("Data written to file");
     }
   );
-  res.status(200).json({ success: true, message: "SUCCESS" });
-};
+})();
