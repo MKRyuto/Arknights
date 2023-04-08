@@ -3,6 +3,7 @@ const https = require("https");
 const path = require("path");
 const { exec } = require("child_process");
 
+require("dotenv").config();
 const branchName = "main";
 
 exports.generate = async (req, res) => {
@@ -12,14 +13,12 @@ exports.generate = async (req, res) => {
       console.error(`Error pulling changes: ${error.message}`);
     }
     console.log(`Changes pulled: ${stdout}`);
-
     // Step 2: Add changes
     exec("git add .", (error, stdout, stderr) => {
       if (error) {
         console.error(`Error adding changes: ${error.message}`);
       }
       console.log(`Changes added: ${stdout}`);
-
       // Step 3: Commit changes
       const commitMessage = "New update!";
       exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
@@ -27,61 +26,54 @@ exports.generate = async (req, res) => {
           console.error(`Error committing changes: ${error.message}`);
         }
         console.log(`Changes committed: ${stdout}`);
-
-        exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
-          if (error) {
-            console.error(`Error pushing changes: ${error.message}`);
+        exec(
+          `git push https://${process.env.token}@github.com/MKRyuto/raito.git`,
+          (error, stdout, stderr) => {
+            if (error) {
+              console.error(`Error pushing changes: ${error.message}`);
+            }
+            console.log(`Changes pushed: ${stdout}`);
           }
-          console.log(`Changes pushed: ${stdout}`);
-        });
+        );
       });
     });
   });
-
   // Get Data from https://arknights-poll.net
   console.log("Get Data arknights-poll.net ...");
   const requestOpB6Data = await fetch(
     "https://arknights-poll.net/data/base.json"
   );
   const opB6Data = await requestOpB6Data.json();
-
   const requestOpB6DetailData = await fetch(
     "https://arknights-poll.net/data/stats.json"
   );
   const opB6DetailData = await requestOpB6DetailData.json();
-
   // Get Data from https://aceship.github.io
   console.log("Get Data aceship.github.io ...");
   const responseCharCnInfo = await fetch(
     "https://aceship.github.io/AN-EN-Tags/json/gamedata/zh_CN/gamedata/excel/character_table.json"
   );
   const CharCnInfo = await responseCharCnInfo.json();
-
   const responseCharEnInfo = await fetch(
     "https://aceship.github.io/AN-EN-Tags/json/gamedata/en_US/gamedata/excel/character_table.json"
   );
   const CharEnInfo = await responseCharEnInfo.json();
-
   const responseSkillCnInfo = await fetch(
     "https://aceship.github.io/AN-EN-Tags/json/gamedata/zh_CN/gamedata/excel/skill_table.json"
   );
   const skillCnInfoData = await responseSkillCnInfo.json();
-
   const responseSkillEnInfo = await fetch(
     "https://aceship.github.io/AN-EN-Tags/json/gamedata/en_US/gamedata/excel/skill_table.json"
   );
   const skillEnInfoData = await responseSkillEnInfo.json();
-
   const responseModuleCnInfo = await fetch(
     "https://aceship.github.io/AN-EN-Tags/json/gamedata/zh_CN/gamedata/excel/uniequip_table.json"
   );
   const moduleCnInfoData = await responseModuleCnInfo.json();
-
   const responseModuleEnInfo = await fetch(
     "https://aceship.github.io/AN-EN-Tags/json/gamedata/en_US/gamedata/excel/uniequip_table.json"
   );
   const moduleEnInfoData = await responseModuleEnInfo.json();
-
   function upgradePoll(stats) {
     total_owner =
       stats.selections[1] + stats.selections[2] + stats.selections[3];
@@ -92,7 +84,6 @@ exports.generate = async (req, res) => {
       elite_two: `${((stats.selections[3] / total_owner) * 100).toFixed(2)}`,
     };
   }
-
   function skillPoll(stats) {
     return {
       unspecialized: `${((stats.selections[0] / stats.total) * 100).toFixed(
@@ -112,7 +103,6 @@ exports.generate = async (req, res) => {
       ).toFixed(2)}`,
     };
   }
-
   function modulePoll(stats) {
     return {
       unlocked: `${((stats.selections[0] / stats.total) * 100).toFixed(2)}`,
@@ -121,18 +111,14 @@ exports.generate = async (req, res) => {
       level_three: `${((stats.selections[3] / stats.total) * 100).toFixed(2)}`,
     };
   }
-
   function upload(url, fileName) {
     const folder = "./public/arknights";
     const filePath = path.join(folder, fileName);
-
     if (!fs.existsSync(folder)) {
       fs.mkdirSync(folder, { recursive: true });
     }
-
     if (!fs.existsSync(filePath)) {
       const file = fs.createWriteStream(`${folder}/${fileName}`);
-
       https
         .get(url, (response) => {
           response.pipe(file);
@@ -145,10 +131,8 @@ exports.generate = async (req, res) => {
           console.log("Error downloading image:", error);
         });
     }
-
     return `${fileName}`;
   }
-
   const mappedOpB6Data = opB6Data.map((item) => {
     const upgradeData = upgradePoll(opB6DetailData.stats[item.id]);
     const indexCharInfo = Object.keys(CharCnInfo).find(
@@ -157,7 +141,7 @@ exports.generate = async (req, res) => {
     return Object.assign(
       {
         id: item.id,
-        profession: CharCnInfo[indexCharInfo]["profession"],
+        // profession: CharCnInfo[indexCharInfo]["profession"],
         cn_name: item.name,
         en_name:
           typeof CharEnInfo[indexCharInfo] === "undefined"
@@ -224,12 +208,10 @@ exports.generate = async (req, res) => {
       }
     );
   });
-
   // Write the mapped data to a file
   if (!fs.existsSync("./public/json")) {
     fs.mkdirSync("./public/json", { recursive: true });
   }
-
   fs.writeFile(
     "./public/json/getDataB6.json",
     JSON.stringify(mappedOpB6Data, null, 2),
@@ -238,6 +220,5 @@ exports.generate = async (req, res) => {
       console.log("Data written to file");
     }
   );
-
   res.status(200).json({ success: true, message: "SUCCESS" });
 };
