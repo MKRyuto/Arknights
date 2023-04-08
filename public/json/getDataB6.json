@@ -12,7 +12,7 @@
     "skills": [
       {
         "id": "char_003_kalts_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "指令：结构加固",
         "en_name": "Command: Structural Fortification",
         "image": "skchr_kalts_1.png",
@@ -23,7 +23,7 @@
       },
       {
         "id": "char_003_kalts_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "指令：战术协同",
         "en_name": "Command: Tactical Coordination",
         "image": "skchr_kalts_2.png",
@@ -34,7 +34,7 @@
       },
       {
         "id": "char_003_kalts_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "指令：熔毁",
         "en_name": "Command: Meltdown",
         "image": "skchr_kalts_3.png",
@@ -71,7 +71,7 @@
     "skills": [
       {
         "id": "char_010_chen_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "鞘击",
         "en_name": "Sheathed Strike",
         "image": "skchr_chen_1.png",
@@ -82,7 +82,7 @@
       },
       {
         "id": "char_010_chen_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "赤霄·拔刀",
         "en_name": "Chi Xiao - Unsheath",
         "image": "skchr_chen_2.png",
@@ -93,7 +93,7 @@
       },
       {
         "id": "char_010_chen_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "赤霄·绝影",
         "en_name": "Chi Xiao - Shadowless",
         "image": "skchr_chen_3.png",
@@ -130,7 +130,7 @@
     "skills": [
       {
         "id": "char_017_huang_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "强力击·γ型",
         "en_name": "Power Strike γ",
         "image": "skchr_huang_1.png",
@@ -141,7 +141,7 @@
       },
       {
         "id": "char_017_huang_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "链锯延伸模块",
         "en_name": "Chainsaw Extension Module",
         "image": "skchr_huang_2.png",
@@ -152,7 +152,7 @@
       },
       {
         "id": "char_017_huang_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "沸腾爆裂",
         "en_name": "Boiling Burst",
         "image": "skchr_huang_3.png",
@@ -177,7 +177,7 @@
     "skills": [
       {
         "id": "char_103_angel_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "冲锋模式",
         "en_name": "Charging Mode",
         "image": "skchr_angel_1.png",
@@ -188,7 +188,7 @@
       },
       {
         "id": "char_103_angel_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "扫射模式",
         "en_name": "Shooting Mode",
         "image": "skchr_angel_2.png",
@@ -199,7 +199,7 @@
       },
       {
         "id": "char_103_angel_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "过载模式",
         "en_name": "Overloading Mode",
         "image": "skchr_angel_3.png",
@@ -236,7 +236,7 @@
     "skills": [
       {
         "id": "char_112_siege_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "冲锋号令·γ型",
         "en_name": "Charge γ",
         "image": "skcom_charge_cost[3].png",
@@ -247,7 +247,7 @@
       },
       {
         "id": "char_112_siege_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "跃空锤",
         "en_name": "Aerial Hammer",
         "image": "skchr_siege_2.png",
@@ -258,7 +258,7 @@
       },
       {
         "id": "char_112_siege_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "碎颅击",
         "en_name": "Skull Breaker",
         "image": "skchr_siege_3.png",
@@ -306,7 +306,7 @@
     "skills": [
       {
         "id": "char_113_cqbw_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "红桃K",
         "en_name": "King of Hearts",
         "image": "skchr_cqbw_1.png",
@@ -317,7 +317,7 @@
       },
       {
         "id": "char_113_cqbw_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "惊吓盒子",
         "en_name": "Jack in the Box",
         "image": "skchr_cqbw_2.png",
@@ -328,7 +328,7 @@
       },
       {
         "id": "char_113_cqbw_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "D12",
         "en_name": "D12",
         "image": "skchr_cqbw_3.png",
@@ -365,7 +365,7 @@
     "skills": [
       {
         "id": "char_134_ifrit_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "狂热",
         "en_name": "Fanaticism",
         "image": "skchr_ifrit_1.png",
@@ -376,7 +376,7 @@
       },
       {
         "id": "char_134_ifrit_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "炎爆",
         "en_name": "Pyroclasm",
         "image": "skchr_ifrit_2.png",
@@ -387,7 +387,7 @@
       },
       {
         "id": "char_134_ifrit_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "灼地",
         "en_name": "Scorched Earth",
         "image": "skchr_ifrit_3.png",
@@ -424,7 +424,7 @@
     "skills": [
       {
         "id": "char_136_hsguma_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "战意",
         "en_name": "Warpath",
         "image": "skchr_hsguma_1.png",
@@ -435,7 +435,7 @@
       },
       {
         "id": "char_136_hsguma_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "荆棘",
         "en_name": "Thorns",
         "image": "skchr_hsguma_2.png",
@@ -446,7 +446,7 @@
       },
       {
         "id": "char_136_hsguma_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "力之锯",
         "en_name": "Saw of Strength",
         "image": "skchr_hsguma_3.png",
@@ -494,7 +494,7 @@
     "skills": [
       {
         "id": "char_147_shining_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "信条",
         "en_name": "Creed",
         "image": "skchr_shining_1.png",
@@ -505,7 +505,7 @@
       },
       {
         "id": "char_147_shining_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "自动掩护",
         "en_name": "Auto Protect",
         "image": "skchr_shining_2.png",
@@ -516,7 +516,7 @@
       },
       {
         "id": "char_147_shining_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "教条力场",
         "en_name": "Creed Field",
         "image": "skchr_shining_3.png",
@@ -564,7 +564,7 @@
     "skills": [
       {
         "id": "char_172_svrash_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "强力击·γ型",
         "en_name": "Power Strike γ",
         "image": "skchr_svrash_1.png",
@@ -575,7 +575,7 @@
       },
       {
         "id": "char_172_svrash_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "雪境生存法则",
         "en_name": "Rules of Survival",
         "image": "skchr_svrash_2.png",
@@ -586,7 +586,7 @@
       },
       {
         "id": "char_172_svrash_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "真银斩",
         "en_name": "Truesilver Slash",
         "image": "skchr_svrash_3.png",
@@ -611,7 +611,7 @@
     "skills": [
       {
         "id": "char_179_cgbird_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "治疗强化·γ型",
         "en_name": "Healing Up γ",
         "image": "skcom_heal_up[3].png",
@@ -622,7 +622,7 @@
       },
       {
         "id": "char_179_cgbird_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "法术护盾",
         "en_name": "Arts Shield",
         "image": "skchr_cgbird_2.png",
@@ -633,7 +633,7 @@
       },
       {
         "id": "char_179_cgbird_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "圣域",
         "en_name": "Sanctuary",
         "image": "skchr_cgbird_3.png",
@@ -670,7 +670,7 @@
     "skills": [
       {
         "id": "char_180_amgoat_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "二重咏唱",
         "en_name": "Duetto",
         "image": "skchr_amgoat_1.png",
@@ -681,7 +681,7 @@
       },
       {
         "id": "char_180_amgoat_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "点燃",
         "en_name": "Ignition",
         "image": "skchr_amgoat_2.png",
@@ -692,7 +692,7 @@
       },
       {
         "id": "char_180_amgoat_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "火山",
         "en_name": "Volcano",
         "image": "skchr_amgoat_3.png",
@@ -729,7 +729,7 @@
     "skills": [
       {
         "id": "char_188_helage_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "新月",
         "en_name": "Crescent Moon",
         "image": "skchr_helage_1.png",
@@ -740,7 +740,7 @@
       },
       {
         "id": "char_188_helage_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "弦月",
         "en_name": "Half Moon",
         "image": "skchr_helage_2.png",
@@ -751,7 +751,7 @@
       },
       {
         "id": "char_188_helage_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "满月",
         "en_name": "Full Moon",
         "image": "skchr_helage_3.png",
@@ -788,7 +788,7 @@
     "skills": [
       {
         "id": "char_197_poca_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "攻击力强化·γ型",
         "en_name": "ATK Up γ",
         "image": "skcom_atk_up[3].png",
@@ -799,7 +799,7 @@
       },
       {
         "id": "char_197_poca_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "分裂射击",
         "en_name": "Split Shot",
         "image": "skchr_poca_2.png",
@@ -810,7 +810,7 @@
       },
       {
         "id": "char_197_poca_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "雪崩击",
         "en_name": "Avalanche Breaker",
         "image": "skchr_poca_3.png",
@@ -847,7 +847,7 @@
     "skills": [
       {
         "id": "char_202_demkni_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "急救",
         "en_name": "First Aid",
         "image": "skchr_demkni_1.png",
@@ -858,7 +858,7 @@
       },
       {
         "id": "char_202_demkni_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "药物配置",
         "en_name": "Medicine Dispensing",
         "image": "skchr_demkni_2.png",
@@ -869,7 +869,7 @@
       },
       {
         "id": "char_202_demkni_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "钙质化",
         "en_name": "Calcification",
         "image": "skchr_demkni_3.png",
@@ -917,7 +917,7 @@
     "skills": [
       {
         "id": "char_206_gnosis_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "高速思考",
         "en_name": "High-Speed Cogitation",
         "image": "skchr_gnosis_1.png",
@@ -928,7 +928,7 @@
       },
       {
         "id": "char_206_gnosis_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "零度爆发",
         "en_name": "Zero-Point Burst",
         "image": "skchr_gnosis_2.png",
@@ -939,7 +939,7 @@
       },
       {
         "id": "char_206_gnosis_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "失温症",
         "en_name": "Hypothermia",
         "image": "skchr_gnosis_3.png",
@@ -964,7 +964,7 @@
     "skills": [
       {
         "id": "char_213_mostma_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "攻击力强化·γ型",
         "en_name": "ATK Up γ",
         "image": "skcom_atk_up[3].png",
@@ -975,7 +975,7 @@
       },
       {
         "id": "char_213_mostma_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "荒时之锁",
         "en_name": "Lock of Shattered Time",
         "image": "skchr_mostma_2.png",
@@ -986,7 +986,7 @@
       },
       {
         "id": "char_213_mostma_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "序时之匙",
         "en_name": "Key of Chronology",
         "image": "skchr_mostma_3.png",
@@ -1023,7 +1023,7 @@
     "skills": [
       {
         "id": "char_222_bpipe_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "迅捷打击·γ型",
         "en_name": "Swift Strike γ",
         "image": "skcom_quickattack[3].png",
@@ -1034,7 +1034,7 @@
       },
       {
         "id": "char_222_bpipe_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "高效冲击",
         "en_name": "High-Impact Assault",
         "image": "skchr_bpipe_2.png",
@@ -1045,7 +1045,7 @@
       },
       {
         "id": "char_222_bpipe_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "闭膛连发",
         "en_name": "Locked Breech Burst",
         "image": "skchr_bpipe_3.png",
@@ -1082,7 +1082,7 @@
     "skills": [
       {
         "id": "char_225_haak_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "快速射击",
         "en_name": "Rapid Fire",
         "image": "skchr_haak_1.png",
@@ -1093,7 +1093,7 @@
       },
       {
         "id": "char_225_haak_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "爆发剂·γ型",
         "en_name": "Type-γ Stimpack",
         "image": "skchr_haak_2.png",
@@ -1104,7 +1104,7 @@
       },
       {
         "id": "char_225_haak_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "爆发剂·榴莲味",
         "en_name": "Durian-Flavored Stimpack",
         "image": "skchr_haak_3.png",
@@ -1129,7 +1129,7 @@
     "skills": [
       {
         "id": "char_248_mgllan_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "高效制冷模块",
         "en_name": "High-Efficiency Freezing Module",
         "image": "skchr_mgllan_1.png",
@@ -1140,7 +1140,7 @@
       },
       {
         "id": "char_248_mgllan_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "激光开采模块",
         "en_name": "Laser Mining Module",
         "image": "skchr_mgllan_2.png",
@@ -1151,7 +1151,7 @@
       },
       {
         "id": "char_248_mgllan_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "武装打击模块",
         "en_name": "Armed Combat Module",
         "image": "skchr_mgllan_3.png",
@@ -1199,7 +1199,7 @@
     "skills": [
       {
         "id": "char_250_phatom_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "暗夜魅影",
         "en_name": "Phantom of the Night",
         "image": "skchr_phatom_1.png",
@@ -1210,7 +1210,7 @@
       },
       {
         "id": "char_250_phatom_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "血色乐章",
         "en_name": "Bloody Opus",
         "image": "skchr_phatom_2.png",
@@ -1221,7 +1221,7 @@
       },
       {
         "id": "char_250_phatom_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "夜幕突袭",
         "en_name": "Night Raid",
         "image": "skchr_phatom_3.png",
@@ -1258,7 +1258,7 @@
     "skills": [
       {
         "id": "char_263_skadi_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "迅捷打击·γ型",
         "en_name": "Swift Strike γ",
         "image": "skcom_quickattack[3].png",
@@ -1269,7 +1269,7 @@
       },
       {
         "id": "char_263_skadi_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "跃浪击",
         "en_name": "Wave Strike",
         "image": "skchr_skadi_2.png",
@@ -1280,7 +1280,7 @@
       },
       {
         "id": "char_263_skadi_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "涌潮悲歌",
         "en_name": "Tidal Elegy",
         "image": "skchr_skadi_3.png",
@@ -1328,7 +1328,7 @@
     "skills": [
       {
         "id": "char_264_f12yin_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "左勾扫拳",
         "en_name": "Left Hook",
         "image": "skchr_f12yin_1.png",
@@ -1339,7 +1339,7 @@
       },
       {
         "id": "char_264_f12yin_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "横扫架势",
         "en_name": "Sweeping Stance",
         "image": "skchr_f12yin_2.png",
@@ -1350,7 +1350,7 @@
       },
       {
         "id": "char_264_f12yin_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "震地碎岩击",
         "en_name": "Earth-Shattering Smash",
         "image": "skchr_f12yin_3.png",
@@ -1375,7 +1375,7 @@
     "skills": [
       {
         "id": "char_291_aglina_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "秘杖·速充模式",
         "en_name": "Arcane Staff - Quick Charge Mode",
         "image": "skchr_aglina_1.png",
@@ -1386,7 +1386,7 @@
       },
       {
         "id": "char_291_aglina_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "秘杖·微粒模式",
         "en_name": "Arcane Staff - Particle Mode",
         "image": "skchr_aglina_2.png",
@@ -1397,7 +1397,7 @@
       },
       {
         "id": "char_291_aglina_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "秘杖·反重力模式",
         "en_name": "Arcane Staff - Anti-Gravity Mode",
         "image": "skchr_aglina_3.png",
@@ -1445,7 +1445,7 @@
     "skills": [
       {
         "id": "char_293_thorns_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "攻击力强化·γ型",
         "en_name": "ATK Up γ",
         "image": "skcom_atk_up[3].png",
@@ -1456,7 +1456,7 @@
       },
       {
         "id": "char_293_thorns_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "护身尖刺",
         "en_name": "Protective Spikes",
         "image": "skchr_thorns_2.png",
@@ -1467,7 +1467,7 @@
       },
       {
         "id": "char_293_thorns_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "至高之术",
         "en_name": "Destreza",
         "image": "skchr_thorns_3.png",
@@ -1492,7 +1492,7 @@
     "skills": [
       {
         "id": "char_300_phenxi_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "“你须直面”",
         "en_name": "'Provocate'",
         "image": "skchr_phenxi_1.png",
@@ -1503,7 +1503,7 @@
       },
       {
         "id": "char_300_phenxi_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "“你须愧悔”",
         "en_name": "'Paenitete'",
         "image": "skchr_phenxi_2.png",
@@ -1514,7 +1514,7 @@
       },
       {
         "id": "char_300_phenxi_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "“你须偿还”",
         "en_name": "'Reponite'",
         "image": "skchr_phenxi_3.png",
@@ -1551,7 +1551,7 @@
     "skills": [
       {
         "id": "char_311_mudrok_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "防御力强化·γ型",
         "en_name": "DEF Up γ",
         "image": "skcom_def_up[3].png",
@@ -1562,7 +1562,7 @@
       },
       {
         "id": "char_311_mudrok_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "岩崩锤",
         "en_name": "Crag Splitter",
         "image": "skchr_mudrok_2.png",
@@ -1573,7 +1573,7 @@
       },
       {
         "id": "char_311_mudrok_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "秽壤的血脉",
         "en_name": "Bloodline of Desecrated Earth",
         "image": "skchr_mudrok_3.png",
@@ -1598,7 +1598,7 @@
     "skills": [
       {
         "id": "char_322_lmlee_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "小惩大诫",
         "en_name": "Stern Admonishment",
         "image": "skchr_lmlee_1.png",
@@ -1609,7 +1609,7 @@
       },
       {
         "id": "char_322_lmlee_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "驱凶辟邪",
         "en_name": "Exorcise Evil",
         "image": "skchr_lmlee_2.png",
@@ -1620,7 +1620,7 @@
       },
       {
         "id": "char_322_lmlee_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "贵客盈门",
         "en_name": "Honored Guest",
         "image": "skchr_lmlee_3.png",
@@ -1657,7 +1657,7 @@
     "skills": [
       {
         "id": "char_332_archet_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "箭矢·散逸",
         "en_name": "Dispersing Arrows",
         "image": "skchr_archet_1.png",
@@ -1668,7 +1668,7 @@
       },
       {
         "id": "char_332_archet_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "箭矢·追猎",
         "en_name": "Pursuing Arrows",
         "image": "skchr_archet_2.png",
@@ -1679,7 +1679,7 @@
       },
       {
         "id": "char_332_archet_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "箭矢·暴风",
         "en_name": "Thundering Arrows",
         "image": "skchr_archet_3.png",
@@ -1727,7 +1727,7 @@
     "skills": [
       {
         "id": "char_340_shwaz_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "强弩",
         "en_name": "Charged Shot",
         "image": "skchr_shwaz_1.png",
@@ -1738,7 +1738,7 @@
       },
       {
         "id": "char_340_shwaz_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "暮眼锐瞳",
         "en_name": "Sharp Eye",
         "image": "skchr_shwaz_2.png",
@@ -1749,7 +1749,7 @@
       },
       {
         "id": "char_340_shwaz_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "战术的终结",
         "en_name": "Final Tactics",
         "image": "skchr_shwaz_3.png",
@@ -1797,7 +1797,7 @@
     "skills": [
       {
         "id": "char_350_surtr_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "烈焰魔剑",
         "en_name": "Laevatain",
         "image": "skchr_surtr_1.png",
@@ -1808,7 +1808,7 @@
       },
       {
         "id": "char_350_surtr_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "熔核巨影",
         "en_name": "Molten Giant",
         "image": "skchr_surtr_2.png",
@@ -1819,7 +1819,7 @@
       },
       {
         "id": "char_350_surtr_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "黄昏",
         "en_name": "Twilight",
         "image": "skchr_surtr_3.png",
@@ -1844,7 +1844,7 @@
     "skills": [
       {
         "id": "char_358_lisa_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "全力以赴",
         "en_name": "I'll Do My Best",
         "image": "skchr_lisa_1.png",
@@ -1855,7 +1855,7 @@
       },
       {
         "id": "char_358_lisa_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "儿时的舞乐",
         "en_name": "Childhood Frolic",
         "image": "skchr_lisa_2.png",
@@ -1866,7 +1866,7 @@
       },
       {
         "id": "char_358_lisa_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "狐火渺然",
         "en_name": "Foxfire Haze",
         "image": "skchr_lisa_3.png",
@@ -1903,7 +1903,7 @@
     "skills": [
       {
         "id": "char_362_saga_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "冲锋号令·γ型",
         "en_name": "Charge γ",
         "image": "skcom_charge_cost[3].png",
@@ -1914,7 +1914,7 @@
       },
       {
         "id": "char_362_saga_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "除恶",
         "en_name": "Cleansing Evil",
         "image": "skchr_saga_2.png",
@@ -1925,7 +1925,7 @@
       },
       {
         "id": "char_362_saga_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "怒目",
         "en_name": "Fierce Glare",
         "image": "skchr_saga_3.png",
@@ -1962,7 +1962,7 @@
     "skills": [
       {
         "id": "char_377_gdglow_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "火花四溅",
         "en_name": "Scattering Sparks",
         "image": "skchr_gdglow_1.png",
@@ -1973,7 +1973,7 @@
       },
       {
         "id": "char_377_gdglow_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "电流翻涌",
         "en_name": "Surging Current",
         "image": "skchr_gdglow_2.png",
@@ -1984,7 +1984,7 @@
       },
       {
         "id": "char_377_gdglow_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "澄净闪耀",
         "en_name": "Crystalline Shine",
         "image": "skchr_gdglow_3.png",
@@ -2009,7 +2009,7 @@
     "skills": [
       {
         "id": "char_391_rosmon_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "思维膨大",
         "en_name": "Expanded Cognition",
         "image": "skchr_rosmon_1.png",
@@ -2020,7 +2020,7 @@
       },
       {
         "id": "char_391_rosmon_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "末梢阻断",
         "en_name": "Nociceptor Inhibition",
         "image": "skchr_rosmon_2.png",
@@ -2031,7 +2031,7 @@
       },
       {
         "id": "char_391_rosmon_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "“如你所愿”",
         "en_name": "'As You Wish'",
         "image": "skchr_rosmon_3.png",
@@ -2056,7 +2056,7 @@
     "skills": [
       {
         "id": "char_400_weedy_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "炮管敲击",
         "en_name": "Barrel Burst",
         "image": "skchr_weedy_1.png",
@@ -2067,7 +2067,7 @@
       },
       {
         "id": "char_400_weedy_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "水炮模式",
         "en_name": "Hydraulics Mode",
         "image": "skchr_weedy_2.png",
@@ -2078,7 +2078,7 @@
       },
       {
         "id": "char_400_weedy_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "液氮大炮",
         "en_name": "Liquid Nitrogen Cannon",
         "image": "skchr_weedy_3.png",
@@ -2115,7 +2115,7 @@
     "skills": [
       {
         "id": "char_416_zumama_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "轻型挂斧",
         "en_name": "Tomahawk",
         "image": "skchr_zumama_1.png",
@@ -2126,7 +2126,7 @@
       },
       {
         "id": "char_416_zumama_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "震慑劈砍",
         "en_name": "Menacing Slash",
         "image": "skchr_zumama_2.png",
@@ -2137,7 +2137,7 @@
       },
       {
         "id": "char_416_zumama_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "钢铁意志",
         "en_name": "Iron Will",
         "image": "skchr_zumama_3.png",
@@ -2185,7 +2185,7 @@
     "skills": [
       {
         "id": "char_420_flamtl_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "迅敏直觉",
         "en_name": "Quick Intuition",
         "image": "skchr_flamtl_1.png",
@@ -2196,7 +2196,7 @@
       },
       {
         "id": "char_420_flamtl_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "“红松林”",
         "en_name": "'Pinus Sylvestris'",
         "image": "skchr_flamtl_2.png",
@@ -2207,7 +2207,7 @@
       },
       {
         "id": "char_420_flamtl_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "焰心",
         "en_name": "Flameheart",
         "image": "skchr_flamtl_3.png",
@@ -2244,7 +2244,7 @@
     "skills": [
       {
         "id": "char_423_blemsh_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "光芒涌动",
         "en_name": "Surging Brilliance",
         "image": "skchr_blemsh_1.png",
@@ -2255,7 +2255,7 @@
       },
       {
         "id": "char_423_blemsh_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "慑敌辉光",
         "en_name": "Deterring Radiance",
         "image": "skchr_blemsh_2.png",
@@ -2266,7 +2266,7 @@
       },
       {
         "id": "char_423_blemsh_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "先贤化身",
         "en_name": "Divine Avatar",
         "image": "skchr_blemsh_3.png",
@@ -2303,7 +2303,7 @@
     "skills": [
       {
         "id": "char_426_billro_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "沙暴守卫",
         "en_name": "Sandstorm Guardian",
         "image": "skchr_billro_1.png",
@@ -2314,7 +2314,7 @@
       },
       {
         "id": "char_426_billro_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "沙缚镣锁",
         "en_name": "Sand Fetters",
         "image": "skchr_billro_2.png",
@@ -2325,7 +2325,7 @@
       },
       {
         "id": "char_426_billro_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "食噬之印",
         "en_name": "Mark of Gluttony",
         "image": "skchr_billro_3.png",
@@ -2350,7 +2350,7 @@
     "skills": [
       {
         "id": "char_427_vigil_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "领袖的呼唤",
         "en_name": "-",
         "image": "skchr_vigil_1.png",
@@ -2361,7 +2361,7 @@
       },
       {
         "id": "char_427_vigil_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "领袖的馈赠",
         "en_name": "-",
         "image": "skchr_vigil_2.png",
@@ -2372,7 +2372,7 @@
       },
       {
         "id": "char_427_vigil_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "领袖的尊严",
         "en_name": "-",
         "image": "skchr_vigil_3.png",
@@ -2397,7 +2397,7 @@
     "skills": [
       {
         "id": "char_430_fartth_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "迅捷打击·γ型",
         "en_name": "Swift Strike γ",
         "image": "skcom_quickattack[3].png",
@@ -2408,7 +2408,7 @@
       },
       {
         "id": "char_430_fartth_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "同盟支援",
         "en_name": "Ally Support",
         "image": "skchr_fartth_2.png",
@@ -2419,7 +2419,7 @@
       },
       {
         "id": "char_430_fartth_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "光羽箭",
         "en_name": "Feathershine Arrows",
         "image": "skchr_fartth_3.png",
@@ -2467,7 +2467,7 @@
     "skills": [
       {
         "id": "char_437_mizuki_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "唤醒",
         "en_name": "Awaken",
         "image": "skchr_mizuki_1.png",
@@ -2478,7 +2478,7 @@
       },
       {
         "id": "char_437_mizuki_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "囚徒困境",
         "en_name": "Prisoner's Dilemma",
         "image": "skchr_mizuki_2.png",
@@ -2489,7 +2489,7 @@
       },
       {
         "id": "char_437_mizuki_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "镜花水月",
         "en_name": "Moon in the Water",
         "image": "skchr_mizuki_3.png",
@@ -2537,7 +2537,7 @@
     "skills": [
       {
         "id": "char_456_ash_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "支援射击",
         "en_name": "Supporting Fire",
         "image": "skchr_ash_1.png",
@@ -2548,7 +2548,7 @@
       },
       {
         "id": "char_456_ash_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "突击战术",
         "en_name": "Assault Tactics",
         "image": "skchr_ash_2.png",
@@ -2559,7 +2559,7 @@
       },
       {
         "id": "char_456_ash_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "攻坚榴弹",
         "en_name": "Breaching Rounds",
         "image": "skchr_ash_3.png",
@@ -2596,7 +2596,7 @@
     "skills": [
       {
         "id": "char_472_pasngr_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "电能之触",
         "en_name": "Touch of Static",
         "image": "skchr_pasngr_1.png",
@@ -2607,7 +2607,7 @@
       },
       {
         "id": "char_472_pasngr_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "聚焦指令",
         "en_name": "Focus Command",
         "image": "skchr_pasngr_2.png",
@@ -2618,7 +2618,7 @@
       },
       {
         "id": "char_472_pasngr_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "辉煌裂片",
         "en_name": "Glorious Shards",
         "image": "skchr_pasngr_3.png",
@@ -2666,7 +2666,7 @@
     "skills": [
       {
         "id": "char_474_glady_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "缺水的大洋裂断",
         "en_name": "Waterless Parting of the Great Ocean",
         "image": "skchr_glady_1.png",
@@ -2677,7 +2677,7 @@
       },
       {
         "id": "char_474_glady_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "缺水的掌握怒海",
         "en_name": "Waterless Grasp of the Raging Seas",
         "image": "skchr_glady_2.png",
@@ -2688,7 +2688,7 @@
       },
       {
         "id": "char_474_glady_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "缺水的碎漩狂舞",
         "en_name": "Waterless Dance of the Shattered Maelstrom",
         "image": "skchr_glady_3.png",
@@ -2725,7 +2725,7 @@
     "skills": [
       {
         "id": "char_479_sleach_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "支援号令·γ型",
         "en_name": "Support γ",
         "image": "skcom_assist_cost[3].png",
@@ -2736,7 +2736,7 @@
       },
       {
         "id": "char_479_sleach_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "信仰传承",
         "en_name": "Inheritance of Faith",
         "image": "skchr_sleach_2.png",
@@ -2747,7 +2747,7 @@
       },
       {
         "id": "char_479_sleach_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "光辉旗帜",
         "en_name": "Glorious Banner",
         "image": "skchr_sleach_3.png",
@@ -2772,7 +2772,7 @@
     "skills": [
       {
         "id": "char_485_pallas_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "胜利的连击",
         "en_name": "Strikes of Victory",
         "image": "skchr_pallas_1.png",
@@ -2783,7 +2783,7 @@
       },
       {
         "id": "char_485_pallas_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "信念的长鞭",
         "en_name": "Whip of Conviction",
         "image": "skchr_pallas_2.png",
@@ -2794,7 +2794,7 @@
       },
       {
         "id": "char_485_pallas_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "英勇的祝福",
         "en_name": "Blessing of Heroism",
         "image": "skchr_pallas_3.png",
@@ -2842,7 +2842,7 @@
     "skills": [
       {
         "id": "char_1012_skadi2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "同归殊途之吟",
         "en_name": "Chant of Returning by Varied Paths",
         "image": "skchr_skadi2_1.png",
@@ -2853,7 +2853,7 @@
       },
       {
         "id": "char_1012_skadi2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "同葬无光之愿",
         "en_name": "Wish of Burial Beyond the Light",
         "image": "skchr_skadi2_2.png",
@@ -2864,7 +2864,7 @@
       },
       {
         "id": "char_1012_skadi2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "\"潮涌，潮枯\"",
         "en_name": "'The Tide Surges, The Tide Recedes'",
         "image": "skchr_skadi2_3.png",
@@ -2889,7 +2889,7 @@
     "skills": [
       {
         "id": "char_1013_chen2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "高压冲击",
         "en_name": "High-Pressure Splash",
         "image": "skchr_chen2_1.png",
@@ -2900,7 +2900,7 @@
       },
       {
         "id": "char_1013_chen2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "“堇青之夜”",
         "en_name": "'Night of Violet'",
         "image": "skchr_chen2_2.png",
@@ -2911,7 +2911,7 @@
       },
       {
         "id": "char_1013_chen2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "“假日风暴”",
         "en_name": "'Holiday Storm'",
         "image": "skchr_chen2_3.png",
@@ -2936,7 +2936,7 @@
     "skills": [
       {
         "id": "char_1014_nearl2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "灿焰长刃",
         "en_name": "Flaming Edge",
         "image": "skchr_nearl2_1.png",
@@ -2947,7 +2947,7 @@
       },
       {
         "id": "char_1014_nearl2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "逐夜烁光",
         "en_name": "Night-Scouring Gleam",
         "image": "skchr_nearl2_2.png",
@@ -2958,7 +2958,7 @@
       },
       {
         "id": "char_1014_nearl2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "耀阳颔首",
         "en_name": "Blazing Sun's Obeisance",
         "image": "skchr_nearl2_3.png",
@@ -2995,7 +2995,7 @@
     "skills": [
       {
         "id": "char_1020_reed2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "迅捷打击·γ型",
         "en_name": "Swift Strike γ",
         "image": "skcom_quickattack[3].png",
@@ -3006,7 +3006,7 @@
       },
       {
         "id": "char_1020_reed2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "枯荣共息",
         "en_name": "-",
         "image": "skchr_reed2_2.png",
@@ -3017,7 +3017,7 @@
       },
       {
         "id": "char_1020_reed2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "生命火种",
         "en_name": "-",
         "image": "skchr_reed2_3.png",
@@ -3042,7 +3042,7 @@
     "skills": [
       {
         "id": "char_1023_ghost2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "生存的技巧",
         "en_name": "The Skill to Survive",
         "image": "skchr_ghost2_1.png",
@@ -3053,7 +3053,7 @@
       },
       {
         "id": "char_1023_ghost2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "生存的渴望",
         "en_name": "The Thirst to Survive",
         "image": "skchr_ghost2_2.png",
@@ -3064,7 +3064,7 @@
       },
       {
         "id": "char_1023_ghost2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "生存的重压",
         "en_name": "The Pressure to Survive",
         "image": "skchr_ghost2_3.png",
@@ -3112,7 +3112,7 @@
     "skills": [
       {
         "id": "char_1026_gvial2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "精准痛击",
         "en_name": "Precise Thrashing",
         "image": "skchr_gvial2_1.png",
@@ -3123,7 +3123,7 @@
       },
       {
         "id": "char_1026_gvial2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "链锯强袭",
         "en_name": "Chainsaw Assault",
         "image": "skchr_gvial2_2.png",
@@ -3134,7 +3134,7 @@
       },
       {
         "id": "char_1026_gvial2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "丛林之魂",
         "en_name": "Soul of the Jungle",
         "image": "skchr_gvial2_3.png",
@@ -3159,7 +3159,7 @@
     "skills": [
       {
         "id": "char_1028_texas2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "细雨无声",
         "en_name": "-",
         "image": "skchr_texas2_1.png",
@@ -3170,7 +3170,7 @@
       },
       {
         "id": "char_1028_texas2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "阵雨连绵",
         "en_name": "-",
         "image": "skchr_texas2_2.png",
@@ -3181,7 +3181,7 @@
       },
       {
         "id": "char_1028_texas2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "剑雨滂沱",
         "en_name": "-",
         "image": "skchr_texas2_3.png",
@@ -3218,7 +3218,7 @@
     "skills": [
       {
         "id": "char_1029_yato2_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "鬼人化",
         "en_name": "-",
         "image": "skchr_yato2_1.png",
@@ -3229,7 +3229,7 @@
       },
       {
         "id": "char_1029_yato2_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
@@ -3240,7 +3240,7 @@
       },
       {
         "id": "char_1029_yato2_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
@@ -3277,7 +3277,7 @@
     "skills": [
       {
         "id": "char_2013_cerber_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "“很冰的斧”",
         "en_name": "'Really Cold Axe'",
         "image": "skchr_cerber_1.png",
@@ -3288,7 +3288,7 @@
       },
       {
         "id": "char_2013_cerber_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "“很热的刀”",
         "en_name": "'Really Hot Knives'",
         "image": "skchr_cerber_2.png",
@@ -3299,7 +3299,7 @@
       },
       {
         "id": "char_2013_cerber_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "“很重的枪”",
         "en_name": "'Really Heavy Spear'",
         "image": "skchr_cerber_3.png",
@@ -3336,7 +3336,7 @@
     "skills": [
       {
         "id": "char_2014_nian_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "锡灼",
         "en_name": "Tin Burning",
         "image": "skchr_nian_1.png",
@@ -3347,7 +3347,7 @@
       },
       {
         "id": "char_2014_nian_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "铜印",
         "en_name": "Copper Seal",
         "image": "skchr_nian_2.png",
@@ -3358,7 +3358,7 @@
       },
       {
         "id": "char_2014_nian_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "铁御",
         "en_name": "Iron Defense",
         "image": "skchr_nian_3.png",
@@ -3395,7 +3395,7 @@
     "skills": [
       {
         "id": "char_2015_dusk_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "工笔入化",
         "en_name": "Transcendental Stroke",
         "image": "skchr_dusk_1.png",
@@ -3406,7 +3406,7 @@
       },
       {
         "id": "char_2015_dusk_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "泼墨淋漓",
         "en_name": "Flowing Ink",
         "image": "skchr_dusk_2.png",
@@ -3417,7 +3417,7 @@
       },
       {
         "id": "char_2015_dusk_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "写意胜形",
         "en_name": "Image over Form",
         "image": "skchr_dusk_3.png",
@@ -3465,7 +3465,7 @@
     "skills": [
       {
         "id": "char_2023_ling_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "重进酒",
         "en_name": "Sips of Wine",
         "image": "skchr_ling_1.png",
@@ -3476,7 +3476,7 @@
       },
       {
         "id": "char_2023_ling_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "笑鸣瑟",
         "en_name": "Amidst Pleasant Melodies",
         "image": "skchr_ling_2.png",
@@ -3487,7 +3487,7 @@
       },
       {
         "id": "char_2023_ling_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "宁作吾",
         "en_name": "To Remain Oneself",
         "image": "skchr_ling_3.png",
@@ -3524,7 +3524,7 @@
     "skills": [
       {
         "id": "char_2024_chyue_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "冲盈",
         "en_name": "-",
         "image": "skchr_chyue_1.png",
@@ -3535,7 +3535,7 @@
       },
       {
         "id": "char_2024_chyue_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "拂尘",
         "en_name": "-",
         "image": "skchr_chyue_2.png",
@@ -3546,7 +3546,7 @@
       },
       {
         "id": "char_2024_chyue_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "我无",
         "en_name": "-",
         "image": "skchr_chyue_3.png",
@@ -3571,7 +3571,7 @@
     "skills": [
       {
         "id": "char_4009_irene_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "起风",
         "en_name": "Gust",
         "image": "skchr_irene_1.png",
@@ -3582,7 +3582,7 @@
       },
       {
         "id": "char_4009_irene_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "裂潮",
         "en_name": "Shattertide",
         "image": "skchr_irene_2.png",
@@ -3593,7 +3593,7 @@
       },
       {
         "id": "char_4009_irene_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "判决",
         "en_name": "Judgment",
         "image": "skchr_irene_3.png",
@@ -3630,7 +3630,7 @@
     "skills": [
       {
         "id": "char_4039_horn_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "照明榴弹",
         "en_name": "Flare Grenade",
         "image": "skchr_horn_1.png",
@@ -3641,7 +3641,7 @@
       },
       {
         "id": "char_4039_horn_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "暴风号令",
         "en_name": "Tempest Command",
         "image": "skchr_horn_2.png",
@@ -3652,7 +3652,7 @@
       },
       {
         "id": "char_4039_horn_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "终极防线",
         "en_name": "Ultimate Line of Defense",
         "image": "skchr_horn_3.png",
@@ -3677,7 +3677,7 @@
     "skills": [
       {
         "id": "char_4042_lumen_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "沐雨",
         "en_name": "In Drizzle, Privation",
         "image": "skchr_lumen_1.png",
@@ -3688,7 +3688,7 @@
       },
       {
         "id": "char_4042_lumen_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "沛霖",
         "en_name": "In Downpour, Grace",
         "image": "skchr_lumen_2.png",
@@ -3699,7 +3699,7 @@
       },
       {
         "id": "char_4042_lumen_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "灯火不灭",
         "en_name": "This Lantern Undying",
         "image": "skchr_lumen_3.png",
@@ -3747,7 +3747,7 @@
     "skills": [
       {
         "id": "char_4046_ebnhlz_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "渐快急板",
         "en_name": "Quickening Presto",
         "image": "skchr_ebnhlz_1.png",
@@ -3758,7 +3758,7 @@
       },
       {
         "id": "char_4046_ebnhlz_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "荒芜回响",
         "en_name": "Desolate Echoes",
         "image": "skchr_ebnhlz_2.png",
@@ -3769,7 +3769,7 @@
       },
       {
         "id": "char_4046_ebnhlz_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "寂静之声",
         "en_name": "Sound of Silence",
         "image": "skchr_ebnhlz_3.png",
@@ -3817,7 +3817,7 @@
     "skills": [
       {
         "id": "char_4048_doroth_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "危险目标清除",
         "en_name": "Dangerous Entity Removal",
         "image": "skchr_doroth_1.png",
@@ -3828,7 +3828,7 @@
       },
       {
         "id": "char_4048_doroth_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "流沙区域生成",
         "en_name": "Quicksand Generation",
         "image": "skchr_doroth_2.png",
@@ -3839,7 +3839,7 @@
       },
       {
         "id": "char_4048_doroth_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "高速共振排障",
         "en_name": "High-speed Resonating Troubleshooter",
         "image": "skchr_doroth_3.png",
@@ -3864,7 +3864,7 @@
     "skills": [
       {
         "id": "char_4055_bgsnow_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "抑扬格",
         "en_name": "Iamb",
         "image": "skchr_bgsnow_1.png",
@@ -3875,7 +3875,7 @@
       },
       {
         "id": "char_4055_bgsnow_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "点题",
         "en_name": "Précis",
         "image": "skchr_bgsnow_2.png",
@@ -3886,7 +3886,7 @@
       },
       {
         "id": "char_4055_bgsnow_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "锐笔速写",
         "en_name": "Opprobrium",
         "image": "skchr_bgsnow_3.png",
@@ -3923,7 +3923,7 @@
     "skills": [
       {
         "id": "char_4064_mlynar_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "未声张的怒火",
         "en_name": "Unvoiced Anger",
         "image": "skchr_mlynar_1.png",
@@ -3934,7 +3934,7 @@
       },
       {
         "id": "char_4064_mlynar_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "未宽解的悲哀",
         "en_name": "Unresolved Sorrow",
         "image": "skchr_mlynar_2.png",
@@ -3945,7 +3945,7 @@
       },
       {
         "id": "char_4064_mlynar_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "未照耀的荣光",
         "en_name": "Unbrilliant Glory",
         "image": "skchr_mlynar_3.png",
@@ -3970,7 +3970,7 @@
     "skills": [
       {
         "id": "char_4065_judge_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "一锤定音",
         "en_name": "-",
         "image": "skchr_judge_1.png",
@@ -3981,7 +3981,7 @@
       },
       {
         "id": "char_4065_judge_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "坚心苦修",
         "en_name": "-",
         "image": "skchr_judge_2.png",
@@ -3992,7 +3992,7 @@
       },
       {
         "id": "char_4065_judge_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
@@ -4017,7 +4017,7 @@
     "skills": [
       {
         "id": "char_4072_ironmn_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "极致火力",
         "en_name": "-",
         "image": "skchr_ironmn_1.png",
@@ -4028,7 +4028,7 @@
       },
       {
         "id": "char_4072_ironmn_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "高效补给",
         "en_name": "-",
         "image": "skchr_ironmn_2.png",
@@ -4039,7 +4039,7 @@
       },
       {
         "id": "char_4072_ironmn_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "铁钳号·原型机",
         "en_name": "-",
         "image": "skchr_ironmn_3.png",
@@ -4064,7 +4064,7 @@
     "skills": [
       {
         "id": "char_4080_lin_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "玲珑",
         "en_name": "-",
         "image": "skchr_lin_1.png",
@@ -4075,7 +4075,7 @@
       },
       {
         "id": "char_4080_lin_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "荫庇",
         "en_name": "-",
         "image": "skchr_lin_2.png",
@@ -4086,7 +4086,7 @@
       },
       {
         "id": "char_4080_lin_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "流光乍裂",
         "en_name": "-",
         "image": "skchr_lin_3.png",
@@ -4111,7 +4111,7 @@
     "skills": [
       {
         "id": "char_4082_qiubai_skill_1",
-        "type": 2,
+        "type": 1,
         "cn_name": "留羽",
         "en_name": "-",
         "image": "skchr_qiubai_1.png",
@@ -4122,7 +4122,7 @@
       },
       {
         "id": "char_4082_qiubai_skill_2",
-        "type": 3,
+        "type": 2,
         "cn_name": "承影",
         "en_name": "-",
         "image": "skchr_qiubai_2.png",
@@ -4133,7 +4133,7 @@
       },
       {
         "id": "char_4082_qiubai_skill_3",
-        "type": 4,
+        "type": 3,
         "cn_name": "问雪",
         "en_name": "-",
         "image": "skchr_qiubai_3.png",
