@@ -1,6 +1,7 @@
 [
   {
     "id": "char_003_kalts",
+    "profession": "MEDIC",
     "cn_name": "凯尔希",
     "en_name": "Kal'tsit",
     "image": "char_003_kalts.png",
@@ -60,6 +61,7 @@
   },
   {
     "id": "char_010_chen",
+    "profession": "WARRIOR",
     "cn_name": "陈",
     "en_name": "Ch'en",
     "image": "char_010_chen.png",
@@ -119,6 +121,7 @@
   },
   {
     "id": "char_017_huang",
+    "profession": "WARRIOR",
     "cn_name": "煌",
     "en_name": "Blaze",
     "image": "char_017_huang.png",
@@ -166,6 +169,7 @@
   },
   {
     "id": "char_103_angel",
+    "profession": "SNIPER",
     "cn_name": "能天使",
     "en_name": "Exusiai",
     "image": "char_103_angel.png",
@@ -225,6 +229,7 @@
   },
   {
     "id": "char_112_siege",
+    "profession": "PIONEER",
     "cn_name": "推进之王",
     "en_name": "Siege",
     "image": "char_112_siege.png",
@@ -295,6 +300,7 @@
   },
   {
     "id": "char_113_cqbw",
+    "profession": "SNIPER",
     "cn_name": "W",
     "en_name": "W",
     "image": "char_113_cqbw.png",
@@ -354,6 +360,7 @@
   },
   {
     "id": "char_134_ifrit",
+    "profession": "CASTER",
     "cn_name": "伊芙利特",
     "en_name": "Ifrit",
     "image": "char_134_ifrit.png",
@@ -413,6 +420,7 @@
   },
   {
     "id": "char_136_hsguma",
+    "profession": "TANK",
     "cn_name": "星熊",
     "en_name": "Hoshiguma",
     "image": "char_136_hsguma.png",
@@ -483,6 +491,7 @@
   },
   {
     "id": "char_147_shining",
+    "profession": "MEDIC",
     "cn_name": "闪灵",
     "en_name": "Shining",
     "image": "char_147_shining.png",
@@ -553,6 +562,7 @@
   },
   {
     "id": "char_172_svrash",
+    "profession": "WARRIOR",
     "cn_name": "银灰",
     "en_name": "SilverAsh",
     "image": "char_172_svrash.png",
@@ -600,6 +610,7 @@
   },
   {
     "id": "char_179_cgbird",
+    "profession": "MEDIC",
     "cn_name": "夜莺",
     "en_name": "Nightingale",
     "image": "char_179_cgbird.png",
@@ -659,6 +670,7 @@
   },
   {
     "id": "char_180_amgoat",
+    "profession": "CASTER",
     "cn_name": "艾雅法拉",
     "en_name": "Eyjafjalla",
     "image": "char_180_amgoat.png",
@@ -718,6 +730,7 @@
   },
   {
     "id": "char_188_helage",
+    "profession": "WARRIOR",
     "cn_name": "赫拉格",
     "en_name": "Hellagur",
     "image": "char_188_helage.png",
@@ -777,6 +790,7 @@
   },
   {
     "id": "char_197_poca",
+    "profession": "SNIPER",
     "cn_name": "早露",
     "en_name": "Rosa",
     "image": "char_197_poca.png",
@@ -836,6 +850,7 @@
   },
   {
     "id": "char_202_demkni",
+    "profession": "TANK",
     "cn_name": "塞雷娅",
     "en_name": "Saria",
     "image": "char_202_demkni.png",
@@ -906,6 +921,7 @@
   },
   {
     "id": "char_206_gnosis",
+    "profession": "SUPPORT",
     "cn_name": "灵知",
     "en_name": "Gnosis",
     "image": "char_206_gnosis.png",
@@ -953,6 +969,7 @@
   },
   {
     "id": "char_213_mostma",
+    "profession": "CASTER",
     "cn_name": "莫斯提马",
     "en_name": "Mostima",
     "image": "char_213_mostma.png",
@@ -1012,6 +1029,7 @@
   },
   {
     "id": "char_222_bpipe",
+    "profession": "PIONEER",
     "cn_name": "风笛",
     "en_name": "Bagpipe",
     "image": "char_222_bpipe.png",
@@ -1071,6 +1089,7 @@
   },
   {
     "id": "char_225_haak",
+    "profession": "SPECIAL",
     "cn_name": "阿",
     "en_name": "Aak",
     "image": "char_225_haak.png",
@@ -1118,6 +1137,7 @@
   },
   {
     "id": "char_248_mgllan",
+    "profession": "SUPPORT",
     "cn_name": "麦哲伦",
     "en_name": "Magallan",
     "image": "char_248_mgllan.png",
@@ -1188,6 +1208,7 @@
   },
   {
     "id": "char_250_phatom",
+    "profession": "SPECIAL",
     "cn_name": "傀影",
     "en_name": "Phantom",
     "image": "char_250_phatom.png",
@@ -1247,6 +1268,7 @@
   },
   {
     "id": "char_263_skadi",
+    "profession": "WARRIOR",
     "cn_name": "斯卡蒂",
     "en_name": "Skadi",
     "image": "char_263_skadi.png",
@@ -1317,6 +1339,7 @@
   },
   {
     "id": "char_264_f12yin",
+    "profession": "WARRIOR",
     "cn_name": "山",
     "en_name": "Mountain",
     "image": "char_264_f12yin.png",
@@ -1364,6 +1387,7 @@
   },
   {
     "id": "char_291_aglina",
+    "profession": "SUPPORT",
     "cn_name": "安洁莉娜",
     "en_name": "Angelina",
     "image": "char_291_aglina.png",
@@ -1434,6 +1458,7 @@
   },
   {
     "id": "char_293_thorns",
+    "profession": "WARRIOR",
     "cn_name": "棘刺",
     "en_name": "Thorns",
     "image": "char_293_thorns.png",
@@ -1481,6 +1506,7 @@
   },
   {
     "id": "char_300_phenxi",
+    "profession": "SNIPER",
     "cn_name": "菲亚梅塔",
     "en_name": "Fiammetta",
     "image": "char_300_phenxi.png",
@@ -1540,6 +1566,7 @@
   },
   {
     "id": "char_311_mudrok",
+    "profession": "TANK",
     "cn_name": "泥岩",
     "en_name": "Mudrock",
     "image": "char_311_mudrok.png",
@@ -1587,6 +1614,7 @@
   },
   {
     "id": "char_322_lmlee",
+    "profession": "SPECIAL",
     "cn_name": "老鲤",
     "en_name": "Lee",
     "image": "char_322_lmlee.png",
@@ -1646,6 +1674,7 @@
   },
   {
     "id": "char_332_archet",
+    "profession": "SNIPER",
     "cn_name": "空弦",
     "en_name": "Archetto",
     "image": "char_332_archet.png",
@@ -1716,6 +1745,7 @@
   },
   {
     "id": "char_340_shwaz",
+    "profession": "SNIPER",
     "cn_name": "黑",
     "en_name": "Schwarz",
     "image": "char_340_shwaz.png",
@@ -1786,6 +1816,7 @@
   },
   {
     "id": "char_350_surtr",
+    "profession": "WARRIOR",
     "cn_name": "史尔特尔",
     "en_name": "Surtr",
     "image": "char_350_surtr.png",
@@ -1833,6 +1864,7 @@
   },
   {
     "id": "char_358_lisa",
+    "profession": "SUPPORT",
     "cn_name": "铃兰",
     "en_name": "Suzuran",
     "image": "char_358_lisa.png",
@@ -1892,6 +1924,7 @@
   },
   {
     "id": "char_362_saga",
+    "profession": "PIONEER",
     "cn_name": "嵯峨",
     "en_name": "Saga",
     "image": "char_362_saga.png",
@@ -1951,6 +1984,7 @@
   },
   {
     "id": "char_377_gdglow",
+    "profession": "CASTER",
     "cn_name": "澄闪",
     "en_name": "Goldenglow",
     "image": "char_377_gdglow.png",
@@ -1998,6 +2032,7 @@
   },
   {
     "id": "char_391_rosmon",
+    "profession": "SNIPER",
     "cn_name": "迷迭香",
     "en_name": "Rosmontis",
     "image": "char_391_rosmon.png",
@@ -2045,6 +2080,7 @@
   },
   {
     "id": "char_400_weedy",
+    "profession": "SPECIAL",
     "cn_name": "温蒂",
     "en_name": "Weedy",
     "image": "char_400_weedy.png",
@@ -2104,6 +2140,7 @@
   },
   {
     "id": "char_416_zumama",
+    "profession": "TANK",
     "cn_name": "森蚺",
     "en_name": "Eunectes",
     "image": "char_416_zumama.png",
@@ -2174,6 +2211,7 @@
   },
   {
     "id": "char_420_flamtl",
+    "profession": "PIONEER",
     "cn_name": "焰尾",
     "en_name": "Flametail",
     "image": "char_420_flamtl.png",
@@ -2233,6 +2271,7 @@
   },
   {
     "id": "char_423_blemsh",
+    "profession": "TANK",
     "cn_name": "瑕光",
     "en_name": "Blemishine",
     "image": "char_423_blemsh.png",
@@ -2292,6 +2331,7 @@
   },
   {
     "id": "char_426_billro",
+    "profession": "CASTER",
     "cn_name": "卡涅利安",
     "en_name": "Carnelian",
     "image": "char_426_billro.png",
@@ -2339,6 +2379,7 @@
   },
   {
     "id": "char_427_vigil",
+    "profession": "PIONEER",
     "cn_name": "伺夜",
     "en_name": "-",
     "image": "char_427_vigil.png",
@@ -2386,6 +2427,7 @@
   },
   {
     "id": "char_430_fartth",
+    "profession": "SNIPER",
     "cn_name": "远牙",
     "en_name": "Fartooth",
     "image": "char_430_fartth.png",
@@ -2456,6 +2498,7 @@
   },
   {
     "id": "char_437_mizuki",
+    "profession": "SPECIAL",
     "cn_name": "水月",
     "en_name": "Mizuki",
     "image": "char_437_mizuki.png",
@@ -2526,6 +2569,7 @@
   },
   {
     "id": "char_456_ash",
+    "profession": "SNIPER",
     "cn_name": "灰烬",
     "en_name": "Ash",
     "image": "char_456_ash.png",
@@ -2585,6 +2629,7 @@
   },
   {
     "id": "char_472_pasngr",
+    "profession": "CASTER",
     "cn_name": "异客",
     "en_name": "Passenger",
     "image": "char_472_pasngr.png",
@@ -2655,6 +2700,7 @@
   },
   {
     "id": "char_474_glady",
+    "profession": "SPECIAL",
     "cn_name": "歌蕾蒂娅",
     "en_name": "Gladiia",
     "image": "char_474_glady.png",
@@ -2714,6 +2760,7 @@
   },
   {
     "id": "char_479_sleach",
+    "profession": "PIONEER",
     "cn_name": "琴柳",
     "en_name": "Saileach",
     "image": "char_479_sleach.png",
@@ -2761,6 +2808,7 @@
   },
   {
     "id": "char_485_pallas",
+    "profession": "WARRIOR",
     "cn_name": "帕拉斯",
     "en_name": "Pallas",
     "image": "char_485_pallas.png",
@@ -2831,6 +2879,7 @@
   },
   {
     "id": "char_1012_skadi2",
+    "profession": "SUPPORT",
     "cn_name": "浊心斯卡蒂",
     "en_name": "Skadi the Corrupting Heart",
     "image": "char_1012_skadi2.png",
@@ -2878,6 +2927,7 @@
   },
   {
     "id": "char_1013_chen2",
+    "profession": "SNIPER",
     "cn_name": "假日威龙陈",
     "en_name": "Ch'en the Holungday",
     "image": "char_1013_chen2.png",
@@ -2925,6 +2975,7 @@
   },
   {
     "id": "char_1014_nearl2",
+    "profession": "WARRIOR",
     "cn_name": "耀骑士临光",
     "en_name": "Nearl the Radiant Knight",
     "image": "char_1014_nearl2.png",
@@ -2984,6 +3035,7 @@
   },
   {
     "id": "char_1020_reed2",
+    "profession": "MEDIC",
     "cn_name": "焰影苇草",
     "en_name": "-",
     "image": "char_1020_reed2.png",
@@ -3031,6 +3083,7 @@
   },
   {
     "id": "char_1023_ghost2",
+    "profession": "SPECIAL",
     "cn_name": "归溟幽灵鲨",
     "en_name": "Specter the Unchained",
     "image": "char_1023_ghost2.png",
@@ -3101,6 +3154,7 @@
   },
   {
     "id": "char_1026_gvial2",
+    "profession": "WARRIOR",
     "cn_name": "百炼嘉维尔",
     "en_name": "Gavial the Invincible",
     "image": "char_1026_gvial2.png",
@@ -3148,6 +3202,7 @@
   },
   {
     "id": "char_1028_texas2",
+    "profession": "SPECIAL",
     "cn_name": "缄默德克萨斯",
     "en_name": "-",
     "image": "char_1028_texas2.png",
@@ -3207,6 +3262,7 @@
   },
   {
     "id": "char_1029_yato2",
+    "profession": "SPECIAL",
     "cn_name": "麒麟X夜刀",
     "en_name": "-",
     "image": "char_1029_yato2.png",
@@ -3266,6 +3322,7 @@
   },
   {
     "id": "char_2013_cerber",
+    "profession": "CASTER",
     "cn_name": "刻俄柏",
     "en_name": "Ceobe",
     "image": "char_2013_cerber.png",
@@ -3325,6 +3382,7 @@
   },
   {
     "id": "char_2014_nian",
+    "profession": "TANK",
     "cn_name": "年",
     "en_name": "Nian",
     "image": "char_2014_nian.png",
@@ -3384,6 +3442,7 @@
   },
   {
     "id": "char_2015_dusk",
+    "profession": "CASTER",
     "cn_name": "夕",
     "en_name": "Dusk",
     "image": "char_2015_dusk.png",
@@ -3454,6 +3513,7 @@
   },
   {
     "id": "char_2023_ling",
+    "profession": "SUPPORT",
     "cn_name": "令",
     "en_name": "Ling",
     "image": "char_2023_ling.png",
@@ -3513,6 +3573,7 @@
   },
   {
     "id": "char_2024_chyue",
+    "profession": "WARRIOR",
     "cn_name": "重岳",
     "en_name": "-",
     "image": "char_2024_chyue.png",
@@ -3560,6 +3621,7 @@
   },
   {
     "id": "char_4009_irene",
+    "profession": "WARRIOR",
     "cn_name": "艾丽妮",
     "en_name": "Irene",
     "image": "char_4009_irene.png",
@@ -3619,6 +3681,7 @@
   },
   {
     "id": "char_4039_horn",
+    "profession": "TANK",
     "cn_name": "号角",
     "en_name": "Horn",
     "image": "char_4039_horn.png",
@@ -3666,6 +3729,7 @@
   },
   {
     "id": "char_4042_lumen",
+    "profession": "MEDIC",
     "cn_name": "流明",
     "en_name": "Lumen",
     "image": "char_4042_lumen.png",
@@ -3736,6 +3800,7 @@
   },
   {
     "id": "char_4046_ebnhlz",
+    "profession": "CASTER",
     "cn_name": "黑键",
     "en_name": "Ebenholz",
     "image": "char_4046_ebnhlz.png",
@@ -3806,6 +3871,7 @@
   },
   {
     "id": "char_4048_doroth",
+    "profession": "SPECIAL",
     "cn_name": "多萝西",
     "en_name": "Dorothy",
     "image": "char_4048_doroth.png",
@@ -3853,6 +3919,7 @@
   },
   {
     "id": "char_4055_bgsnow",
+    "profession": "SNIPER",
     "cn_name": "鸿雪",
     "en_name": "Pozëmka",
     "image": "char_4055_bgsnow.png",
@@ -3912,6 +3979,7 @@
   },
   {
     "id": "char_4064_mlynar",
+    "profession": "WARRIOR",
     "cn_name": "玛恩纳",
     "en_name": "Młynar",
     "image": "char_4064_mlynar.png",
@@ -3959,6 +4027,7 @@
   },
   {
     "id": "char_4065_judge",
+    "profession": "TANK",
     "cn_name": "斥罪",
     "en_name": "-",
     "image": "char_4065_judge.png",
@@ -4006,6 +4075,7 @@
   },
   {
     "id": "char_4072_ironmn",
+    "profession": "SUPPORT",
     "cn_name": "白铁",
     "en_name": "-",
     "image": "char_4072_ironmn.png",
@@ -4053,6 +4123,7 @@
   },
   {
     "id": "char_4080_lin",
+    "profession": "CASTER",
     "cn_name": "林",
     "en_name": "-",
     "image": "char_4080_lin.png",
@@ -4100,6 +4171,7 @@
   },
   {
     "id": "char_4082_qiubai",
+    "profession": "WARRIOR",
     "cn_name": "仇白",
     "en_name": "-",
     "image": "char_4082_qiubai.png",
