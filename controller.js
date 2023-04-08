@@ -6,6 +6,43 @@ const { exec } = require("child_process");
 const branchName = "main";
 
 exports.generate = async (req, res) => {
+  // Step 1: Pull any changes from the remote repository
+  exec(`git pull origin ${branchName}`, (error, stdout, stderr) => {
+    if (error) {
+      console.error(`Error pulling changes: ${error.message}`);
+      return;
+    }
+    console.log(`Changes pulled: ${stdout}`);
+
+    // Step 2: Add changes
+    exec("git add .", (error, stdout, stderr) => {
+      if (error) {
+        console.error(`Error adding changes: ${error.message}`);
+        return;
+      }
+      console.log(`Changes added: ${stdout}`);
+
+      // Step 3: Commit changes
+      const commitMessage = "New update!";
+      exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
+        if (error) {
+          console.error(`Error committing changes: ${error.message}`);
+          return;
+        }
+        console.log(`Changes committed: ${stdout}`);
+
+        // Step 4: Push changes to the remote repository on GitHub
+        exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
+          if (error) {
+            console.error(`Error pushing changes: ${error.message}`);
+            return;
+          }
+          console.log(`Changes pushed: ${stdout}`);
+        });
+      });
+    });
+  });
+
   // Get Data from https://arknights-poll.net
   console.log("Get Data arknights-poll.net ...");
   const requestOpB6Data = await fetch(
@@ -205,43 +242,6 @@ exports.generate = async (req, res) => {
       console.log("Data written to file");
     }
   );
-
-  // Step 1: Pull any changes from the remote repository
-  exec(`git pull origin ${branchName}`, (error, stdout, stderr) => {
-    if (error) {
-      console.error(`Error pulling changes: ${error.message}`);
-      return;
-    }
-    console.log(`Changes pulled: ${stdout}`);
-
-    // Step 2: Add changes
-    exec("git add .", (error, stdout, stderr) => {
-      if (error) {
-        console.error(`Error adding changes: ${error.message}`);
-        return;
-      }
-      console.log(`Changes added: ${stdout}`);
-
-      // Step 3: Commit changes
-      const commitMessage = "New update!";
-      exec(`git commit -m "${commitMessage}"`, (error, stdout, stderr) => {
-        if (error) {
-          console.error(`Error committing changes: ${error.message}`);
-          return;
-        }
-        console.log(`Changes committed: ${stdout}`);
-
-        // Step 4: Push changes to the remote repository on GitHub
-        exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
-          if (error) {
-            console.error(`Error pushing changes: ${error.message}`);
-            return;
-          }
-          console.log(`Changes pushed: ${stdout}`);
-        });
-      });
-    });
-  });
 
   res.status(200).json({ success: true, message: "SUCCESS" });
 };

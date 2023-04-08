@@ -53,8 +53,8 @@
         "image": "uniequip_002_kalts.png",
         "unlocked": "36.37",
         "level_one": "9.64",
-        "level_two": "33.96",
-        "level_three": "20.03"
+        "level_two": "33.92",
+        "level_three": "20.07"
       }
     ]
   },
@@ -110,9 +110,9 @@
         "cn_name": "罗德岛制式剑",
         "en_name": "Rhodes Island Standard Combat Sword",
         "image": "uniequip_002_chen.png",
-        "unlocked": "46.75",
+        "unlocked": "46.70",
         "level_one": "23.26",
-        "level_two": "7.88",
+        "level_two": "7.94",
         "level_three": "22.10"
       }
     ]
@@ -286,10 +286,10 @@
         "cn_name": "“初诺”",
         "en_name": "-",
         "image": "uniequip_003_siege.png",
-        "unlocked": "91.27",
-        "level_one": "6.48",
-        "level_two": "0.75",
-        "level_three": "1.50"
+        "unlocked": "91.32",
+        "level_one": "6.45",
+        "level_two": "0.74",
+        "level_three": "1.49"
       }
     ]
   },
@@ -332,8 +332,8 @@
         "cn_name": "D12",
         "en_name": "D12",
         "image": "skchr_cqbw_3.png",
-        "unspecialized": "42.99",
-        "specialization_one": "15.38",
+        "unspecialized": "43.05",
+        "specialization_one": "15.32",
         "specialization_two": "3.88",
         "specialization_three": "37.75"
       }
@@ -404,10 +404,10 @@
         "cn_name": "“同熔”",
         "en_name": "-",
         "image": "uniequip_002_ifrit.png",
-        "unlocked": "87.21",
-        "level_one": "10.02",
+        "unlocked": "87.26",
+        "level_one": "9.98",
         "level_two": "0.85",
-        "level_three": "1.92"
+        "level_three": "1.91"
       }
     ]
   },
@@ -450,8 +450,8 @@
         "cn_name": "力之锯",
         "en_name": "Saw of Strength",
         "image": "skchr_hsguma_3.png",
-        "unspecialized": "79.82",
-        "specialization_one": "5.62",
+        "unspecialized": "79.87",
+        "specialization_one": "5.57",
         "specialization_two": "1.63",
         "specialization_three": "12.93"
       }
@@ -463,9 +463,9 @@
         "cn_name": "护身符",
         "en_name": "-",
         "image": "uniequip_003_hsguma.png",
-        "unlocked": "64.63",
+        "unlocked": "64.58",
         "level_one": "22.25",
-        "level_two": "5.09",
+        "level_two": "5.14",
         "level_three": "8.02"
       },
       {
@@ -474,9 +474,9 @@
         "cn_name": "友人们的赠礼",
         "en_name": "Gifts From Friends",
         "image": "uniequip_002_hsguma.png",
-        "unlocked": "57.66",
+        "unlocked": "57.71",
         "level_one": "30.03",
-        "level_two": "4.90",
+        "level_two": "4.85",
         "level_three": "7.40"
       }
     ]
@@ -509,8 +509,8 @@
         "cn_name": "自动掩护",
         "en_name": "Auto Protect",
         "image": "skchr_shining_2.png",
-        "unspecialized": "70.60",
-        "specialization_one": "10.03",
+        "unspecialized": "70.65",
+        "specialization_one": "9.97",
         "specialization_two": "0.99",
         "specialization_three": "18.39"
       },
@@ -533,9 +533,9 @@
         "cn_name": "“使徒”",
         "en_name": "-",
         "image": "uniequip_003_shining.png",
-        "unlocked": "93.60",
-        "level_one": "4.27",
-        "level_two": "1.66",
+        "unlocked": "93.63",
+        "level_one": "4.25",
+        "level_two": "1.65",
         "level_three": "0.47"
       },
       {
@@ -568,8 +568,8 @@
         "cn_name": "强力击·γ型",
         "en_name": "Power Strike γ",
         "image": "skchr_svrash_1.png",
-        "unspecialized": "92.19",
-        "specialization_one": "1.47",
+        "unspecialized": "92.15",
+        "specialization_one": "1.51",
         "specialization_two": "0.29",
         "specialization_three": "6.05"
       },
@@ -579,9 +579,9 @@
         "cn_name": "雪境生存法则",
         "en_name": "Rules of Survival",
         "image": "skchr_svrash_2.png",
-        "unspecialized": "90.13",
+        "unspecialized": "90.18",
         "specialization_one": "2.31",
-        "specialization_two": "0.50",
+        "specialization_two": "0.46",
         "specialization_three": "7.05"
       },
       {
@@ -626,8 +626,8 @@
         "cn_name": "法术护盾",
         "en_name": "Arts Shield",
         "image": "skchr_cgbird_2.png",
-        "unspecialized": "59.37",
-        "specialization_one": "16.27",
+        "unspecialized": "59.42",
+        "specialization_one": "16.22",
         "specialization_two": "2.30",
         "specialization_three": "22.06"
       },
@@ -687,8 +687,8 @@
         "image": "skchr_amgoat_2.png",
         "unspecialized": "4.26",
         "specialization_one": "14.58",
-        "specialization_two": "3.92",
-        "specialization_three": "77.24"
+        "specialization_two": "3.96",
+        "specialization_three": "77.20"
       },
       {
         "id": "char_180_amgoat_skill_3",
@@ -697,9 +697,9 @@
         "en_name": "Volcano",
         "image": "skchr_amgoat_3.png",
         "unspecialized": "2.48",
-        "specialization_one": "1.48",
+        "specialization_one": "1.52",
         "specialization_two": "2.05",
-        "specialization_three": "93.99"
+        "specialization_three": "93.95"
       }
     ],
     "modules": [
@@ -709,10 +709,10 @@
         "cn_name": "“错过的声音”",
         "en_name": "-",
         "image": "uniequip_002_amgoat.png",
-        "unlocked": "28.44",
-        "level_one": "35.85",
+        "unlocked": "28.48",
+        "level_one": "35.83",
         "level_two": "11.65",
-        "level_three": "24.05"
+        "level_three": "24.04"
       }
     ]
   },
@@ -755,8 +755,8 @@
         "cn_name": "满月",
         "en_name": "Full Moon",
         "image": "skchr_helage_3.png",
-        "unspecialized": "60.82",
-        "specialization_one": "27.52",
+        "unspecialized": "60.75",
+        "specialization_one": "27.59",
         "specialization_two": "1.82",
         "specialization_three": "9.84"
       }
@@ -781,10 +781,10 @@
     "en_name": "Rosa",
     "image": "char_197_poca.png",
     "number_sample": 2516,
-    "holding_rate": "71.66",
-    "non_elite": "8.82",
+    "holding_rate": "71.70",
+    "non_elite": "8.81",
     "elite_one": "5.88",
-    "elite_two": "85.30",
+    "elite_two": "85.31",
     "skills": [
       {
         "id": "char_197_poca_skill_1",
@@ -792,9 +792,9 @@
         "cn_name": "攻击力强化·γ型",
         "en_name": "ATK Up γ",
         "image": "skcom_atk_up[3].png",
-        "unspecialized": "97.85",
+        "unspecialized": "97.86",
         "specialization_one": "0.26",
-        "specialization_two": "0.07",
+        "specialization_two": "0.06",
         "specialization_three": "1.82"
       },
       {
@@ -803,10 +803,10 @@
         "cn_name": "分裂射击",
         "en_name": "Split Shot",
         "image": "skchr_poca_2.png",
-        "unspecialized": "60.66",
-        "specialization_one": "3.45",
-        "specialization_two": "2.80",
-        "specialization_three": "33.09"
+        "unspecialized": "60.62",
+        "specialization_one": "3.44",
+        "specialization_two": "2.79",
+        "specialization_three": "33.14"
       },
       {
         "id": "char_197_poca_skill_3",
@@ -814,10 +814,10 @@
         "cn_name": "雪崩击",
         "en_name": "Avalanche Breaker",
         "image": "skchr_poca_3.png",
-        "unspecialized": "31.66",
+        "unspecialized": "31.71",
         "specialization_one": "2.73",
-        "specialization_two": "3.84",
-        "specialization_three": "61.77"
+        "specialization_two": "3.83",
+        "specialization_three": "61.73"
       }
     ],
     "modules": [
@@ -827,10 +827,10 @@
         "cn_name": "攻城器械训练装置",
         "en_name": "-",
         "image": "uniequip_002_poca.png",
-        "unlocked": "44.02",
-        "level_one": "4.94",
-        "level_two": "5.66",
-        "level_three": "45.38"
+        "unlocked": "43.92",
+        "level_one": "5.00",
+        "level_two": "5.65",
+        "level_three": "45.42"
       }
     ]
   },
@@ -886,9 +886,9 @@
         "cn_name": "闲置的拳击手套",
         "en_name": "Unused Boxing Gloves",
         "image": "uniequip_002_demkni.png",
-        "unlocked": "21.64",
+        "unlocked": "21.68",
         "level_one": "17.87",
-        "level_two": "39.55",
+        "level_two": "39.50",
         "level_three": "20.95"
       },
       {
@@ -910,7 +910,7 @@
     "en_name": "Gnosis",
     "image": "char_206_gnosis.png",
     "number_sample": 2502,
-    "holding_rate": "64.87",
+    "holding_rate": "64.83",
     "non_elite": "3.27",
     "elite_one": "2.34",
     "elite_two": "94.39",
@@ -921,7 +921,7 @@
         "cn_name": "高速思考",
         "en_name": "High-Speed Cogitation",
         "image": "skchr_gnosis_1.png",
-        "unspecialized": "88.19",
+        "unspecialized": "88.18",
         "specialization_one": "1.83",
         "specialization_two": "0.98",
         "specialization_three": "9.01"
@@ -932,10 +932,10 @@
         "cn_name": "零度爆发",
         "en_name": "Zero-Point Burst",
         "image": "skchr_gnosis_2.png",
-        "unspecialized": "45.56",
-        "specialization_one": "3.13",
+        "unspecialized": "45.59",
+        "specialization_one": "3.14",
         "specialization_two": "1.63",
-        "specialization_three": "49.67"
+        "specialization_three": "49.64"
       },
       {
         "id": "char_206_gnosis_skill_3",
@@ -943,10 +943,10 @@
         "cn_name": "失温症",
         "en_name": "Hypothermia",
         "image": "skchr_gnosis_3.png",
-        "unspecialized": "27.09",
+        "unspecialized": "27.11",
         "specialization_one": "2.94",
         "specialization_two": "3.33",
-        "specialization_three": "66.64"
+        "specialization_three": "66.62"
       }
     ],
     "modules": []
@@ -990,10 +990,10 @@
         "cn_name": "序时之匙",
         "en_name": "Key of Chronology",
         "image": "skchr_mostma_3.png",
-        "unspecialized": "51.76",
+        "unspecialized": "51.64",
         "specialization_one": "2.47",
         "specialization_two": "3.09",
-        "specialization_three": "42.68"
+        "specialization_three": "42.80"
       }
     ],
     "modules": [
@@ -1003,10 +1003,10 @@
         "cn_name": "锁与匙之家",
         "en_name": "Home of 'Black Lock' and 'White Key'",
         "image": "uniequip_002_mostma.png",
-        "unlocked": "41.63",
-        "level_one": "13.22",
+        "unlocked": "41.57",
+        "level_one": "13.16",
         "level_two": "4.08",
-        "level_three": "41.07"
+        "level_three": "41.20"
       }
     ]
   },
@@ -1063,8 +1063,8 @@
         "en_name": "Piledriver Spear Magazine",
         "image": "uniequip_002_bpipe.png",
         "unlocked": "7.47",
-        "level_one": "32.64",
-        "level_two": "9.78",
+        "level_one": "32.68",
+        "level_two": "9.73",
         "level_three": "50.11"
       }
     ]
@@ -1076,9 +1076,9 @@
     "image": "char_225_haak.png",
     "number_sample": 2502,
     "holding_rate": "80.06",
-    "non_elite": "14.13",
+    "non_elite": "14.08",
     "elite_one": "7.89",
-    "elite_two": "77.98",
+    "elite_two": "78.03",
     "skills": [
       {
         "id": "char_225_haak_skill_1",
@@ -1086,7 +1086,7 @@
         "cn_name": "快速射击",
         "en_name": "Rapid Fire",
         "image": "skchr_haak_1.png",
-        "unspecialized": "95.90",
+        "unspecialized": "95.91",
         "specialization_one": "1.09",
         "specialization_two": "0.13",
         "specialization_three": "2.88"
@@ -1100,7 +1100,7 @@
         "unspecialized": "95.52",
         "specialization_one": "0.70",
         "specialization_two": "0.19",
-        "specialization_three": "3.59"
+        "specialization_three": "3.58"
       },
       {
         "id": "char_225_haak_skill_3",
@@ -1108,10 +1108,10 @@
         "cn_name": "爆发剂·榴莲味",
         "en_name": "Durian-Flavored Stimpack",
         "image": "skchr_haak_3.png",
-        "unspecialized": "22.34",
-        "specialization_one": "2.50",
+        "unspecialized": "22.33",
+        "specialization_one": "2.56",
         "specialization_two": "2.88",
-        "specialization_three": "72.28"
+        "specialization_three": "72.23"
       }
     ],
     "modules": []
@@ -1192,7 +1192,7 @@
     "en_name": "Phantom",
     "image": "char_250_phatom.png",
     "number_sample": 2503,
-    "holding_rate": "83.78",
+    "holding_rate": "83.82",
     "non_elite": "6.63",
     "elite_one": "5.48",
     "elite_two": "87.89",
@@ -1214,10 +1214,10 @@
         "cn_name": "血色乐章",
         "en_name": "Bloody Opus",
         "image": "skchr_phatom_2.png",
-        "unspecialized": "23.55",
+        "unspecialized": "23.54",
         "specialization_one": "3.31",
         "specialization_two": "2.60",
-        "specialization_three": "70.54"
+        "specialization_three": "70.55"
       },
       {
         "id": "char_250_phatom_skill_3",
@@ -1225,10 +1225,10 @@
         "cn_name": "夜幕突袭",
         "en_name": "Night Raid",
         "image": "skchr_phatom_3.png",
-        "unspecialized": "63.05",
-        "specialization_one": "3.36",
+        "unspecialized": "62.96",
+        "specialization_one": "3.42",
         "specialization_two": "1.68",
-        "specialization_three": "31.90"
+        "specialization_three": "31.94"
       }
     ],
     "modules": [
@@ -1238,9 +1238,9 @@
         "cn_name": "克里斯汀小姐的毛毡",
         "en_name": "Miss Christine's Felt",
         "image": "uniequip_002_phatom.png",
-        "unlocked": "23.11",
-        "level_one": "62.62",
-        "level_two": "4.29",
+        "unlocked": "23.10",
+        "level_one": "62.64",
+        "level_two": "4.28",
         "level_three": "9.98"
       }
     ]
@@ -1354,10 +1354,10 @@
         "cn_name": "震地碎岩击",
         "en_name": "Earth-Shattering Smash",
         "image": "skchr_f12yin_3.png",
-        "unspecialized": "68.01",
+        "unspecialized": "67.96",
         "specialization_one": "3.71",
         "specialization_two": "1.69",
-        "specialization_three": "26.59"
+        "specialization_three": "26.64"
       }
     ],
     "modules": []
@@ -1390,8 +1390,8 @@
         "cn_name": "秘杖·微粒模式",
         "en_name": "Arcane Staff - Particle Mode",
         "image": "skchr_aglina_2.png",
-        "unspecialized": "50.67",
-        "specialization_one": "4.09",
+        "unspecialized": "50.62",
+        "specialization_one": "4.14",
         "specialization_two": "1.97",
         "specialization_three": "43.27"
       },
@@ -1555,10 +1555,10 @@
         "cn_name": "防御力强化·γ型",
         "en_name": "DEF Up γ",
         "image": "skcom_def_up[3].png",
-        "unspecialized": "99.42",
+        "unspecialized": "99.38",
         "specialization_one": "0.09",
         "specialization_two": "0.00",
-        "specialization_three": "0.49"
+        "specialization_three": "0.53"
       },
       {
         "id": "char_311_mudrok_skill_2",
@@ -1766,8 +1766,8 @@
         "cn_name": "定制弩配件套装",
         "en_name": "Customized Crossbow Accessory Suit",
         "image": "uniequip_002_shwaz.png",
-        "unlocked": "48.08",
-        "level_one": "32.43",
+        "unlocked": "48.02",
+        "level_one": "32.48",
         "level_two": "11.69",
         "level_three": "7.80"
       },
@@ -1860,9 +1860,9 @@
         "en_name": "Childhood Frolic",
         "image": "skchr_lisa_2.png",
         "unspecialized": "27.78",
-        "specialization_one": "28.43",
+        "specialization_one": "28.48",
         "specialization_two": "3.73",
-        "specialization_three": "40.06"
+        "specialization_three": "40.01"
       },
       {
         "id": "char_358_lisa_skill_3",
@@ -1918,9 +1918,9 @@
         "cn_name": "除恶",
         "en_name": "Cleansing Evil",
         "image": "skchr_saga_2.png",
-        "unspecialized": "42.28",
+        "unspecialized": "42.22",
         "specialization_one": "19.20",
-        "specialization_two": "3.52",
+        "specialization_two": "3.58",
         "specialization_three": "35.00"
       },
       {
@@ -1977,10 +1977,10 @@
         "cn_name": "电流翻涌",
         "en_name": "Surging Current",
         "image": "skchr_gdglow_2.png",
-        "unspecialized": "34.14",
+        "unspecialized": "34.20",
         "specialization_one": "5.10",
         "specialization_two": "4.13",
-        "specialization_three": "56.63"
+        "specialization_three": "56.57"
       },
       {
         "id": "char_377_gdglow_skill_3",
@@ -2003,9 +2003,9 @@
     "image": "char_391_rosmon.png",
     "number_sample": 2508,
     "holding_rate": "61.96",
-    "non_elite": "8.56",
+    "non_elite": "8.49",
     "elite_one": "5.66",
-    "elite_two": "85.78",
+    "elite_two": "85.84",
     "skills": [
       {
         "id": "char_391_rosmon_skill_1",
@@ -2013,10 +2013,10 @@
         "cn_name": "思维膨大",
         "en_name": "Expanded Cognition",
         "image": "skchr_rosmon_1.png",
-        "unspecialized": "94.22",
-        "specialization_one": "0.83",
-        "specialization_two": "0.38",
-        "specialization_three": "4.58"
+        "unspecialized": "94.23",
+        "specialization_one": "0.82",
+        "specialization_two": "0.37",
+        "specialization_three": "4.57"
       },
       {
         "id": "char_391_rosmon_skill_2",
@@ -2024,10 +2024,10 @@
         "cn_name": "末梢阻断",
         "en_name": "Nociceptor Inhibition",
         "image": "skchr_rosmon_2.png",
-        "unspecialized": "86.72",
+        "unspecialized": "86.73",
         "specialization_one": "2.70",
         "specialization_two": "0.45",
-        "specialization_three": "10.13"
+        "specialization_three": "10.12"
       },
       {
         "id": "char_391_rosmon_skill_3",
@@ -2035,10 +2035,10 @@
         "cn_name": "“如你所愿”",
         "en_name": "'As You Wish'",
         "image": "skchr_rosmon_3.png",
-        "unspecialized": "55.96",
+        "unspecialized": "55.92",
         "specialization_one": "2.10",
-        "specialization_two": "2.18",
-        "specialization_three": "39.76"
+        "specialization_two": "2.17",
+        "specialization_three": "39.81"
       }
     ],
     "modules": []
@@ -2083,9 +2083,9 @@
         "en_name": "Liquid Nitrogen Cannon",
         "image": "skchr_weedy_3.png",
         "unspecialized": "28.65",
-        "specialization_one": "2.72",
+        "specialization_one": "2.78",
         "specialization_two": "2.05",
-        "specialization_three": "66.57"
+        "specialization_three": "66.52"
       }
     ],
     "modules": [
@@ -2095,10 +2095,10 @@
         "cn_name": "仿生海龙改型",
         "en_name": "-",
         "image": "uniequip_002_weedy.png",
-        "unlocked": "88.58",
-        "level_one": "8.12",
+        "unlocked": "88.38",
+        "level_one": "8.33",
         "level_two": "0.51",
-        "level_three": "2.79"
+        "level_three": "2.78"
       }
     ]
   },
@@ -2178,10 +2178,10 @@
     "en_name": "Flametail",
     "image": "char_420_flamtl.png",
     "number_sample": 2536,
-    "holding_rate": "66.76",
-    "non_elite": "15.48",
-    "elite_one": "10.57",
-    "elite_two": "73.95",
+    "holding_rate": "66.72",
+    "non_elite": "15.43",
+    "elite_one": "10.58",
+    "elite_two": "74.00",
     "skills": [
       {
         "id": "char_420_flamtl_skill_1",
@@ -2248,8 +2248,8 @@
         "cn_name": "光芒涌动",
         "en_name": "Surging Brilliance",
         "image": "skchr_blemsh_1.png",
-        "unspecialized": "82.89",
-        "specialization_one": "6.43",
+        "unspecialized": "82.82",
+        "specialization_one": "6.50",
         "specialization_two": "0.73",
         "specialization_three": "9.95"
       },
@@ -2259,8 +2259,8 @@
         "cn_name": "慑敌辉光",
         "en_name": "Deterring Radiance",
         "image": "skchr_blemsh_2.png",
-        "unspecialized": "61.54",
-        "specialization_one": "3.91",
+        "unspecialized": "61.47",
+        "specialization_one": "3.98",
         "specialization_two": "3.05",
         "specialization_three": "31.50"
       },
@@ -2270,8 +2270,8 @@
         "cn_name": "先贤化身",
         "en_name": "Divine Avatar",
         "image": "skchr_blemsh_3.png",
-        "unspecialized": "76.59",
-        "specialization_one": "2.79",
+        "unspecialized": "76.53",
+        "specialization_one": "2.85",
         "specialization_two": "1.26",
         "specialization_three": "19.36"
       }
@@ -2296,10 +2296,10 @@
     "en_name": "Carnelian",
     "image": "char_426_billro.png",
     "number_sample": 2507,
-    "holding_rate": "62.43",
-    "non_elite": "16.68",
+    "holding_rate": "62.50",
+    "non_elite": "16.66",
     "elite_one": "6.45",
-    "elite_two": "76.87",
+    "elite_two": "76.90",
     "skills": [
       {
         "id": "char_426_billro_skill_1",
@@ -2318,10 +2318,10 @@
         "cn_name": "沙缚镣锁",
         "en_name": "Sand Fetters",
         "image": "skchr_billro_2.png",
-        "unspecialized": "82.21",
-        "specialization_one": "2.33",
-        "specialization_two": "0.67",
-        "specialization_three": "14.80"
+        "unspecialized": "82.24",
+        "specialization_one": "2.32",
+        "specialization_two": "0.66",
+        "specialization_three": "14.77"
       },
       {
         "id": "char_426_billro_skill_3",
@@ -2329,10 +2329,10 @@
         "cn_name": "食噬之印",
         "en_name": "Mark of Gluttony",
         "image": "skchr_billro_3.png",
-        "unspecialized": "46.05",
+        "unspecialized": "46.14",
         "specialization_one": "4.07",
         "specialization_two": "2.99",
-        "specialization_three": "46.88"
+        "specialization_three": "46.80"
       }
     ],
     "modules": []
@@ -2344,9 +2344,9 @@
     "image": "char_427_vigil.png",
     "number_sample": 2535,
     "holding_rate": "88.40",
-    "non_elite": "42.03",
+    "non_elite": "41.99",
     "elite_one": "12.63",
-    "elite_two": "45.34",
+    "elite_two": "45.38",
     "skills": [
       {
         "id": "char_427_vigil_skill_1",
@@ -2355,7 +2355,7 @@
         "en_name": "-",
         "image": "skchr_vigil_1.png",
         "unspecialized": "97.15",
-        "specialization_one": "0.30",
+        "specialization_one": "0.29",
         "specialization_two": "0.00",
         "specialization_three": "2.56"
       },
@@ -2376,10 +2376,10 @@
         "cn_name": "领袖的尊严",
         "en_name": "-",
         "image": "skchr_vigil_3.png",
-        "unspecialized": "90.65",
+        "unspecialized": "90.66",
         "specialization_one": "0.49",
         "specialization_two": "0.79",
-        "specialization_three": "8.07"
+        "specialization_three": "8.06"
       }
     ],
     "modules": []
@@ -2471,8 +2471,8 @@
         "cn_name": "唤醒",
         "en_name": "Awaken",
         "image": "skchr_mizuki_1.png",
-        "unspecialized": "26.16",
-        "specialization_one": "6.51",
+        "unspecialized": "26.23",
+        "specialization_one": "6.44",
         "specialization_two": "2.66",
         "specialization_three": "64.67"
       },
@@ -2506,9 +2506,9 @@
         "cn_name": "使者之约",
         "en_name": "Entreaty of the Herald",
         "image": "uniequip_002_mizuki.png",
-        "unlocked": "39.44",
+        "unlocked": "39.51",
         "level_one": "18.92",
-        "level_two": "26.43",
+        "level_two": "26.36",
         "level_three": "15.21"
       },
       {
@@ -2611,10 +2611,10 @@
         "cn_name": "聚焦指令",
         "en_name": "Focus Command",
         "image": "skchr_pasngr_2.png",
-        "unspecialized": "87.74",
+        "unspecialized": "87.80",
         "specialization_one": "1.50",
         "specialization_two": "0.46",
-        "specialization_three": "10.31"
+        "specialization_three": "10.24"
       },
       {
         "id": "char_472_pasngr_skill_3",
@@ -2622,10 +2622,10 @@
         "cn_name": "辉煌裂片",
         "en_name": "Glorious Shards",
         "image": "skchr_pasngr_3.png",
-        "unspecialized": "18.20",
+        "unspecialized": "18.26",
         "specialization_one": "3.59",
         "specialization_two": "2.09",
-        "specialization_three": "76.13"
+        "specialization_three": "76.06"
       }
     ],
     "modules": [
@@ -2635,8 +2635,8 @@
         "cn_name": "电磁调节器",
         "en_name": "Electromagnetic Regulator",
         "image": "uniequip_002_pasngr.png",
-        "unlocked": "27.27",
-        "level_one": "40.70",
+        "unlocked": "27.33",
+        "level_one": "40.64",
         "level_two": "4.57",
         "level_three": "27.46"
       },
@@ -2646,8 +2646,8 @@
         "cn_name": "王权金币",
         "en_name": "Gold of Crowns",
         "image": "uniequip_003_pasngr.png",
-        "unlocked": "72.86",
-        "level_one": "16.70",
+        "unlocked": "72.93",
+        "level_one": "16.63",
         "level_two": "1.37",
         "level_three": "9.07"
       }
@@ -2670,10 +2670,10 @@
         "cn_name": "缺水的大洋裂断",
         "en_name": "Waterless Parting of the Great Ocean",
         "image": "skchr_glady_1.png",
-        "unspecialized": "54.76",
+        "unspecialized": "54.81",
         "specialization_one": "8.63",
         "specialization_two": "1.15",
-        "specialization_three": "35.46"
+        "specialization_three": "35.40"
       },
       {
         "id": "char_474_glady_skill_2",
@@ -2682,9 +2682,9 @@
         "en_name": "Waterless Grasp of the Raging Seas",
         "image": "skchr_glady_2.png",
         "unspecialized": "75.92",
-        "specialization_one": "2.09",
+        "specialization_one": "2.14",
         "specialization_two": "1.32",
-        "specialization_three": "20.67"
+        "specialization_three": "20.62"
       },
       {
         "id": "char_474_glady_skill_3",
@@ -2692,8 +2692,8 @@
         "cn_name": "缺水的碎漩狂舞",
         "en_name": "Waterless Dance of the Shattered Maelstrom",
         "image": "skchr_glady_3.png",
-        "unspecialized": "64.21",
-        "specialization_one": "2.69",
+        "unspecialized": "64.16",
+        "specialization_one": "2.75",
         "specialization_two": "1.65",
         "specialization_three": "31.45"
       }
@@ -2766,9 +2766,9 @@
     "image": "char_485_pallas.png",
     "number_sample": 2532,
     "holding_rate": "56.20",
-    "non_elite": "14.27",
+    "non_elite": "14.20",
     "elite_one": "6.68",
-    "elite_two": "79.06",
+    "elite_two": "79.13",
     "skills": [
       {
         "id": "char_485_pallas_skill_1",
@@ -2776,10 +2776,10 @@
         "cn_name": "胜利的连击",
         "en_name": "Strikes of Victory",
         "image": "skchr_pallas_1.png",
-        "unspecialized": "44.09",
-        "specialization_one": "3.47",
+        "unspecialized": "44.05",
+        "specialization_one": "3.55",
         "specialization_two": "1.60",
-        "specialization_three": "50.84"
+        "specialization_three": "50.80"
       },
       {
         "id": "char_485_pallas_skill_2",
@@ -2798,10 +2798,10 @@
         "cn_name": "英勇的祝福",
         "en_name": "Blessing of Heroism",
         "image": "skchr_pallas_3.png",
-        "unspecialized": "78.58",
+        "unspecialized": "78.60",
         "specialization_one": "2.31",
         "specialization_two": "0.98",
-        "specialization_three": "18.13"
+        "specialization_three": "18.12"
       }
     ],
     "modules": [
@@ -2811,9 +2811,9 @@
         "cn_name": "“故乡的山岩”",
         "en_name": "'Ούρος'",
         "image": "uniequip_002_pallas.png",
-        "unlocked": "44.27",
-        "level_one": "49.07",
-        "level_two": "2.76",
+        "unlocked": "44.23",
+        "level_one": "49.11",
+        "level_two": "2.75",
         "level_three": "3.91"
       },
       {
@@ -2822,8 +2822,8 @@
         "cn_name": "“赫里亚之辉”",
         "en_name": "'Light of Heria'",
         "image": "uniequip_003_pallas.png",
-        "unlocked": "85.51",
-        "level_one": "12.09",
+        "unlocked": "85.52",
+        "level_one": "12.08",
         "level_two": "0.18",
         "level_three": "2.22"
       }
@@ -2904,8 +2904,8 @@
         "cn_name": "“堇青之夜”",
         "en_name": "'Night of Violet'",
         "image": "skchr_chen2_2.png",
-        "unspecialized": "95.85",
-        "specialization_one": "1.00",
+        "unspecialized": "95.80",
+        "specialization_one": "1.05",
         "specialization_two": "0.63",
         "specialization_three": "2.52"
       },
@@ -2940,10 +2940,10 @@
         "cn_name": "灿焰长刃",
         "en_name": "Flaming Edge",
         "image": "skchr_nearl2_1.png",
-        "unspecialized": "59.14",
+        "unspecialized": "59.20",
         "specialization_one": "3.44",
         "specialization_two": "2.65",
-        "specialization_three": "34.76"
+        "specialization_three": "34.71"
       },
       {
         "id": "char_1014_nearl2_skill_2",
@@ -2975,10 +2975,10 @@
         "cn_name": "耀阳锋刃",
         "en_name": "Blade of Blazing Sun",
         "image": "uniequip_002_nearl2.png",
-        "unlocked": "11.46",
+        "unlocked": "11.51",
         "level_one": "30.47",
         "level_two": "14.62",
-        "level_three": "43.45"
+        "level_three": "43.40"
       }
     ]
   },
@@ -2988,7 +2988,7 @@
     "en_name": "-",
     "image": "char_1020_reed2.png",
     "number_sample": 2493,
-    "holding_rate": "70.32",
+    "holding_rate": "70.28",
     "non_elite": "1.37",
     "elite_one": "1.94",
     "elite_two": "96.69",
@@ -3010,10 +3010,10 @@
         "cn_name": "枯荣共息",
         "en_name": "-",
         "image": "skchr_reed2_2.png",
-        "unspecialized": "8.61",
+        "unspecialized": "8.62",
         "specialization_one": "1.77",
         "specialization_two": "3.72",
-        "specialization_three": "85.90"
+        "specialization_three": "85.89"
       },
       {
         "id": "char_1020_reed2_skill_3",
@@ -3021,10 +3021,10 @@
         "cn_name": "生命火种",
         "en_name": "-",
         "image": "skchr_reed2_3.png",
-        "unspecialized": "35.75",
+        "unspecialized": "35.77",
         "specialization_one": "2.83",
         "specialization_two": "2.36",
-        "specialization_three": "59.06"
+        "specialization_three": "59.03"
       }
     ],
     "modules": []
@@ -3082,9 +3082,9 @@
         "en_name": "'Vinyl Record' Box",
         "image": "uniequip_002_ghost2.png",
         "unlocked": "16.23",
-        "level_one": "6.04",
+        "level_one": "6.10",
         "level_two": "2.42",
-        "level_three": "75.32"
+        "level_three": "75.26"
       },
       {
         "id": "char_1023_ghost2_equipment_2",
@@ -3129,8 +3129,8 @@
         "image": "skchr_gvial2_2.png",
         "unspecialized": "10.47",
         "specialization_one": "1.55",
-        "specialization_two": "2.38",
-        "specialization_three": "85.60"
+        "specialization_two": "2.44",
+        "specialization_three": "85.54"
       },
       {
         "id": "char_1026_gvial2_skill_3",
@@ -3174,10 +3174,10 @@
         "cn_name": "阵雨连绵",
         "en_name": "-",
         "image": "skchr_texas2_2.png",
-        "unspecialized": "12.71",
+        "unspecialized": "12.75",
         "specialization_one": "1.60",
         "specialization_two": "4.12",
-        "specialization_three": "81.57"
+        "specialization_three": "81.52"
       },
       {
         "id": "char_1028_texas2_skill_3",
@@ -3198,8 +3198,8 @@
         "cn_name": "蓝莓与黑巧",
         "en_name": "-",
         "image": "uniequip_002_texas2.png",
-        "unlocked": "14.69",
-        "level_one": "34.19",
+        "unlocked": "14.74",
+        "level_one": "34.14",
         "level_two": "14.65",
         "level_three": "36.47"
       }
@@ -3210,11 +3210,11 @@
     "cn_name": "麒麟X夜刀",
     "en_name": "-",
     "image": "char_1029_yato2.png",
-    "number_sample": 503,
-    "holding_rate": "90.85",
-    "non_elite": "3.06",
-    "elite_one": "6.13",
-    "elite_two": "90.81",
+    "number_sample": 505,
+    "holding_rate": "90.89",
+    "non_elite": "3.05",
+    "elite_one": "6.10",
+    "elite_two": "90.85",
     "skills": [
       {
         "id": "char_1029_yato2_skill_1",
@@ -3222,10 +3222,10 @@
         "cn_name": "鬼人化",
         "en_name": "-",
         "image": "skchr_yato2_1.png",
-        "unspecialized": "84.34",
+        "unspecialized": "84.41",
         "specialization_one": "1.20",
-        "specialization_two": "1.45",
-        "specialization_three": "13.01"
+        "specialization_two": "1.44",
+        "specialization_three": "12.95"
       },
       {
         "id": "char_1029_yato2_skill_2",
@@ -3233,10 +3233,10 @@
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
-        "unspecialized": "29.88",
-        "specialization_one": "1.69",
-        "specialization_two": "3.86",
-        "specialization_three": "64.58"
+        "unspecialized": "29.98",
+        "specialization_one": "1.68",
+        "specialization_two": "3.84",
+        "specialization_three": "64.51"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3244,10 +3244,10 @@
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.63",
-        "specialization_one": "2.17",
-        "specialization_two": "1.69",
-        "specialization_three": "59.52"
+        "unspecialized": "36.45",
+        "specialization_one": "2.40",
+        "specialization_two": "1.68",
+        "specialization_three": "59.47"
       }
     ],
     "modules": [
@@ -3257,10 +3257,10 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "34.94",
-        "level_one": "41.45",
-        "level_two": "9.40",
-        "level_three": "14.22"
+        "unlocked": "35.01",
+        "level_one": "41.49",
+        "level_two": "9.35",
+        "level_three": "14.15"
       }
     ]
   },
@@ -3270,10 +3270,10 @@
     "en_name": "Ceobe",
     "image": "char_2013_cerber.png",
     "number_sample": 2511,
-    "holding_rate": "81.04",
-    "non_elite": "7.67",
+    "holding_rate": "81.08",
+    "non_elite": "7.66",
     "elite_one": "6.24",
-    "elite_two": "86.09",
+    "elite_two": "86.10",
     "skills": [
       {
         "id": "char_2013_cerber_skill_1",
@@ -3281,9 +3281,9 @@
         "cn_name": "“很冰的斧”",
         "en_name": "'Really Cold Axe'",
         "image": "skchr_cerber_1.png",
-        "unspecialized": "94.69",
+        "unspecialized": "94.64",
         "specialization_one": "1.08",
-        "specialization_two": "0.57",
+        "specialization_two": "0.63",
         "specialization_three": "3.65"
       },
       {
@@ -3292,10 +3292,10 @@
         "cn_name": "“很热的刀”",
         "en_name": "'Really Hot Knives'",
         "image": "skchr_cerber_2.png",
-        "unspecialized": "29.05",
+        "unspecialized": "29.04",
         "specialization_one": "10.67",
         "specialization_two": "2.91",
-        "specialization_three": "57.36"
+        "specialization_three": "57.39"
       },
       {
         "id": "char_2013_cerber_skill_3",
@@ -3306,7 +3306,7 @@
         "unspecialized": "91.67",
         "specialization_one": "1.54",
         "specialization_two": "0.46",
-        "specialization_three": "6.34"
+        "specialization_three": "6.33"
       }
     ],
     "modules": [
@@ -3316,10 +3316,10 @@
         "cn_name": "“很干的面包”",
         "en_name": "-",
         "image": "uniequip_002_cerber.png",
-        "unlocked": "66.86",
-        "level_one": "9.18",
-        "level_two": "9.70",
-        "level_three": "14.26"
+        "unlocked": "66.75",
+        "level_one": "9.24",
+        "level_two": "9.69",
+        "level_three": "14.31"
       }
     ]
   },
@@ -3352,9 +3352,9 @@
         "en_name": "Copper Seal",
         "image": "skchr_nian_2.png",
         "unspecialized": "55.22",
-        "specialization_one": "4.63",
+        "specialization_one": "4.70",
         "specialization_two": "3.32",
-        "specialization_three": "36.83"
+        "specialization_three": "36.77"
       },
       {
         "id": "char_2014_nian_skill_3",
@@ -3362,8 +3362,8 @@
         "cn_name": "铁御",
         "en_name": "Iron Defense",
         "image": "skchr_nian_3.png",
-        "unspecialized": "79.41",
-        "specialization_one": "4.08",
+        "unspecialized": "79.34",
+        "specialization_one": "4.15",
         "specialization_two": "0.97",
         "specialization_three": "15.55"
       }
@@ -3375,8 +3375,8 @@
         "cn_name": "混沌阵列",
         "en_name": "The Array of Chaos",
         "image": "uniequip_002_nian.png",
-        "unlocked": "45.82",
-        "level_one": "12.72",
+        "unlocked": "45.89",
+        "level_one": "12.65",
         "level_two": "10.30",
         "level_three": "31.17"
       }
@@ -3399,10 +3399,10 @@
         "cn_name": "工笔入化",
         "en_name": "Transcendental Stroke",
         "image": "skchr_dusk_1.png",
-        "unspecialized": "51.54",
+        "unspecialized": "51.47",
         "specialization_one": "16.89",
         "specialization_two": "1.80",
-        "specialization_three": "29.77"
+        "specialization_three": "29.84"
       },
       {
         "id": "char_2015_dusk_skill_2",
@@ -3421,8 +3421,8 @@
         "cn_name": "写意胜形",
         "en_name": "Image over Form",
         "image": "skchr_dusk_3.png",
-        "unspecialized": "60.28",
-        "specialization_one": "5.01",
+        "unspecialized": "60.21",
+        "specialization_one": "5.07",
         "specialization_two": "2.40",
         "specialization_three": "32.31"
       }
@@ -3434,8 +3434,8 @@
         "cn_name": "无题长卷",
         "en_name": "Untitled Scroll",
         "image": "uniequip_002_dusk.png",
-        "unlocked": "52.80",
-        "level_one": "42.52",
+        "unlocked": "52.74",
+        "level_one": "42.59",
         "level_two": "1.94",
         "level_three": "2.74"
       },
@@ -3458,7 +3458,7 @@
     "en_name": "Ling",
     "image": "char_2023_ling.png",
     "number_sample": 2504,
-    "holding_rate": "76.20",
+    "holding_rate": "76.24",
     "non_elite": "0.68",
     "elite_one": "0.79",
     "elite_two": "98.53",
@@ -3480,10 +3480,10 @@
         "cn_name": "笑鸣瑟",
         "en_name": "Amidst Pleasant Melodies",
         "image": "skchr_ling_2.png",
-        "unspecialized": "55.32",
+        "unspecialized": "55.29",
         "specialization_one": "2.71",
         "specialization_two": "3.14",
-        "specialization_three": "38.83"
+        "specialization_three": "38.86"
       },
       {
         "id": "char_2023_ling_skill_3",
@@ -3492,7 +3492,7 @@
         "en_name": "To Remain Oneself",
         "image": "skchr_ling_3.png",
         "unspecialized": "4.31",
-        "specialization_one": "0.59",
+        "specialization_one": "0.58",
         "specialization_two": "1.33",
         "specialization_three": "93.78"
       }
@@ -3505,9 +3505,9 @@
         "en_name": "Fond Dream with Poetry",
         "image": "uniequip_002_ling.png",
         "unlocked": "5.85",
-        "level_one": "6.60",
-        "level_two": "15.69",
-        "level_three": "71.86"
+        "level_one": "6.59",
+        "level_two": "15.68",
+        "level_three": "71.88"
       }
     ]
   },
@@ -3516,11 +3516,11 @@
     "cn_name": "重岳",
     "en_name": "-",
     "image": "char_2024_chyue.png",
-    "number_sample": 2223,
-    "holding_rate": "84.57",
+    "number_sample": 2224,
+    "holding_rate": "84.58",
     "non_elite": "8.40",
-    "elite_one": "4.26",
-    "elite_two": "87.34",
+    "elite_one": "4.25",
+    "elite_two": "87.35",
     "skills": [
       {
         "id": "char_2024_chyue_skill_1",
@@ -3528,7 +3528,7 @@
         "cn_name": "冲盈",
         "en_name": "-",
         "image": "skchr_chyue_1.png",
-        "unspecialized": "94.82",
+        "unspecialized": "94.83",
         "specialization_one": "0.37",
         "specialization_two": "0.18",
         "specialization_three": "4.63"
@@ -3539,7 +3539,7 @@
         "cn_name": "拂尘",
         "en_name": "-",
         "image": "skchr_chyue_2.png",
-        "unspecialized": "91.53",
+        "unspecialized": "91.54",
         "specialization_one": "0.73",
         "specialization_two": "0.00",
         "specialization_three": "7.73"
@@ -3550,9 +3550,9 @@
         "cn_name": "我无",
         "en_name": "-",
         "image": "skchr_chyue_3.png",
-        "unspecialized": "8.10",
+        "unspecialized": "8.09",
         "specialization_one": "0.55",
-        "specialization_two": "1.71",
+        "specialization_two": "1.70",
         "specialization_three": "89.65"
       }
     ],
@@ -3610,8 +3610,8 @@
         "cn_name": "厚重的经卷",
         "en_name": "Liber Sacer",
         "image": "uniequip_002_irene.png",
-        "unlocked": "28.01",
-        "level_one": "54.91",
+        "unlocked": "28.07",
+        "level_one": "54.85",
         "level_two": "5.91",
         "level_three": "11.17"
       }
@@ -3635,9 +3635,9 @@
         "en_name": "Flare Grenade",
         "image": "skchr_horn_1.png",
         "unspecialized": "8.67",
-        "specialization_one": "8.27",
+        "specialization_one": "8.32",
         "specialization_two": "4.19",
-        "specialization_three": "78.87"
+        "specialization_three": "78.81"
       },
       {
         "id": "char_4039_horn_skill_2",
@@ -3646,9 +3646,9 @@
         "en_name": "Tempest Command",
         "image": "skchr_horn_2.png",
         "unspecialized": "48.66",
-        "specialization_one": "6.34",
+        "specialization_one": "6.40",
         "specialization_two": "2.74",
-        "specialization_three": "42.26"
+        "specialization_three": "42.20"
       },
       {
         "id": "char_4039_horn_skill_3",
@@ -3658,8 +3658,8 @@
         "image": "skchr_horn_3.png",
         "unspecialized": "11.76",
         "specialization_one": "3.32",
-        "specialization_two": "2.15",
-        "specialization_three": "82.77"
+        "specialization_two": "2.21",
+        "specialization_three": "82.71"
       }
     ],
     "modules": []
@@ -3716,8 +3716,8 @@
         "cn_name": "纯铜单筒望远镜",
         "en_name": "Spyglass",
         "image": "uniequip_002_lumen.png",
-        "unlocked": "40.06",
-        "level_one": "52.94",
+        "unlocked": "40.11",
+        "level_one": "52.89",
         "level_two": "2.35",
         "level_three": "4.65"
       },
@@ -3727,8 +3727,8 @@
         "cn_name": "“幸运”",
         "en_name": "-",
         "image": "uniequip_003_lumen.png",
-        "unlocked": "74.78",
-        "level_one": "21.86",
+        "unlocked": "74.80",
+        "level_one": "21.84",
         "level_two": "0.87",
         "level_three": "2.49"
       }
@@ -3740,10 +3740,10 @@
     "en_name": "Ebenholz",
     "image": "char_4046_ebnhlz.png",
     "number_sample": 2506,
-    "holding_rate": "53.43",
-    "non_elite": "12.55",
-    "elite_one": "6.57",
-    "elite_two": "80.88",
+    "holding_rate": "53.39",
+    "non_elite": "12.48",
+    "elite_one": "6.58",
+    "elite_two": "80.94",
     "skills": [
       {
         "id": "char_4046_ebnhlz_skill_1",
@@ -3810,10 +3810,10 @@
     "en_name": "Dorothy",
     "image": "char_4048_doroth.png",
     "number_sample": 2496,
-    "holding_rate": "45.43",
-    "non_elite": "10.58",
+    "holding_rate": "45.47",
+    "non_elite": "10.57",
     "elite_one": "4.76",
-    "elite_two": "84.66",
+    "elite_two": "84.67",
     "skills": [
       {
         "id": "char_4048_doroth_skill_1",
@@ -3822,7 +3822,7 @@
         "en_name": "Dangerous Entity Removal",
         "image": "skchr_doroth_1.png",
         "unspecialized": "97.19",
-        "specialization_one": "0.63",
+        "specialization_one": "0.62",
         "specialization_two": "0.00",
         "specialization_three": "2.19"
       },
@@ -3832,10 +3832,10 @@
         "cn_name": "流沙区域生成",
         "en_name": "Quicksand Generation",
         "image": "skchr_doroth_2.png",
-        "unspecialized": "67.08",
-        "specialization_one": "1.88",
+        "unspecialized": "67.12",
+        "specialization_one": "1.87",
         "specialization_two": "2.08",
-        "specialization_three": "28.96"
+        "specialization_three": "28.93"
       },
       {
         "id": "char_4048_doroth_skill_3",
@@ -3843,10 +3843,10 @@
         "cn_name": "高速共振排障",
         "en_name": "High-speed Resonating Troubleshooter",
         "image": "skchr_doroth_3.png",
-        "unspecialized": "45.52",
-        "specialization_one": "3.44",
+        "unspecialized": "45.58",
+        "specialization_one": "3.43",
         "specialization_two": "2.60",
-        "specialization_three": "48.44"
+        "specialization_three": "48.39"
       }
     ],
     "modules": []
@@ -3857,10 +3857,10 @@
     "en_name": "Pozëmka",
     "image": "char_4055_bgsnow.png",
     "number_sample": 2511,
-    "holding_rate": "80.25",
+    "holding_rate": "80.21",
     "non_elite": "0.74",
     "elite_one": "1.29",
-    "elite_two": "97.97",
+    "elite_two": "97.96",
     "skills": [
       {
         "id": "char_4055_bgsnow_skill_1",
@@ -3868,7 +3868,7 @@
         "cn_name": "抑扬格",
         "en_name": "Iamb",
         "image": "skchr_bgsnow_1.png",
-        "unspecialized": "95.14",
+        "unspecialized": "95.13",
         "specialization_one": "0.71",
         "specialization_two": "0.20",
         "specialization_three": "3.95"
@@ -3879,10 +3879,10 @@
         "cn_name": "点题",
         "en_name": "Précis",
         "image": "skchr_bgsnow_2.png",
-        "unspecialized": "79.38",
+        "unspecialized": "79.37",
         "specialization_one": "1.82",
         "specialization_two": "0.81",
-        "specialization_three": "17.98"
+        "specialization_three": "17.99"
       },
       {
         "id": "char_4055_bgsnow_skill_3",
@@ -3903,10 +3903,10 @@
         "cn_name": "打字机色带",
         "en_name": "Typewriter Ribbon",
         "image": "uniequip_002_bgsnow.png",
-        "unlocked": "7.90",
-        "level_one": "24.47",
-        "level_two": "22.44",
-        "level_three": "45.19"
+        "unlocked": "7.91",
+        "level_one": "24.48",
+        "level_two": "22.40",
+        "level_three": "45.21"
       }
     ]
   },
@@ -3962,11 +3962,11 @@
     "cn_name": "斥罪",
     "en_name": "-",
     "image": "char_4065_judge.png",
-    "number_sample": 2513,
-    "holding_rate": "73.38",
-    "non_elite": "19.03",
+    "number_sample": 2512,
+    "holding_rate": "73.37",
+    "non_elite": "18.99",
     "elite_one": "7.16",
-    "elite_two": "73.81",
+    "elite_two": "73.85",
     "skills": [
       {
         "id": "char_4065_judge_skill_1",
@@ -3996,10 +3996,10 @@
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
-        "unspecialized": "49.96",
+        "unspecialized": "49.89",
         "specialization_one": "4.85",
         "specialization_two": "2.13",
-        "specialization_three": "43.06"
+        "specialization_three": "43.13"
       }
     ],
     "modules": []
@@ -4010,10 +4010,10 @@
     "en_name": "-",
     "image": "char_4072_ironmn.png",
     "number_sample": 2490,
-    "holding_rate": "37.91",
-    "non_elite": "16.42",
-    "elite_one": "9.53",
-    "elite_two": "74.05",
+    "holding_rate": "37.95",
+    "non_elite": "16.40",
+    "elite_one": "9.52",
+    "elite_two": "74.07",
     "skills": [
       {
         "id": "char_4072_ironmn_skill_1",
@@ -4021,10 +4021,10 @@
         "cn_name": "极致火力",
         "en_name": "-",
         "image": "skchr_ironmn_1.png",
-        "unspecialized": "78.25",
-        "specialization_one": "1.72",
+        "unspecialized": "78.29",
+        "specialization_one": "1.71",
         "specialization_two": "1.14",
-        "specialization_three": "18.88"
+        "specialization_three": "18.86"
       },
       {
         "id": "char_4072_ironmn_skill_2",
@@ -4032,10 +4032,10 @@
         "cn_name": "高效补给",
         "en_name": "-",
         "image": "skchr_ironmn_2.png",
-        "unspecialized": "80.69",
+        "unspecialized": "80.71",
         "specialization_one": "4.86",
         "specialization_two": "1.00",
-        "specialization_three": "13.45"
+        "specialization_three": "13.43"
       },
       {
         "id": "char_4072_ironmn_skill_3",
@@ -4043,10 +4043,10 @@
         "cn_name": "铁钳号·原型机",
         "en_name": "-",
         "image": "skchr_ironmn_3.png",
-        "unspecialized": "71.53",
-        "specialization_one": "4.01",
-        "specialization_two": "1.72",
-        "specialization_three": "22.75"
+        "unspecialized": "71.57",
+        "specialization_one": "4.00",
+        "specialization_two": "1.71",
+        "specialization_three": "22.71"
       }
     ],
     "modules": []
@@ -4056,11 +4056,11 @@
     "cn_name": "林",
     "en_name": "-",
     "image": "char_4080_lin.png",
-    "number_sample": 2195,
-    "holding_rate": "74.12",
-    "non_elite": "26.74",
-    "elite_one": "9.16",
-    "elite_two": "64.11",
+    "number_sample": 2196,
+    "holding_rate": "74.13",
+    "non_elite": "26.72",
+    "elite_one": "9.15",
+    "elite_two": "64.13",
     "skills": [
       {
         "id": "char_4080_lin_skill_1",
@@ -4090,10 +4090,10 @@
         "cn_name": "流光乍裂",
         "en_name": "-",
         "image": "skchr_lin_3.png",
-        "unspecialized": "65.39",
+        "unspecialized": "65.42",
         "specialization_one": "1.82",
         "specialization_two": "1.44",
-        "specialization_three": "31.35"
+        "specialization_three": "31.32"
       }
     ],
     "modules": []
@@ -4103,11 +4103,11 @@
     "cn_name": "仇白",
     "en_name": "-",
     "image": "char_4082_qiubai.png",
-    "number_sample": 1178,
-    "holding_rate": "59.59",
-    "non_elite": "7.69",
-    "elite_one": "5.70",
-    "elite_two": "86.61",
+    "number_sample": 1180,
+    "holding_rate": "59.58",
+    "non_elite": "7.68",
+    "elite_one": "5.69",
+    "elite_two": "86.63",
     "skills": [
       {
         "id": "char_4082_qiubai_skill_1",
@@ -4115,10 +4115,10 @@
         "cn_name": "留羽",
         "en_name": "-",
         "image": "skchr_qiubai_1.png",
-        "unspecialized": "91.94",
+        "unspecialized": "91.95",
         "specialization_one": "1.48",
         "specialization_two": "0.33",
-        "specialization_three": "6.25"
+        "specialization_three": "6.24"
       },
       {
         "id": "char_4082_qiubai_skill_2",
@@ -4126,10 +4126,10 @@
         "cn_name": "承影",
         "en_name": "-",
         "image": "skchr_qiubai_2.png",
-        "unspecialized": "91.94",
+        "unspecialized": "91.95",
         "specialization_one": "1.15",
         "specialization_two": "0.16",
-        "specialization_three": "6.74"
+        "specialization_three": "6.73"
       },
       {
         "id": "char_4082_qiubai_skill_3",
@@ -4137,10 +4137,10 @@
         "cn_name": "问雪",
         "en_name": "-",
         "image": "skchr_qiubai_3.png",
-        "unspecialized": "13.49",
+        "unspecialized": "13.46",
         "specialization_one": "1.81",
         "specialization_two": "1.81",
-        "specialization_three": "82.89"
+        "specialization_three": "82.92"
       }
     ],
     "modules": []
