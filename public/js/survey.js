@@ -112,7 +112,7 @@ $(document).ready(function () {
                                       <div class="mx-1" style="min-width:fit-content;width:${skill.specialization_two}%">
                                         Mastery 2
                                         <br>
-                                        ${skill.specialization_three}%
+                                        ${skill.specialization_two}%
                                       </div><div class="mx-1" style="min-width:fit-content;width:${skill.specialization_three}%">
                                         Mastery 3
                                         <br>
