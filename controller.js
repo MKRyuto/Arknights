@@ -27,6 +27,13 @@ exports.generate = async (req, res) => {
           console.error(`Error committing changes: ${error.message}`);
         }
         console.log(`Changes committed: ${stdout}`);
+
+        exec(`git push origin ${branchName}`, (error, stdout, stderr) => {
+          if (error) {
+            console.error(`Error pushing changes: ${error.message}`);
+          }
+          console.log(`Changes pushed: ${stdout}`);
+        });
       });
     });
   });
