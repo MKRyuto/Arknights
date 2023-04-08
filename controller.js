@@ -181,7 +181,7 @@ exports.generate = async (req, res) => {
           return Object.assign(
             {
               id: skill.id,
-              type: index + 1,
+              type: index + 2,
               cn_name: skill.name,
               en_name:
                 typeof skillEnInfoData[skillId] === "undefined"
