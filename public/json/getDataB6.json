@@ -3002,10 +3002,10 @@
         "cn_name": "逐夜烁光",
         "en_name": "Night-Scouring Gleam",
         "image": "skchr_nearl2_2.png",
-        "unspecialized": "5.02",
+        "unspecialized": "4.96",
         "specialization_one": "2.87",
         "specialization_two": "2.31",
-        "specialization_three": "89.80"
+        "specialization_three": "89.85"
       },
       {
         "id": "char_1014_nearl2_skill_3",
