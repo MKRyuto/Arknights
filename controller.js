@@ -157,7 +157,7 @@ exports.generate = async (req, res) => {
     return Object.assign(
       {
         id: item.id,
-        profession: CharCnInfo[indexCharInfo]["profession"],
+        // profession: CharCnInfo[indexCharInfo]["profession"],
         cn_name: item.name,
         en_name:
           typeof CharEnInfo[indexCharInfo] === "undefined"
