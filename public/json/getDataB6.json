@@ -266,8 +266,8 @@
         "cn_name": "“初诺”",
         "en_name": "-",
         "image": "uniequip_003_siege.png",
-        "unlocked": "91.23%",
-        "level_one": "6.52%",
+        "unlocked": "91.25%",
+        "level_one": "6.50%",
         "level_two": "0.75%",
         "level_three": "1.50%"
       }
@@ -376,8 +376,8 @@
         "cn_name": "“同熔”",
         "en_name": "-",
         "image": "uniequip_002_ifrit.png",
-        "unlocked": "87.12%",
-        "level_one": "10.09%",
+        "unlocked": "87.15%",
+        "level_one": "10.06%",
         "level_two": "0.86%",
         "level_three": "1.93%"
       }
@@ -496,9 +496,9 @@
         "cn_name": "“使徒”",
         "en_name": "-",
         "image": "uniequip_003_shining.png",
-        "unlocked": "93.57%",
-        "level_one": "4.29%",
-        "level_two": "1.67%",
+        "unlocked": "93.59%",
+        "level_one": "4.28%",
+        "level_two": "1.66%",
         "level_three": "0.48%"
       },
       {
@@ -770,10 +770,10 @@
         "cn_name": "攻城器械训练装置",
         "en_name": "-",
         "image": "uniequip_002_poca.png",
-        "unlocked": "44.08%",
+        "unlocked": "44.01%",
         "level_one": "4.95%",
         "level_two": "5.66%",
-        "level_three": "45.31%"
+        "level_three": "45.38%"
       }
     ]
   },
@@ -1930,10 +1930,10 @@
         "cn_name": "水炮模式",
         "en_name": "Hydraulics Mode",
         "image": "skchr_weedy_2.png",
-        "unspecialized": "43.33%",
+        "unspecialized": "43.28%",
         "specialization_one": "1.83%",
         "specialization_two": "2.50%",
-        "specialization_three": "52.33%"
+        "specialization_three": "52.39%"
       },
       {
         "id": "char_400_weedy_skill_3",
@@ -1952,10 +1952,10 @@
         "cn_name": "仿生海龙改型",
         "en_name": "-",
         "image": "uniequip_002_weedy.png",
-        "unlocked": "88.52%",
-        "level_one": "8.16%",
+        "unlocked": "88.55%",
+        "level_one": "8.14%",
         "level_two": "0.51%",
-        "level_three": "2.81%"
+        "level_three": "2.80%"
       }
     ]
   },
@@ -2805,20 +2805,20 @@
         "cn_name": "枯荣共息",
         "en_name": "-",
         "image": "skchr_reed2_2.png",
-        "unspecialized": "8.68%",
+        "unspecialized": "8.62%",
         "specialization_one": "1.77%",
         "specialization_two": "3.72%",
-        "specialization_three": "85.83%"
+        "specialization_three": "85.89%"
       },
       {
         "id": "char_1020_reed2_skill_3",
         "cn_name": "生命火种",
         "en_name": "-",
         "image": "skchr_reed2_3.png",
-        "unspecialized": "35.77%",
+        "unspecialized": "35.71%",
         "specialization_one": "2.83%",
         "specialization_two": "2.36%",
-        "specialization_three": "59.03%"
+        "specialization_three": "59.09%"
       }
     ],
     "modules": []
@@ -2981,9 +2981,9 @@
         "en_name": "-",
         "image": "uniequip_002_texas2.png",
         "unlocked": "14.70%",
-        "level_one": "34.21%",
+        "level_one": "34.16%",
         "level_two": "14.65%",
-        "level_three": "36.44%"
+        "level_three": "36.49%"
       }
     ]
   },
@@ -2992,41 +2992,41 @@
     "cn_name": "麒麟X夜刀",
     "en_name": "-",
     "image": "char_1029_yato2.png",
-    "number_sample": 501,
-    "holding_rate": "90.82%",
-    "non_elite": "3.08%",
-    "elite_one": "6.15%",
-    "elite_two": "90.77%",
+    "number_sample": 502,
+    "holding_rate": "90.84%",
+    "non_elite": "3.07%",
+    "elite_one": "6.14%",
+    "elite_two": "90.79%",
     "skills": [
       {
         "id": "char_1029_yato2_skill_1",
         "cn_name": "鬼人化",
         "en_name": "-",
         "image": "skchr_yato2_1.png",
-        "unspecialized": "84.26%",
+        "unspecialized": "84.30%",
         "specialization_one": "1.21%",
         "specialization_two": "1.45%",
-        "specialization_three": "13.08%"
+        "specialization_three": "13.04%"
       },
       {
         "id": "char_1029_yato2_skill_2",
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
-        "unspecialized": "30.02%",
+        "unspecialized": "29.95%",
         "specialization_one": "1.69%",
-        "specialization_two": "3.87%",
-        "specialization_three": "64.41%"
+        "specialization_two": "3.86%",
+        "specialization_three": "64.49%"
       },
       {
         "id": "char_1029_yato2_skill_3",
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.80%",
-        "specialization_one": "2.18%",
+        "unspecialized": "36.71%",
+        "specialization_one": "2.17%",
         "specialization_two": "1.69%",
-        "specialization_three": "59.32%"
+        "specialization_three": "59.42%"
       }
     ],
     "modules": [
@@ -3035,10 +3035,10 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "35.11%",
-        "level_one": "41.16%",
-        "level_two": "9.44%",
-        "level_three": "14.29%"
+        "unlocked": "35.02%",
+        "level_one": "41.30%",
+        "level_two": "9.42%",
+        "level_three": "14.25%"
       }
     ]
   },
@@ -3308,10 +3308,10 @@
         "cn_name": "我无",
         "en_name": "-",
         "image": "skchr_chyue_3.png",
-        "unspecialized": "8.17%",
+        "unspecialized": "8.10%",
         "specialization_one": "0.55%",
         "specialization_two": "1.71%",
-        "specialization_three": "89.58%"
+        "specialization_three": "89.64%"
       }
     ],
     "modules": []
@@ -3738,10 +3738,10 @@
     "en_name": "-",
     "image": "char_4072_ironmn.png",
     "number_sample": 2490,
-    "holding_rate": "37.83%",
-    "non_elite": "16.35%",
-    "elite_one": "9.55%",
-    "elite_two": "74.10%",
+    "holding_rate": "37.87%",
+    "non_elite": "16.44%",
+    "elite_one": "9.54%",
+    "elite_two": "74.02%",
     "skills": [
       {
         "id": "char_4072_ironmn_skill_1",
