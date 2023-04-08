@@ -335,9 +335,9 @@
     "image": "char_134_ifrit.png",
     "number_sample": 2516,
     "holding_rate": "91.14%",
-    "non_elite": "0.83%",
+    "non_elite": "0.78%",
     "elite_one": "1.88%",
-    "elite_two": "97.30%",
+    "elite_two": "97.34%",
     "skills": [
       {
         "id": "char_134_ifrit_skill_1",
@@ -354,20 +354,20 @@
         "cn_name": "炎爆",
         "en_name": "Pyroclasm",
         "image": "skchr_ifrit_2.png",
-        "unspecialized": "4.71%",
+        "unspecialized": "4.75%",
         "specialization_one": "13.22%",
         "specialization_two": "5.06%",
-        "specialization_three": "77.01%"
+        "specialization_three": "76.97%"
       },
       {
         "id": "char_134_ifrit_skill_3",
         "cn_name": "灼地",
         "en_name": "Scorched Earth",
         "image": "skchr_ifrit_3.png",
-        "unspecialized": "39.80%",
+        "unspecialized": "39.83%",
         "specialization_one": "6.45%",
         "specialization_two": "3.36%",
-        "specialization_three": "50.38%"
+        "specialization_three": "50.36%"
       }
     ],
     "modules": [
@@ -376,10 +376,10 @@
         "cn_name": "“同熔”",
         "en_name": "-",
         "image": "uniequip_002_ifrit.png",
-        "unlocked": "87.15%",
-        "level_one": "10.06%",
-        "level_two": "0.86%",
-        "level_three": "1.93%"
+        "unlocked": "87.18%",
+        "level_one": "10.04%",
+        "level_two": "0.85%",
+        "level_three": "1.92%"
       }
     ]
   },
@@ -729,9 +729,9 @@
     "image": "char_197_poca.png",
     "number_sample": 2516,
     "holding_rate": "71.62%",
-    "non_elite": "8.88%",
+    "non_elite": "8.82%",
     "elite_one": "5.88%",
-    "elite_two": "85.24%",
+    "elite_two": "85.29%",
     "skills": [
       {
         "id": "char_197_poca_skill_1",
@@ -748,20 +748,20 @@
         "cn_name": "分裂射击",
         "en_name": "Split Shot",
         "image": "skchr_poca_2.png",
-        "unspecialized": "60.61%",
+        "unspecialized": "60.64%",
         "specialization_one": "3.45%",
         "specialization_two": "2.80%",
-        "specialization_three": "33.14%"
+        "specialization_three": "33.12%"
       },
       {
         "id": "char_197_poca_skill_3",
         "cn_name": "雪崩击",
         "en_name": "Avalanche Breaker",
         "image": "skchr_poca_3.png",
-        "unspecialized": "31.58%",
+        "unspecialized": "31.62%",
         "specialization_one": "2.73%",
         "specialization_two": "3.84%",
-        "specialization_three": "61.85%"
+        "specialization_three": "61.81%"
       }
     ],
     "modules": [
@@ -770,10 +770,10 @@
         "cn_name": "攻城器械训练装置",
         "en_name": "-",
         "image": "uniequip_002_poca.png",
-        "unlocked": "44.01%",
-        "level_one": "4.95%",
+        "unlocked": "43.98%",
+        "level_one": "4.94%",
         "level_two": "5.66%",
-        "level_three": "45.38%"
+        "level_three": "45.41%"
       }
     ]
   },
@@ -1515,8 +1515,8 @@
         "image": "skchr_lmlee_3.png",
         "unspecialized": "27.34%",
         "specialization_one": "2.99%",
-        "specialization_two": "2.08%",
-        "specialization_three": "67.58%"
+        "specialization_two": "2.02%",
+        "specialization_three": "67.64%"
       }
     ],
     "modules": [
@@ -3452,9 +3452,9 @@
         "en_name": "This Lantern Undying",
         "image": "skchr_lumen_3.png",
         "unspecialized": "19.89%",
-        "specialization_one": "5.73%",
+        "specialization_one": "5.67%",
         "specialization_two": "3.94%",
-        "specialization_three": "70.45%"
+        "specialization_three": "70.50%"
       }
     ],
     "modules": [
@@ -3473,8 +3473,8 @@
         "cn_name": "“幸运”",
         "en_name": "-",
         "image": "uniequip_003_lumen.png",
-        "unlocked": "74.83%",
-        "level_one": "21.81%",
+        "unlocked": "74.77%",
+        "level_one": "21.87%",
         "level_two": "0.87%",
         "level_three": "2.49%"
       }
