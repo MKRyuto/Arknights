@@ -1665,8 +1665,8 @@
         "cn_name": "“无问吉凶”",
         "en_name": "'Wandering'",
         "image": "uniequip_002_lmlee.png",
-        "unlocked": "14.96",
-        "level_one": "59.27",
+        "unlocked": "14.90",
+        "level_one": "59.34",
         "level_two": "10.80",
         "level_three": "14.96"
       }
@@ -3134,8 +3134,8 @@
         "cn_name": "“唱片”收藏箱",
         "en_name": "'Vinyl Record' Box",
         "image": "uniequip_002_ghost2.png",
-        "unlocked": "16.23",
-        "level_one": "6.10",
+        "unlocked": "16.17",
+        "level_one": "6.16",
         "level_two": "2.42",
         "level_three": "75.26"
       },
@@ -4031,11 +4031,11 @@
     "cn_name": "斥罪",
     "en_name": "-",
     "image": "char_4065_judge.png",
-    "number_sample": 2512,
-    "holding_rate": "73.37",
-    "non_elite": "18.99",
+    "number_sample": 2513,
+    "holding_rate": "73.38",
+    "non_elite": "18.98",
     "elite_one": "7.16",
-    "elite_two": "73.85",
+    "elite_two": "73.86",
     "skills": [
       {
         "id": "char_4065_judge_skill_1",
@@ -4043,7 +4043,7 @@
         "cn_name": "一锤定音",
         "en_name": "-",
         "image": "skchr_judge_1.png",
-        "unspecialized": "88.68",
+        "unspecialized": "88.69",
         "specialization_one": "1.10",
         "specialization_two": "0.44",
         "specialization_three": "9.77"
@@ -4065,10 +4065,10 @@
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
-        "unspecialized": "49.89",
+        "unspecialized": "49.85",
         "specialization_one": "4.85",
         "specialization_two": "2.13",
-        "specialization_three": "43.13"
+        "specialization_three": "43.17"
       }
     ],
     "modules": []
