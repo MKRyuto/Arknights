@@ -1067,10 +1067,10 @@
         "cn_name": "闭膛连发",
         "en_name": "Locked Breech Burst",
         "image": "skchr_bpipe_3.png",
-        "unspecialized": "15.11",
+        "unspecialized": "15.06",
         "specialization_one": "4.88",
         "specialization_two": "2.53",
-        "specialization_three": "77.48"
+        "specialization_three": "77.52"
       }
     ],
     "modules": [
@@ -2478,8 +2478,8 @@
         "cn_name": "首战支援套组",
         "en_name": "First-show Support Set",
         "image": "uniequip_002_fartth.png",
-        "unlocked": "46.76",
-        "level_one": "50.16",
+        "unlocked": "46.65",
+        "level_one": "50.27",
         "level_two": "1.06",
         "level_three": "2.02"
       },
@@ -2514,10 +2514,10 @@
         "cn_name": "唤醒",
         "en_name": "Awaken",
         "image": "skchr_mizuki_1.png",
-        "unspecialized": "26.14",
+        "unspecialized": "26.08",
         "specialization_one": "6.44",
         "specialization_two": "2.72",
-        "specialization_three": "64.70"
+        "specialization_three": "64.76"
       },
       {
         "id": "char_437_mizuki_skill_2",
@@ -2549,9 +2549,9 @@
         "cn_name": "使者之约",
         "en_name": "Entreaty of the Herald",
         "image": "uniequip_002_mizuki.png",
-        "unlocked": "39.42",
+        "unlocked": "39.35",
         "level_one": "18.98",
-        "level_two": "26.34",
+        "level_two": "26.41",
         "level_three": "15.26"
       },
       {
@@ -2859,8 +2859,8 @@
         "cn_name": "“故乡的山岩”",
         "en_name": "'Ούρος'",
         "image": "uniequip_002_pallas.png",
-        "unlocked": "44.23",
-        "level_one": "49.11",
+        "unlocked": "44.14",
+        "level_one": "49.20",
         "level_two": "2.75",
         "level_three": "3.91"
       },
@@ -3003,9 +3003,9 @@
         "en_name": "Night-Scouring Gleam",
         "image": "skchr_nearl2_2.png",
         "unspecialized": "4.96",
-        "specialization_one": "2.87",
+        "specialization_one": "2.82",
         "specialization_two": "2.31",
-        "specialization_three": "89.85"
+        "specialization_three": "89.91"
       },
       {
         "id": "char_1014_nearl2_skill_3",
@@ -3027,9 +3027,9 @@
         "en_name": "Blade of Blazing Sun",
         "image": "uniequip_002_nearl2.png",
         "unlocked": "11.50",
-        "level_one": "30.44",
+        "level_one": "30.50",
         "level_two": "14.71",
-        "level_three": "43.35"
+        "level_three": "43.29"
       }
     ]
   },
@@ -3291,8 +3291,8 @@
         "image": "skchr_yato2_2.png",
         "unspecialized": "29.55",
         "specialization_one": "2.13",
-        "specialization_two": "4.26",
-        "specialization_three": "64.07"
+        "specialization_two": "4.02",
+        "specialization_three": "64.30"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3313,8 +3313,8 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "34.52",
-        "level_one": "42.08",
+        "unlocked": "34.28",
+        "level_one": "42.32",
         "level_two": "9.22",
         "level_three": "14.18"
       }
@@ -3551,9 +3551,9 @@
         "cn_name": "宁作吾",
         "en_name": "To Remain Oneself",
         "image": "skchr_ling_3.png",
-        "unspecialized": "4.30",
+        "unspecialized": "4.25",
         "specialization_one": "0.58",
-        "specialization_two": "1.33",
+        "specialization_two": "1.38",
         "specialization_three": "93.79"
       }
     ],
@@ -3672,10 +3672,10 @@
         "cn_name": "厚重的经卷",
         "en_name": "Liber Sacer",
         "image": "uniequip_002_irene.png",
-        "unlocked": "28.10",
+        "unlocked": "28.15",
         "level_one": "54.85",
         "level_two": "5.96",
-        "level_three": "11.10"
+        "level_three": "11.04"
       }
     ]
   },
@@ -3686,10 +3686,10 @@
     "en_name": "Horn",
     "image": "char_4039_horn.png",
     "number_sample": 2527,
-    "holding_rate": "68.94",
+    "holding_rate": "68.98",
     "non_elite": "0.69",
     "elite_one": "0.52",
-    "elite_two": "98.79",
+    "elite_two": "98.80",
     "skills": [
       {
         "id": "char_4039_horn_skill_1",
@@ -3697,10 +3697,10 @@
         "cn_name": "照明榴弹",
         "en_name": "Flare Grenade",
         "image": "skchr_horn_1.png",
-        "unspecialized": "8.60",
-        "specialization_one": "8.43",
-        "specialization_two": "4.13",
-        "specialization_three": "78.85"
+        "unspecialized": "8.59",
+        "specialization_one": "8.42",
+        "specialization_two": "4.12",
+        "specialization_three": "78.86"
       },
       {
         "id": "char_4039_horn_skill_2",
@@ -3708,10 +3708,10 @@
         "cn_name": "暴风号令",
         "en_name": "Tempest Command",
         "image": "skchr_horn_2.png",
-        "unspecialized": "48.81",
+        "unspecialized": "48.78",
         "specialization_one": "6.39",
         "specialization_two": "2.73",
-        "specialization_three": "42.07"
+        "specialization_three": "42.10"
       },
       {
         "id": "char_4039_horn_skill_3",
@@ -3719,10 +3719,10 @@
         "cn_name": "终极防线",
         "en_name": "Ultimate Line of Defense",
         "image": "skchr_horn_3.png",
-        "unspecialized": "11.74",
+        "unspecialized": "11.73",
         "specialization_one": "3.31",
-        "specialization_two": "2.27",
-        "specialization_three": "82.68"
+        "specialization_two": "2.26",
+        "specialization_three": "82.69"
       }
     ],
     "modules": []
