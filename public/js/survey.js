@@ -232,7 +232,7 @@ $(document).ready(function () {
     var jsonDataExcel = [];
     var module_x, module_y;
     // Export the JSON data to Excel
-    var myFile = "myFilePlus.xlsx";
+    var myFile = `RaitoDataSurvey-${moment().format("Y-M-D")}.xlsx`;
 
     $.each(data, function (index, item) {
       if (item.modules.length == 0) {
@@ -339,7 +339,7 @@ $(document).ready(function () {
       ];
 
       var myWorkBook = XLSX.utils.book_new();
-      XLSX.utils.book_append_sheet(myWorkBook, myWorkSheet, "myWorkSheet");
+      XLSX.utils.book_append_sheet(myWorkBook, myWorkSheet, "Data Survey");
       XLSX.writeFile(myWorkBook, myFile);
     }
   }
