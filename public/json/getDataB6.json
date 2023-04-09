@@ -471,8 +471,8 @@
         "cn_name": "护身符",
         "en_name": "-",
         "image": "uniequip_003_hsguma.png",
-        "unlocked": "64.57",
-        "level_one": "22.32",
+        "unlocked": "64.52",
+        "level_one": "22.37",
         "level_two": "5.09",
         "level_three": "8.02"
       },
@@ -902,8 +902,8 @@
         "en_name": "Unused Boxing Gloves",
         "image": "uniequip_002_demkni.png",
         "unlocked": "21.73",
-        "level_one": "17.88",
-        "level_two": "39.56",
+        "level_one": "17.84",
+        "level_two": "39.61",
         "level_three": "20.83"
       },
       {
@@ -1619,10 +1619,10 @@
     "en_name": "Lee",
     "image": "char_322_lmlee.png",
     "number_sample": 2502,
-    "holding_rate": "70.78",
-    "non_elite": "8.87",
+    "holding_rate": "70.82",
+    "non_elite": "8.92",
     "elite_one": "4.35",
-    "elite_two": "86.79",
+    "elite_two": "86.74",
     "skills": [
       {
         "id": "char_322_lmlee_skill_1",
@@ -2505,8 +2505,8 @@
     "number_sample": 2503,
     "holding_rate": "69.88",
     "non_elite": "8.69",
-    "elite_one": "5.20",
-    "elite_two": "86.11",
+    "elite_one": "5.15",
+    "elite_two": "86.16",
     "skills": [
       {
         "id": "char_437_mizuki_skill_1",
@@ -2514,10 +2514,10 @@
         "cn_name": "唤醒",
         "en_name": "Awaken",
         "image": "skchr_mizuki_1.png",
-        "unspecialized": "26.03",
-        "specialization_one": "6.44",
+        "unspecialized": "26.01",
+        "specialization_one": "6.50",
         "specialization_two": "2.72",
-        "specialization_three": "64.81"
+        "specialization_three": "64.76"
       },
       {
         "id": "char_437_mizuki_skill_2",
@@ -2525,10 +2525,10 @@
         "cn_name": "囚徒困境",
         "en_name": "Prisoner's Dilemma",
         "image": "skchr_mizuki_2.png",
-        "unspecialized": "81.81",
+        "unspecialized": "81.82",
         "specialization_one": "2.12",
         "specialization_two": "0.66",
-        "specialization_three": "15.41"
+        "specialization_three": "15.39"
       },
       {
         "id": "char_437_mizuki_skill_3",
@@ -2536,10 +2536,10 @@
         "cn_name": "镜花水月",
         "en_name": "Moon in the Water",
         "image": "skchr_mizuki_3.png",
-        "unspecialized": "87.58",
+        "unspecialized": "87.59",
         "specialization_one": "1.46",
         "specialization_two": "1.00",
-        "specialization_three": "9.96"
+        "specialization_three": "9.95"
       }
     ],
     "modules": [
@@ -2549,10 +2549,10 @@
         "cn_name": "使者之约",
         "en_name": "Entreaty of the Herald",
         "image": "uniequip_002_mizuki.png",
-        "unlocked": "39.31",
-        "level_one": "18.99",
-        "level_two": "26.43",
-        "level_three": "15.27"
+        "unlocked": "39.28",
+        "level_one": "19.04",
+        "level_two": "26.41",
+        "level_three": "15.26"
       },
       {
         "id": "char_437_mizuki_equipment_2",
@@ -3266,11 +3266,11 @@
     "cn_name": "麒麟X夜刀",
     "en_name": "Kirin X Yato",
     "image": "char_1029_yato2.png",
-    "number_sample": 514,
-    "holding_rate": "90.86",
+    "number_sample": 515,
+    "holding_rate": "90.87",
     "non_elite": "2.78",
-    "elite_one": "6.21",
-    "elite_two": "91.01",
+    "elite_one": "6.20",
+    "elite_two": "91.03",
     "skills": [
       {
         "id": "char_1029_yato2_skill_1",
@@ -3278,10 +3278,10 @@
         "cn_name": "鬼人化",
         "en_name": "-",
         "image": "skchr_yato2_1.png",
-        "unspecialized": "84.71",
-        "specialization_one": "1.18",
+        "unspecialized": "84.74",
+        "specialization_one": "1.17",
         "specialization_two": "1.41",
-        "specialization_three": "12.71"
+        "specialization_three": "12.68"
       },
       {
         "id": "char_1029_yato2_skill_2",
@@ -3289,10 +3289,10 @@
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
-        "unspecialized": "29.41",
+        "unspecialized": "29.34",
         "specialization_one": "1.88",
-        "specialization_two": "4.00",
-        "specialization_three": "64.71"
+        "specialization_two": "3.99",
+        "specialization_three": "64.79"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3300,10 +3300,10 @@
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.71",
+        "unspecialized": "36.85",
         "specialization_one": "2.35",
-        "specialization_two": "1.65",
-        "specialization_three": "59.29"
+        "specialization_two": "1.64",
+        "specialization_three": "59.15"
       }
     ],
     "modules": [
@@ -3313,10 +3313,10 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "33.88",
-        "level_one": "42.82",
-        "level_two": "9.18",
-        "level_three": "14.12"
+        "unlocked": "33.80",
+        "level_one": "42.72",
+        "level_two": "9.39",
+        "level_three": "14.08"
       }
     ]
   },
@@ -3589,8 +3589,8 @@
         "cn_name": "冲盈",
         "en_name": "-",
         "image": "skchr_chyue_1.png",
-        "unspecialized": "94.83",
-        "specialization_one": "0.36",
+        "unspecialized": "94.77",
+        "specialization_one": "0.43",
         "specialization_two": "0.18",
         "specialization_three": "4.62"
       },
@@ -3791,8 +3791,8 @@
         "cn_name": "“幸运”",
         "en_name": "-",
         "image": "uniequip_003_lumen.png",
-        "unlocked": "74.74",
-        "level_one": "21.91",
+        "unlocked": "74.68",
+        "level_one": "21.97",
         "level_two": "0.87",
         "level_three": "2.49"
       }
@@ -4034,8 +4034,8 @@
     "number_sample": 2514,
     "holding_rate": "73.35",
     "non_elite": "18.93",
-    "elite_one": "7.16",
-    "elite_two": "73.92",
+    "elite_one": "7.10",
+    "elite_two": "73.97",
     "skills": [
       {
         "id": "char_4065_judge_skill_1",
@@ -4043,10 +4043,10 @@
         "cn_name": "一锤定音",
         "en_name": "-",
         "image": "skchr_judge_1.png",
-        "unspecialized": "88.70",
+        "unspecialized": "88.71",
         "specialization_one": "1.10",
         "specialization_two": "0.44",
-        "specialization_three": "9.76"
+        "specialization_three": "9.75"
       },
       {
         "id": "char_4065_judge_skill_2",
@@ -4054,7 +4054,7 @@
         "cn_name": "坚心苦修",
         "en_name": "-",
         "image": "skchr_judge_2.png",
-        "unspecialized": "92.22",
+        "unspecialized": "92.23",
         "specialization_one": "1.39",
         "specialization_two": "0.66",
         "specialization_three": "5.72"
@@ -4065,10 +4065,10 @@
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
-        "unspecialized": "49.82",
+        "unspecialized": "49.78",
         "specialization_one": "4.84",
         "specialization_two": "2.13",
-        "specialization_three": "43.21"
+        "specialization_three": "43.26"
       }
     ],
     "modules": []
