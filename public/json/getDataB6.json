@@ -40,9 +40,9 @@
         "en_name": "Command: Meltdown",
         "image": "skchr_kalts_3.png",
         "unspecialized": "3.02",
-        "specialization_one": "1.53",
+        "specialization_one": "1.58",
         "specialization_two": "2.15",
-        "specialization_three": "93.30"
+        "specialization_three": "93.26"
       }
     ],
     "modules": [
@@ -829,9 +829,9 @@
         "en_name": "Avalanche Breaker",
         "image": "skchr_poca_3.png",
         "unspecialized": "31.64",
-        "specialization_one": "2.79",
+        "specialization_one": "2.73",
         "specialization_two": "3.90",
-        "specialization_three": "61.66"
+        "specialization_three": "61.73"
       }
     ],
     "modules": [
@@ -841,8 +841,8 @@
         "cn_name": "攻城器械训练装置",
         "en_name": "-",
         "image": "uniequip_002_poca.png",
-        "unlocked": "43.92",
-        "level_one": "4.94",
+        "unlocked": "43.86",
+        "level_one": "5.00",
         "level_two": "5.72",
         "level_three": "45.42"
       }
@@ -888,9 +888,9 @@
         "cn_name": "钙质化",
         "en_name": "Calcification",
         "image": "skchr_demkni_3.png",
-        "unspecialized": "18.57",
+        "unspecialized": "18.53",
         "specialization_one": "4.58",
-        "specialization_two": "4.45",
+        "specialization_two": "4.49",
         "specialization_three": "72.40"
       }
     ],
@@ -1367,9 +1367,9 @@
         "en_name": "Sweeping Stance",
         "image": "skchr_f12yin_2.png",
         "unspecialized": "1.42",
-        "specialization_one": "0.82",
+        "specialization_one": "0.87",
         "specialization_two": "2.61",
-        "specialization_three": "95.15"
+        "specialization_three": "95.10"
       },
       {
         "id": "char_264_f12yin_skill_3",
@@ -2277,8 +2277,8 @@
     "image": "char_423_blemsh.png",
     "number_sample": 2521,
     "holding_rate": "71.52",
-    "non_elite": "9.26",
-    "elite_one": "7.10",
+    "non_elite": "9.21",
+    "elite_one": "7.15",
     "elite_two": "83.64",
     "skills": [
       {
@@ -2598,8 +2598,8 @@
         "image": "skchr_ash_2.png",
         "unspecialized": "9.92",
         "specialization_one": "2.15",
-        "specialization_two": "2.61",
-        "specialization_three": "85.32"
+        "specialization_two": "2.54",
+        "specialization_three": "85.39"
       },
       {
         "id": "char_456_ash_skill_3",
@@ -2716,9 +2716,9 @@
         "cn_name": "缺水的大洋裂断",
         "en_name": "Waterless Parting of the Great Ocean",
         "image": "skchr_glady_1.png",
-        "unspecialized": "54.79",
+        "unspecialized": "54.73",
         "specialization_one": "8.58",
-        "specialization_two": "1.16",
+        "specialization_two": "1.21",
         "specialization_three": "35.48"
       },
       {
@@ -2727,8 +2727,8 @@
         "cn_name": "缺水的掌握怒海",
         "en_name": "Waterless Grasp of the Raging Seas",
         "image": "skchr_glady_2.png",
-        "unspecialized": "75.91",
-        "specialization_one": "2.15",
+        "unspecialized": "75.85",
+        "specialization_one": "2.20",
         "specialization_two": "1.32",
         "specialization_three": "20.63"
       },
@@ -3040,10 +3040,10 @@
     "en_name": "-",
     "image": "char_1020_reed2.png",
     "number_sample": 2494,
-    "holding_rate": "70.33",
-    "non_elite": "1.37",
+    "holding_rate": "70.37",
+    "non_elite": "1.42",
     "elite_one": "1.94",
-    "elite_two": "96.69",
+    "elite_two": "96.64",
     "skills": [
       {
         "id": "char_1020_reed2_skill_1",
@@ -3134,9 +3134,9 @@
         "cn_name": "“唱片”收藏箱",
         "en_name": "'Vinyl Record' Box",
         "image": "uniequip_002_ghost2.png",
-        "unlocked": "16.15",
+        "unlocked": "16.09",
         "level_one": "6.03",
-        "level_two": "2.41",
+        "level_two": "2.47",
         "level_three": "75.40"
       },
       {
@@ -3268,8 +3268,8 @@
     "image": "char_1029_yato2.png",
     "number_sample": 512,
     "holding_rate": "91.02",
-    "non_elite": "3.00",
-    "elite_one": "6.01",
+    "non_elite": "2.79",
+    "elite_one": "6.22",
     "elite_two": "90.99",
     "skills": [
       {
@@ -3579,8 +3579,8 @@
     "image": "char_2024_chyue.png",
     "number_sample": 2228,
     "holding_rate": "84.61",
-    "non_elite": "8.49",
-    "elite_one": "4.24",
+    "non_elite": "8.44",
+    "elite_one": "4.30",
     "elite_two": "87.27",
     "skills": [
       {
@@ -3735,8 +3735,8 @@
     "image": "char_4042_lumen.png",
     "number_sample": 2505,
     "holding_rate": "84.47",
-    "non_elite": "3.50",
-    "elite_one": "4.02",
+    "non_elite": "3.45",
+    "elite_one": "4.06",
     "elite_two": "92.49",
     "skills": [
       {
