@@ -959,10 +959,10 @@
         "cn_name": "失温症",
         "en_name": "Hypothermia",
         "image": "skchr_gnosis_3.png",
-        "unspecialized": "27.21",
+        "unspecialized": "27.14",
         "specialization_one": "2.94",
         "specialization_two": "3.40",
-        "specialization_three": "66.45"
+        "specialization_three": "66.51"
       }
     ],
     "modules": []
@@ -3719,10 +3719,10 @@
         "cn_name": "终极防线",
         "en_name": "Ultimate Line of Defense",
         "image": "skchr_horn_3.png",
-        "unspecialized": "11.79",
+        "unspecialized": "11.73",
         "specialization_one": "3.31",
         "specialization_two": "2.26",
-        "specialization_three": "82.64"
+        "specialization_three": "82.69"
       }
     ],
     "modules": []
