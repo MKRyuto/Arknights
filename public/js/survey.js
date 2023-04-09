@@ -4,6 +4,7 @@ $(document).ready(function () {
   $.getJSON("../public/json/getDataB6.json", function (jsonData) {
     let selectedValue = "ALL";
     let inputSearch = null;
+    var filteredData;
     // Show all data by default
     showData(jsonData);
 
@@ -34,7 +35,7 @@ $(document).ready(function () {
 
     $("#search-input").on("input", function () {
       inputSearch = $(this).val().toLowerCase();
-      var filteredData = jsonData.filter(function (item) {
+      filteredData = jsonData.filter(function (item) {
         if (selectedValue == "ALL") {
           return item.en_name.toLowerCase().includes(inputSearch);
         } else {
@@ -51,7 +52,16 @@ $(document).ready(function () {
 
     $("#clear-input").click(function () {
       $("#search-input").val("");
-      showData(jsonData);
+      inputSearch = null;
+      console.log(selectedValue);
+      if (selectedValue == "ALL") {
+        showData(jsonData);
+      } else {
+        filteredData = jsonData.filter(function (item) {
+          return item.profession === selectedValue;
+        });
+        showData(filteredData);
+      }
     });
   });
 
