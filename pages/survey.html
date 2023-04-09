@@ -47,7 +47,7 @@
     <link rel="stylesheet" href="../public/css/font-awesome.min.css" />
     <link rel="stylesheet" href="../public/css/bootstrap.css" />
     <link rel="stylesheet" href="../public/css/magnific-popup.css" />
-    <link rel="stylesheet" href="../public/css/animate.min.css" />
+    <link rel="stylesheet" href="../public/scss/animate.min.css" />
     <link rel="stylesheet" href="../public/css/owl.carousel.css" />
     <link rel="stylesheet" href="../public/css/main.css" />
     <style>
@@ -103,6 +103,28 @@
       .border-profession:hover,
       .border-profession.active {
         background-color: rgb(231, 210, 23);
+      }
+
+      .form-control:focus {
+        border-color: #ffc107;
+        box-shadow: none;
+      }
+
+      #export-button {
+        background-color: #4caf50;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      #export-button:hover {
+        background-color: #3e8e41;
       }
     </style>
   </head>
@@ -177,6 +199,10 @@
                   Operators, Skill Mastery, and Level Modules. Data from
                   "arknights-poll.net"
                 </p>
+                <button id="export-button">
+                  <i class="fa fa-file-excel-o" aria-hidden="true"></i> Export
+                  to Excel
+                </button>
               </div>
             </div>
           </div>
@@ -333,6 +359,32 @@
       </div>
     </div>
 
+    <div class="container mt-5">
+      <div class="row justify-content-center">
+        <div class="col-lg-6">
+          <form class="form-inline justify-content-center">
+            <div class="form-group mb-2">
+              <input
+                type="text"
+                class="form-control"
+                id="search-input"
+                placeholder="Operator Name"
+              />
+            </div>
+            <div class="d-flex justify-content-center ml-2">
+              <button
+                id="clear-input"
+                type="button"
+                class="btn btn-secondary mb-2"
+              >
+                <i class="fa fa-times"></i>
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
     <div id="char-info" class="whole-wrap"></div>
 
     <!-- start footer Area -->
@@ -388,6 +440,7 @@
     <script src="../public/js/jquery.nice-select.min.js"></script>
     <script src="../public/js/parallax.min.js"></script>
     <script src="../public/js/jquery.magnific-popup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.2/xlsx.full.min.js"></script>
     <script src="../public/js/page.js"></script>
     <script src="../public/js/survey.js"></script>
   </body>

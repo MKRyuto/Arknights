@@ -1,18 +1,57 @@
 $(document).ready(function () {
-  $.getJSON("../public/json/getDataB6.json", function (data) {
-    var jsonData = data;
+  $("#search-input").val("");
+
+  $.getJSON("../public/json/getDataB6.json", function (jsonData) {
+    let selectedValue = "ALL";
+    let inputSearch = null;
     // Show all data by default
     showData(jsonData);
 
+    // Add click event listener to the export button
+    $("#export-button").click(function () {
+      exportExcel(jsonData);
+    });
+
     $(".profession").click(function () {
       // Get the selected value of the dropdown select
-      var selectedValue = $(this).find("a").attr("href").substring(1);
+      selectedValue = $(this).find("a").attr("href").substring(1);
       // Filter the data based on the selected value
       var filteredData = jsonData.filter(function (item) {
-        return selectedValue === "ALL" || item.profession === selectedValue;
+        if (inputSearch == null) {
+          return selectedValue === "ALL" || item.profession === selectedValue;
+        } else {
+          return (
+            (selectedValue === "ALL" &&
+              item.en_name.toLowerCase().includes(inputSearch)) ||
+            (item.profession === selectedValue &&
+              item.en_name.toLowerCase().includes(inputSearch))
+          );
+        }
       });
       // Show the filtered data
       showData(filteredData);
+    });
+
+    $("#search-input").on("input", function () {
+      inputSearch = $(this).val().toLowerCase();
+      var filteredData = jsonData.filter(function (item) {
+        if (selectedValue == "ALL") {
+          return item.en_name.toLowerCase().includes(inputSearch);
+        } else {
+          return (
+            item.en_name.toLowerCase().includes(inputSearch) &&
+            item.profession === selectedValue
+          );
+        }
+      });
+
+      // Show the filtered data
+      showData(filteredData);
+    });
+
+    $("#clear-input").click(function () {
+      $("#search-input").val("");
+      showData(jsonData);
     });
   });
 
@@ -186,5 +225,122 @@ $(document).ready(function () {
 
       $("#char-info").append(element);
     });
+  }
+
+  // Function to export data
+  function exportExcel(data) {
+    var jsonDataExcel = [];
+    var module_x, module_y;
+    // Export the JSON data to Excel
+    var myFile = "myFilePlus.xlsx";
+
+    $.each(data, function (index, item) {
+      if (item.modules.length == 0) {
+        module_x = "-";
+        module_y = "-";
+      } else {
+        if (item.modules.length == 1) {
+          if (item.modules[0].type == "X") {
+            module_x = `${item.modules[0].level_three}%`;
+            module_y = module_x = "-";
+          } else {
+            module_x = module_x = "-";
+            module_y = `${item.modules[0].level_three}%`;
+          }
+        } else {
+          module_x = `${item.modules[0].level_three}%`;
+          module_y = `${item.modules[1].level_three}%`;
+        }
+      }
+
+      jsonItem = {
+        profession: item.profession,
+        cn_name: item.cn_name,
+        en_name: item.en_name,
+        number_sample: item.number_sample,
+        ownership: `${item.holding_rate}%`,
+        elite_two: `${item.elite_two}%`,
+        s1m3: `${item.skills[0].specialization_three}%`,
+        s2m3: `${item.skills[1].specialization_three}%`,
+        s3m3: `${item.skills[2].specialization_three}%`,
+        module_x_3: module_x,
+        module_y_3: module_y,
+      };
+      jsonDataExcel.push(jsonItem);
+    });
+
+    if (jsonDataExcel.length > 0) {
+      var myWorkSheet = XLSX.utils.json_to_sheet(jsonDataExcel);
+      var headerStyle = {
+        font: { bold: true },
+        alignment: { horizontal: "center", vertical: "center" },
+      };
+
+      XLSX.utils.sheet_add_aoa(
+        myWorkSheet,
+        [
+          [
+            { v: "Profession", s: headerStyle },
+            { v: "CN Name", s: headerStyle },
+            { v: "EN Name", s: headerStyle },
+            { v: "Sample Number", s: headerStyle },
+            { v: "Ownership", s: headerStyle },
+            { v: "Elite 2", s: headerStyle },
+            { v: "Skill Mastery 3", s: headerStyle },
+            { v: "", s: headerStyle },
+            { v: "", s: headerStyle },
+            { v: "Module Level 3", s: headerStyle },
+            { v: "", s: headerStyle },
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Skill 1",
+            "Skill 2",
+            "Skill 3",
+            "Module X",
+            "Module Y",
+          ],
+        ],
+        {
+          origin: 0,
+        }
+      );
+
+      // Merge
+      var merges = (myWorkSheet["!merges"] = [
+        { s: "A1", e: "A2" },
+        { s: "B1", e: "B2" },
+        { s: "C1", e: "C2" },
+        { s: "D1", e: "D2" },
+        { s: "E1", e: "E2" },
+        { s: "F1", e: "F2" },
+        { s: "G1", e: "I1" },
+        { s: "J1", e: "K1" },
+      ]);
+
+      // Set the width of each column
+      myWorkSheet["!cols"] = [
+        { width: 12 },
+        { width: 20 },
+        { width: 20 },
+        { width: 15 },
+        { width: 12 },
+        { width: 10 },
+        { width: 10 },
+        { width: 10 },
+        { width: 10 },
+        { width: 10 },
+        { width: 10 },
+      ];
+
+      var myWorkBook = XLSX.utils.book_new();
+      XLSX.utils.book_append_sheet(myWorkBook, myWorkSheet, "myWorkSheet");
+      XLSX.writeFile(myWorkBook, myFile);
+    }
   }
 });

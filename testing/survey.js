@@ -110,7 +110,7 @@ const path = require("path");
         cn_name: item.name,
         en_name:
           typeof CharEnInfo[indexCharInfo] === "undefined"
-            ? "-"
+            ? CharCnInfo[indexCharInfo]["appellation"]
             : CharEnInfo[indexCharInfo]["name"],
         image: upload(
           `https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/${indexCharInfo}.png`,
@@ -178,7 +178,7 @@ const path = require("path");
     fs.mkdirSync("./public/json", { recursive: true });
   }
   fs.writeFile(
-    "./public/json/getDataB6.json",
+    "./public/json/test.json",
     JSON.stringify(mappedOpB6Data, null, 2),
     (err) => {
       if (err) throw err;
