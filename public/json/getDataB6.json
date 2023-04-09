@@ -411,8 +411,8 @@
         "cn_name": "“同熔”",
         "en_name": "-",
         "image": "uniequip_002_ifrit.png",
-        "unlocked": "87.24",
-        "level_one": "10.25",
+        "unlocked": "87.27",
+        "level_one": "10.23",
         "level_two": "0.84",
         "level_three": "1.67"
       }
@@ -542,8 +542,8 @@
         "cn_name": "“使徒”",
         "en_name": "-",
         "image": "uniequip_003_shining.png",
-        "unlocked": "93.47",
-        "level_one": "4.43",
+        "unlocked": "93.49",
+        "level_one": "4.42",
         "level_two": "1.63",
         "level_three": "0.47"
       },
@@ -1273,7 +1273,7 @@
     "en_name": "Skadi",
     "image": "char_263_skadi.png",
     "number_sample": 2536,
-    "holding_rate": "84.70",
+    "holding_rate": "84.74",
     "non_elite": "7.17",
     "elite_one": "10.47",
     "elite_two": "82.36",
@@ -1295,10 +1295,10 @@
         "cn_name": "跃浪击",
         "en_name": "Wave Strike",
         "image": "skchr_skadi_2.png",
-        "unspecialized": "58.85",
+        "unspecialized": "58.87",
         "specialization_one": "4.75",
-        "specialization_two": "3.34",
-        "specialization_three": "33.07"
+        "specialization_two": "3.33",
+        "specialization_three": "33.05"
       },
       {
         "id": "char_263_skadi_skill_3",
@@ -1306,10 +1306,10 @@
         "cn_name": "涌潮悲歌",
         "en_name": "Tidal Elegy",
         "image": "skchr_skadi_3.png",
-        "unspecialized": "61.22",
+        "unspecialized": "61.19",
         "specialization_one": "2.43",
         "specialization_two": "2.37",
-        "specialization_three": "33.97"
+        "specialization_three": "34.01"
       }
     ],
     "modules": [
@@ -1319,10 +1319,10 @@
         "cn_name": "往日残梦",
         "en_name": "No Ending to This Dream",
         "image": "uniequip_003_skadi.png",
-        "unlocked": "66.87",
+        "unlocked": "66.89",
         "level_one": "10.51",
-        "level_two": "2.04",
-        "level_three": "20.58"
+        "level_two": "2.03",
+        "level_three": "20.56"
       },
       {
         "id": "char_263_skadi_equipment_2",
@@ -1330,10 +1330,10 @@
         "cn_name": "潮湿的剑袋",
         "en_name": "Moist Sword Bag",
         "image": "uniequip_002_skadi.png",
-        "unlocked": "46.81",
-        "level_one": "18.71",
+        "unlocked": "46.84",
+        "level_one": "18.70",
         "level_two": "3.73",
-        "level_three": "30.75"
+        "level_three": "30.73"
       }
     ]
   },
@@ -2145,10 +2145,10 @@
     "en_name": "Eunectes",
     "image": "char_416_zumama.png",
     "number_sample": 2523,
-    "holding_rate": "69.92",
-    "non_elite": "15.99",
+    "holding_rate": "69.96",
+    "non_elite": "15.98",
     "elite_one": "7.54",
-    "elite_two": "76.47",
+    "elite_two": "76.49",
     "skills": [
       {
         "id": "char_416_zumama_skill_1",
@@ -2159,7 +2159,7 @@
         "unspecialized": "98.74",
         "specialization_one": "0.44",
         "specialization_two": "0.00",
-        "specialization_three": "0.82"
+        "specialization_three": "0.81"
       },
       {
         "id": "char_416_zumama_skill_2",
@@ -2167,7 +2167,7 @@
         "cn_name": "震慑劈砍",
         "en_name": "Menacing Slash",
         "image": "skchr_zumama_2.png",
-        "unspecialized": "95.92",
+        "unspecialized": "95.93",
         "specialization_one": "1.19",
         "specialization_two": "0.00",
         "specialization_three": "2.89"
@@ -2178,10 +2178,10 @@
         "cn_name": "钢铁意志",
         "en_name": "Iron Will",
         "image": "skchr_zumama_3.png",
-        "unspecialized": "54.48",
+        "unspecialized": "54.52",
         "specialization_one": "3.48",
         "specialization_two": "2.30",
-        "specialization_three": "39.73"
+        "specialization_three": "39.70"
       }
     ],
     "modules": [
@@ -2191,8 +2191,8 @@
         "cn_name": "祖玛玛的工具箱",
         "en_name": "Zumama's Tool Box",
         "image": "uniequip_002_zumama.png",
-        "unlocked": "62.94",
-        "level_one": "30.84",
+        "unlocked": "62.96",
+        "level_one": "30.81",
         "level_two": "1.56",
         "level_three": "4.67"
       },
@@ -2814,9 +2814,9 @@
     "image": "char_485_pallas.png",
     "number_sample": 2534,
     "holding_rate": "56.12",
-    "non_elite": "14.21",
+    "non_elite": "14.14",
     "elite_one": "6.61",
-    "elite_two": "79.18",
+    "elite_two": "79.25",
     "skills": [
       {
         "id": "char_485_pallas_skill_1",
@@ -2824,10 +2824,10 @@
         "cn_name": "胜利的连击",
         "en_name": "Strikes of Victory",
         "image": "skchr_pallas_1.png",
-        "unspecialized": "44.14",
+        "unspecialized": "44.19",
         "specialization_one": "3.55",
         "specialization_two": "1.60",
-        "specialization_three": "50.71"
+        "specialization_three": "50.67"
       },
       {
         "id": "char_485_pallas_skill_2",
@@ -2846,10 +2846,10 @@
         "cn_name": "英勇的祝福",
         "en_name": "Blessing of Heroism",
         "image": "skchr_pallas_3.png",
-        "unspecialized": "78.69",
+        "unspecialized": "78.70",
         "specialization_one": "2.31",
         "specialization_two": "0.98",
-        "specialization_three": "18.03"
+        "specialization_three": "18.01"
       }
     ],
     "modules": [
@@ -2859,10 +2859,10 @@
         "cn_name": "“故乡的山岩”",
         "en_name": "'Ούρος'",
         "image": "uniequip_002_pallas.png",
-        "unlocked": "44.14",
-        "level_one": "49.20",
+        "unlocked": "44.19",
+        "level_one": "49.16",
         "level_two": "2.75",
-        "level_three": "3.91"
+        "level_three": "3.90"
       },
       {
         "id": "char_485_pallas_equipment_2",
@@ -2870,8 +2870,8 @@
         "cn_name": "“赫里亚之辉”",
         "en_name": "'Light of Heria'",
         "image": "uniequip_003_pallas.png",
-        "unlocked": "85.52",
-        "level_one": "12.08",
+        "unlocked": "85.54",
+        "level_one": "12.07",
         "level_two": "0.18",
         "level_three": "2.22"
       }
@@ -3013,10 +3013,10 @@
         "cn_name": "耀阳颔首",
         "en_name": "Blazing Sun's Obeisance",
         "image": "skchr_nearl2_3.png",
-        "unspecialized": "20.41",
+        "unspecialized": "20.35",
         "specialization_one": "3.38",
         "specialization_two": "2.14",
-        "specialization_three": "74.07"
+        "specialization_three": "74.13"
       }
     ],
     "modules": [
@@ -3026,10 +3026,10 @@
         "cn_name": "耀阳锋刃",
         "en_name": "Blade of Blazing Sun",
         "image": "uniequip_002_nearl2.png",
-        "unlocked": "11.56",
+        "unlocked": "11.50",
         "level_one": "30.55",
         "level_two": "14.66",
-        "level_three": "43.24"
+        "level_three": "43.29"
       }
     ]
   },
@@ -3266,11 +3266,11 @@
     "cn_name": "麒麟X夜刀",
     "en_name": "Kirin X Yato",
     "image": "char_1029_yato2.png",
-    "number_sample": 513,
-    "holding_rate": "90.84",
-    "non_elite": "2.79",
-    "elite_one": "6.22",
-    "elite_two": "90.99",
+    "number_sample": 514,
+    "holding_rate": "90.86",
+    "non_elite": "2.78",
+    "elite_one": "6.21",
+    "elite_two": "91.01",
     "skills": [
       {
         "id": "char_1029_yato2_skill_1",
@@ -3278,10 +3278,10 @@
         "cn_name": "鬼人化",
         "en_name": "-",
         "image": "skchr_yato2_1.png",
-        "unspecialized": "84.67",
+        "unspecialized": "84.71",
         "specialization_one": "1.18",
-        "specialization_two": "1.42",
-        "specialization_three": "12.74"
+        "specialization_two": "1.41",
+        "specialization_three": "12.71"
       },
       {
         "id": "char_1029_yato2_skill_2",
@@ -3289,10 +3289,10 @@
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
-        "unspecialized": "29.48",
+        "unspecialized": "29.41",
         "specialization_one": "2.12",
-        "specialization_two": "4.01",
-        "specialization_three": "64.39"
+        "specialization_two": "4.00",
+        "specialization_three": "64.47"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3300,10 +3300,10 @@
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.56",
-        "specialization_one": "2.36",
+        "unspecialized": "36.71",
+        "specialization_one": "2.35",
         "specialization_two": "1.65",
-        "specialization_three": "59.43"
+        "specialization_three": "59.29"
       }
     ],
     "modules": [
@@ -3313,10 +3313,10 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "33.96",
-        "level_one": "42.69",
-        "level_two": "9.20",
-        "level_three": "14.15"
+        "unlocked": "33.88",
+        "level_one": "42.82",
+        "level_two": "9.18",
+        "level_three": "14.12"
       }
     ]
   },
@@ -4065,10 +4065,10 @@
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
-        "unspecialized": "49.89",
+        "unspecialized": "49.82",
         "specialization_one": "4.84",
         "specialization_two": "2.13",
-        "specialization_three": "43.14"
+        "specialization_three": "43.21"
       }
     ],
     "modules": []
