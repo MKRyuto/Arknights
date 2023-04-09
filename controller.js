@@ -145,7 +145,7 @@ exports.generate = async (req, res) => {
         cn_name: item.name,
         en_name:
           typeof CharEnInfo[indexCharInfo] === "undefined"
-            ? "-"
+            ? CharCnInfo[indexCharInfo]["appellation"]
             : CharEnInfo[indexCharInfo]["name"],
         image: upload(
           `https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/${indexCharInfo}.png`,
