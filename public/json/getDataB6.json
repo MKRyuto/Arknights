@@ -1081,9 +1081,9 @@
         "en_name": "Piledriver Spear Magazine",
         "image": "uniequip_002_bpipe.png",
         "unlocked": "7.47",
-        "level_one": "32.81",
+        "level_one": "32.76",
         "level_two": "9.68",
-        "level_three": "50.05"
+        "level_three": "50.09"
       }
     ]
   },
@@ -3970,8 +3970,8 @@
         "cn_name": "打字机色带",
         "en_name": "Typewriter Ribbon",
         "image": "uniequip_002_bgsnow.png",
-        "unlocked": "7.95",
-        "level_one": "24.47",
+        "unlocked": "7.90",
+        "level_one": "24.52",
         "level_two": "22.39",
         "level_three": "45.19"
       }
