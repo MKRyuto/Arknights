@@ -1796,8 +1796,8 @@
         "cn_name": "定制弩配件套装",
         "en_name": "Customized Crossbow Accessory Suit",
         "image": "uniequip_002_shwaz.png",
-        "unlocked": "48.21",
-        "level_one": "32.36",
+        "unlocked": "48.16",
+        "level_one": "32.42",
         "level_two": "11.69",
         "level_three": "7.74"
       },
@@ -1891,10 +1891,10 @@
         "cn_name": "儿时的舞乐",
         "en_name": "Childhood Frolic",
         "image": "skchr_lisa_2.png",
-        "unspecialized": "27.82",
+        "unspecialized": "27.77",
         "specialization_one": "28.51",
         "specialization_two": "3.73",
-        "specialization_three": "39.94"
+        "specialization_three": "39.99"
       },
       {
         "id": "char_358_lisa_skill_3",
