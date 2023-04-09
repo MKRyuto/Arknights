@@ -3110,10 +3110,10 @@
         "cn_name": "生存的渴望",
         "en_name": "The Thirst to Survive",
         "image": "skchr_ghost2_2.png",
-        "unspecialized": "32.01",
+        "unspecialized": "31.95",
         "specialization_one": "3.33",
         "specialization_two": "3.79",
-        "specialization_three": "60.86"
+        "specialization_three": "60.92"
       },
       {
         "id": "char_1023_ghost2_skill_3",
