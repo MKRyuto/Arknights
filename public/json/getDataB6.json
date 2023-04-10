@@ -2432,10 +2432,10 @@
     "en_name": "Fartooth",
     "image": "char_430_fartth.png",
     "number_sample": 2507,
-    "holding_rate": "53.13",
-    "non_elite": "21.55",
+    "holding_rate": "53.09",
+    "non_elite": "21.56",
     "elite_one": "7.81",
-    "elite_two": "70.65",
+    "elite_two": "70.62",
     "skills": [
       {
         "id": "char_430_fartth_skill_1",
@@ -2457,7 +2457,7 @@
         "unspecialized": "94.26",
         "specialization_one": "1.17",
         "specialization_two": "0.32",
-        "specialization_three": "4.25"
+        "specialization_three": "4.26"
       },
       {
         "id": "char_430_fartth_skill_3",
@@ -2465,10 +2465,10 @@
         "cn_name": "光羽箭",
         "en_name": "Feathershine Arrows",
         "image": "skchr_fartth_3.png",
-        "unspecialized": "39.43",
+        "unspecialized": "39.36",
         "specialization_one": "2.66",
-        "specialization_two": "2.76",
-        "specialization_three": "55.15"
+        "specialization_two": "2.77",
+        "specialization_three": "55.21"
       }
     ],
     "modules": [
@@ -2478,8 +2478,8 @@
         "cn_name": "首战支援套组",
         "en_name": "First-show Support Set",
         "image": "uniequip_002_fartth.png",
-        "unlocked": "46.76",
-        "level_one": "50.16",
+        "unlocked": "46.70",
+        "level_one": "50.21",
         "level_two": "1.06",
         "level_three": "2.02"
       },
@@ -2489,7 +2489,7 @@
         "cn_name": "支持者来信",
         "en_name": "Fan Letters",
         "image": "uniequip_003_fartth.png",
-        "unlocked": "94.16",
+        "unlocked": "94.15",
         "level_one": "5.53",
         "level_two": "0.00",
         "level_three": "0.32"
@@ -3111,9 +3111,9 @@
         "en_name": "The Thirst to Survive",
         "image": "skchr_ghost2_2.png",
         "unspecialized": "31.95",
-        "specialization_one": "3.28",
+        "specialization_one": "3.33",
         "specialization_two": "3.79",
-        "specialization_three": "60.98"
+        "specialization_three": "60.92"
       },
       {
         "id": "char_1023_ghost2_skill_3",
