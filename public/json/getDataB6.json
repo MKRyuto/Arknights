@@ -387,10 +387,10 @@
         "cn_name": "炎爆",
         "en_name": "Pyroclasm",
         "image": "skchr_ifrit_2.png",
-        "unspecialized": "4.79",
+        "unspecialized": "4.74",
         "specialization_one": "13.20",
         "specialization_two": "5.06",
-        "specialization_three": "76.96"
+        "specialization_three": "77.00"
       },
       {
         "id": "char_134_ifrit_skill_3",
