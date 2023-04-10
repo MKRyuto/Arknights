@@ -1653,9 +1653,9 @@
         "en_name": "Honored Guest",
         "image": "skchr_lmlee_3.png",
         "unspecialized": "27.44",
-        "specialization_one": "3.00",
+        "specialization_one": "2.93",
         "specialization_two": "2.02",
-        "specialization_three": "67.54"
+        "specialization_three": "67.60"
       }
     ],
     "modules": [
@@ -2118,10 +2118,10 @@
         "cn_name": "液氮大炮",
         "en_name": "Liquid Nitrogen Cannon",
         "image": "skchr_weedy_3.png",
-        "unspecialized": "28.69",
+        "unspecialized": "28.63",
         "specialization_one": "2.77",
         "specialization_two": "2.05",
-        "specialization_three": "66.48"
+        "specialization_three": "66.54"
       }
     ],
     "modules": [
