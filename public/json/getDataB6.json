@@ -447,10 +447,10 @@
         "cn_name": "荆棘",
         "en_name": "Thorns",
         "image": "skchr_hsguma_2.png",
-        "unspecialized": "41.59",
+        "unspecialized": "41.54",
         "specialization_one": "6.30",
         "specialization_two": "6.15",
-        "specialization_three": "45.96"
+        "specialization_three": "46.01"
       },
       {
         "id": "char_136_hsguma_skill_3",
@@ -2298,10 +2298,10 @@
         "cn_name": "慑敌辉光",
         "en_name": "Deterring Radiance",
         "image": "skchr_blemsh_2.png",
-        "unspecialized": "61.35",
+        "unspecialized": "61.29",
         "specialization_one": "3.98",
         "specialization_two": "3.05",
-        "specialization_three": "31.61"
+        "specialization_three": "31.67"
       },
       {
         "id": "char_423_blemsh_skill_3",
@@ -3289,10 +3289,10 @@
         "cn_name": "乱舞",
         "en_name": "-",
         "image": "skchr_yato2_2.png",
-        "unspecialized": "29.21",
+        "unspecialized": "28.97",
         "specialization_one": "1.87",
         "specialization_two": "3.97",
-        "specialization_three": "64.95"
+        "specialization_three": "65.19"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3300,10 +3300,10 @@
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.68",
+        "unspecialized": "36.45",
         "specialization_one": "2.34",
         "specialization_two": "1.64",
-        "specialization_three": "59.35"
+        "specialization_three": "59.58"
       }
     ],
     "modules": [
@@ -3611,10 +3611,10 @@
         "cn_name": "我无",
         "en_name": "-",
         "image": "skchr_chyue_3.png",
-        "unspecialized": "8.09",
+        "unspecialized": "8.02",
         "specialization_one": "0.55",
         "specialization_two": "1.70",
-        "specialization_three": "89.67"
+        "specialization_three": "89.73"
       }
     ],
     "modules": []
@@ -4065,10 +4065,10 @@
         "cn_name": "披荆斩棘",
         "en_name": "-",
         "image": "skchr_judge_3.png",
-        "unspecialized": "49.82",
+        "unspecialized": "49.74",
         "specialization_one": "4.84",
         "specialization_two": "2.13",
-        "specialization_three": "43.21"
+        "specialization_three": "43.29"
       }
     ],
     "modules": []
