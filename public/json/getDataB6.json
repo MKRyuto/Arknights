@@ -112,10 +112,10 @@
         "cn_name": "罗德岛制式剑",
         "en_name": "Rhodes Island Standard Combat Sword",
         "image": "uniequip_002_chen.png",
-        "unlocked": "46.72",
+        "unlocked": "46.78",
         "level_one": "23.22",
         "level_two": "7.83",
-        "level_three": "22.22"
+        "level_three": "22.17"
       }
     ]
   },
@@ -126,7 +126,7 @@
     "en_name": "Blaze",
     "image": "char_017_huang.png",
     "number_sample": 2537,
-    "holding_rate": "87.19",
+    "holding_rate": "87.15",
     "non_elite": "1.13",
     "elite_one": "1.13",
     "elite_two": "97.74",
@@ -1393,9 +1393,9 @@
     "image": "char_291_aglina.png",
     "number_sample": 2498,
     "holding_rate": "84.95",
-    "non_elite": "4.85",
+    "non_elite": "4.90",
     "elite_one": "4.10",
-    "elite_two": "91.05",
+    "elite_two": "91.00",
     "skills": [
       {
         "id": "char_291_aglina_skill_1",
@@ -1414,10 +1414,10 @@
         "cn_name": "秘杖·微粒模式",
         "en_name": "Arcane Staff - Particle Mode",
         "image": "skchr_aglina_2.png",
-        "unspecialized": "50.67",
+        "unspecialized": "50.65",
         "specialization_one": "4.14",
         "specialization_two": "1.97",
-        "specialization_three": "43.22"
+        "specialization_three": "43.24"
       },
       {
         "id": "char_291_aglina_skill_3",
@@ -1425,10 +1425,10 @@
         "cn_name": "秘杖·反重力模式",
         "en_name": "Arcane Staff - Anti-Gravity Mode",
         "image": "skchr_aglina_3.png",
-        "unspecialized": "20.60",
-        "specialization_one": "4.81",
+        "unspecialized": "20.56",
+        "specialization_one": "4.82",
         "specialization_two": "2.90",
-        "specialization_three": "71.69"
+        "specialization_three": "71.72"
       }
     ],
     "modules": [
@@ -1439,7 +1439,7 @@
         "en_name": "-",
         "image": "uniequip_003_aglina.png",
         "unlocked": "85.66",
-        "level_one": "11.85",
+        "level_one": "11.86",
         "level_two": "0.47",
         "level_three": "2.02"
       },
@@ -1449,9 +1449,9 @@
         "cn_name": "重力校准模块",
         "en_name": "Gravity Calibration Module",
         "image": "uniequip_002_aglina.png",
-        "unlocked": "71.69",
-        "level_one": "25.57",
-        "level_two": "0.72",
+        "unlocked": "71.67",
+        "level_one": "25.58",
+        "level_two": "0.73",
         "level_three": "2.02"
       }
     ]
@@ -1665,8 +1665,8 @@
         "cn_name": "“无问吉凶”",
         "en_name": "'Wandering'",
         "image": "uniequip_002_lmlee.png",
-        "unlocked": "14.80",
-        "level_one": "59.39",
+        "unlocked": "14.86",
+        "level_one": "59.32",
         "level_two": "10.82",
         "level_three": "14.99"
       }
@@ -3026,10 +3026,10 @@
         "cn_name": "耀阳锋刃",
         "en_name": "Blade of Blazing Sun",
         "image": "uniequip_002_nearl2.png",
-        "unlocked": "11.41",
-        "level_one": "30.51",
+        "unlocked": "11.47",
+        "level_one": "30.56",
         "level_two": "14.58",
-        "level_three": "43.50"
+        "level_three": "43.39"
       }
     ]
   },
@@ -3328,9 +3328,9 @@
     "image": "char_2013_cerber.png",
     "number_sample": 2509,
     "holding_rate": "81.07",
-    "non_elite": "7.62",
+    "non_elite": "7.67",
     "elite_one": "6.34",
-    "elite_two": "86.04",
+    "elite_two": "85.99",
     "skills": [
       {
         "id": "char_2013_cerber_skill_1",
@@ -3349,10 +3349,10 @@
         "cn_name": "“很热的刀”",
         "en_name": "'Really Hot Knives'",
         "image": "skchr_cerber_2.png",
-        "unspecialized": "28.97",
+        "unspecialized": "28.93",
         "specialization_one": "10.63",
-        "specialization_two": "2.91",
-        "specialization_three": "57.49"
+        "specialization_two": "2.92",
+        "specialization_three": "57.52"
       },
       {
         "id": "char_2013_cerber_skill_3",
@@ -3373,10 +3373,10 @@
         "cn_name": "“很干的面包”",
         "en_name": "-",
         "image": "uniequip_002_cerber.png",
-        "unlocked": "66.65",
-        "level_one": "9.28",
+        "unlocked": "66.62",
+        "level_one": "9.29",
         "level_two": "9.67",
-        "level_three": "14.40"
+        "level_three": "14.41"
       }
     ]
   },
