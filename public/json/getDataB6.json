@@ -291,8 +291,8 @@
         "cn_name": "“初诺”",
         "en_name": "-",
         "image": "uniequip_003_siege.png",
-        "unlocked": "91.15",
-        "level_one": "6.39",
+        "unlocked": "90.91",
+        "level_one": "6.63",
         "level_two": "0.98",
         "level_three": "1.47"
       }
@@ -542,8 +542,8 @@
         "cn_name": "“使徒”",
         "en_name": "-",
         "image": "uniequip_003_shining.png",
-        "unlocked": "93.49",
-        "level_one": "4.42",
+        "unlocked": "93.26",
+        "level_one": "4.65",
         "level_two": "1.63",
         "level_three": "0.47"
       },
@@ -2131,8 +2131,8 @@
         "cn_name": "仿生海龙改型",
         "en_name": "-",
         "image": "uniequip_002_weedy.png",
-        "unlocked": "88.09",
-        "level_one": "8.68",
+        "unlocked": "87.84",
+        "level_one": "8.93",
         "level_two": "0.50",
         "level_three": "2.73"
       }
