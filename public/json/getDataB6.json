@@ -828,10 +828,10 @@
         "cn_name": "雪崩击",
         "en_name": "Avalanche Breaker",
         "image": "skchr_poca_3.png",
-        "unspecialized": "31.51",
+        "unspecialized": "31.45",
         "specialization_one": "2.73",
         "specialization_two": "3.96",
-        "specialization_three": "61.79"
+        "specialization_three": "61.86"
       }
     ],
     "modules": [
@@ -841,10 +841,10 @@
         "cn_name": "攻城器械训练装置",
         "en_name": "-",
         "image": "uniequip_002_poca.png",
-        "unlocked": "43.86",
+        "unlocked": "43.79",
         "level_one": "5.00",
         "level_two": "5.65",
-        "level_three": "45.48"
+        "level_three": "45.55"
       }
     ]
   },
@@ -878,9 +878,9 @@
         "en_name": "Medicine Dispensing",
         "image": "skchr_demkni_2.png",
         "unspecialized": "19.87",
-        "specialization_one": "7.54",
+        "specialization_one": "7.49",
         "specialization_two": "5.35",
-        "specialization_three": "67.24"
+        "specialization_three": "67.28"
       },
       {
         "id": "char_202_demkni_skill_3",
@@ -1297,8 +1297,8 @@
         "image": "skchr_skadi_2.png",
         "unspecialized": "58.80",
         "specialization_one": "4.75",
-        "specialization_two": "3.34",
-        "specialization_three": "33.11"
+        "specialization_two": "3.28",
+        "specialization_three": "33.16"
       },
       {
         "id": "char_263_skadi_skill_3",
@@ -3193,9 +3193,9 @@
         "en_name": "Soul of the Jungle",
         "image": "skchr_gvial2_3.png",
         "unspecialized": "51.87",
-        "specialization_one": "5.60",
+        "specialization_one": "5.54",
         "specialization_two": "1.97",
-        "specialization_three": "40.57"
+        "specialization_three": "40.62"
       }
     ],
     "modules": []
@@ -3410,9 +3410,9 @@
         "en_name": "Copper Seal",
         "image": "skchr_nian_2.png",
         "unspecialized": "55.08",
-        "specialization_one": "4.63",
+        "specialization_one": "4.56",
         "specialization_two": "3.32",
-        "specialization_three": "36.97"
+        "specialization_three": "37.04"
       },
       {
         "id": "char_2014_nian_skill_3",
