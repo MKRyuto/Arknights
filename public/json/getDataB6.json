@@ -3313,9 +3313,9 @@
         "cn_name": "训练用木桩",
         "en_name": "-",
         "image": "uniequip_002_yato2.png",
-        "unlocked": "33.80",
+        "unlocked": "33.57",
         "level_one": "42.72",
-        "level_two": "9.39",
+        "level_two": "9.62",
         "level_three": "14.08"
       }
     ]
@@ -3878,8 +3878,8 @@
     "number_sample": 2498,
     "holding_rate": "45.40",
     "non_elite": "10.49",
-    "elite_one": "4.67",
-    "elite_two": "84.83",
+    "elite_one": "4.59",
+    "elite_two": "84.92",
     "skills": [
       {
         "id": "char_4048_doroth_skill_1",
@@ -3887,7 +3887,7 @@
         "cn_name": "危险目标清除",
         "en_name": "Dangerous Entity Removal",
         "image": "skchr_doroth_1.png",
-        "unspecialized": "97.19",
+        "unspecialized": "97.20",
         "specialization_one": "0.62",
         "specialization_two": "0.00",
         "specialization_three": "2.18"
@@ -3898,10 +3898,10 @@
         "cn_name": "流沙区域生成",
         "en_name": "Quicksand Generation",
         "image": "skchr_doroth_2.png",
-        "unspecialized": "67.26",
+        "unspecialized": "67.29",
         "specialization_one": "1.87",
         "specialization_two": "2.08",
-        "specialization_three": "28.79"
+        "specialization_three": "28.76"
       },
       {
         "id": "char_4048_doroth_skill_3",
@@ -3909,10 +3909,10 @@
         "cn_name": "高速共振排障",
         "en_name": "High-speed Resonating Troubleshooter",
         "image": "skchr_doroth_3.png",
-        "unspecialized": "45.63",
+        "unspecialized": "45.69",
         "specialization_one": "3.43",
         "specialization_two": "2.60",
-        "specialization_three": "48.34"
+        "specialization_three": "48.29"
       }
     ],
     "modules": []
