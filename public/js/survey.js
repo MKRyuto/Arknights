@@ -53,7 +53,6 @@ $(document).ready(function () {
     $("#clear-input").click(function () {
       $("#search-input").val("");
       inputSearch = null;
-      console.log(selectedValue);
       if (selectedValue == "ALL") {
         showData(jsonData);
       } else {
