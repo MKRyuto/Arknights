@@ -1034,7 +1034,7 @@
     "en_name": "Bagpipe",
     "image": "char_222_bpipe.png",
     "number_sample": 2548,
-    "holding_rate": "87.28",
+    "holding_rate": "87.32",
     "non_elite": "0.22",
     "elite_one": "0.63",
     "elite_two": "99.15",
@@ -1056,10 +1056,10 @@
         "cn_name": "高效冲击",
         "en_name": "High-Impact Assault",
         "image": "skchr_bpipe_2.png",
-        "unspecialized": "14.97",
-        "specialization_one": "2.00",
-        "specialization_two": "4.54",
-        "specialization_three": "78.50"
+        "unspecialized": "15.00",
+        "specialization_one": "1.99",
+        "specialization_two": "4.53",
+        "specialization_three": "78.47"
       },
       {
         "id": "char_222_bpipe_skill_3",
@@ -1067,10 +1067,10 @@
         "cn_name": "闭膛连发",
         "en_name": "Locked Breech Burst",
         "image": "skchr_bpipe_3.png",
-        "unspecialized": "15.01",
+        "unspecialized": "15.05",
         "specialization_one": "4.90",
         "specialization_two": "2.54",
-        "specialization_three": "77.55"
+        "specialization_three": "77.52"
       }
     ],
     "modules": [
@@ -1080,10 +1080,10 @@
         "cn_name": "破城矛弹夹",
         "en_name": "Piledriver Spear Magazine",
         "image": "uniequip_002_bpipe.png",
-        "unlocked": "7.39",
-        "level_one": "32.83",
-        "level_two": "9.71",
-        "level_three": "50.07"
+        "unlocked": "7.43",
+        "level_one": "32.82",
+        "level_two": "9.70",
+        "level_three": "50.05"
       }
     ]
   },
@@ -3291,8 +3291,8 @@
         "image": "skchr_yato2_2.png",
         "unspecialized": "29.17",
         "specialization_one": "1.85",
-        "specialization_two": "3.94",
-        "specialization_three": "65.05"
+        "specialization_two": "3.70",
+        "specialization_three": "65.28"
       },
       {
         "id": "char_1029_yato2_skill_3",
@@ -3300,9 +3300,9 @@
         "cn_name": "空中回旋乱舞",
         "en_name": "-",
         "image": "skchr_yato2_3.png",
-        "unspecialized": "36.57",
+        "unspecialized": "36.34",
         "specialization_one": "2.31",
-        "specialization_two": "1.62",
+        "specialization_two": "1.85",
         "specialization_three": "59.49"
       }
     ],
